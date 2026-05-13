@@ -30,10 +30,10 @@ npm run build
 Create a `.env` file (optional):
 
 ```env
-VITE_API_URL=http://localhost:8000
+VITE_API_URL=https://business-listings-dashboard-scraper-demo-7wpk.onrender.com
 ```
 
-If not set, the Vite dev server proxies `/api` requests to `localhost:8000`.
+If not set, the Vite dev server proxies `/api` requests to `https://business-listings-dashboard-scraper-demo-7wpk.onrender.com`.
 
 ## Project Structure
 

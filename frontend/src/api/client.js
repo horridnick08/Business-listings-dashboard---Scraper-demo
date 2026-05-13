@@ -1,9 +1,3 @@
-/**
- * Axios API Client
- * ================
- * Centralized HTTP client with base URL config, interceptors,
- * and simple in-memory response caching.
- */
 
 import axios from 'axios';
 

@@ -53,4 +53,4 @@ This generates `seed_data.json` (500+ listings) which is auto-loaded on startup.
 
 ## Swagger Docs
 
-Visit `http://localhost:8000/docs` for interactive API documentation.
+Visit `https://business-listings-dashboard-scraper-demo-7wpk.onrender.com` for interactive API documentation.

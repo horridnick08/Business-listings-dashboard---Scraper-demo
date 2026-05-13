@@ -172,8 +172,8 @@ docker-compose up --build
 ```
 
 - Frontend: `http://localhost:3000`
-- Backend: `http://localhost:8000`
-- Swagger: `http://localhost:8000/docs`
+- Backend: `https://business-listings-dashboard-scraper-demo-7wpk.onrender.com`
+- Swagger: `https://business-listings-dashboard-scraper-demo-7wpk.onrender.com/docs`
 
 ---
 
@@ -224,7 +224,7 @@ Then set `USE_SQLITE=False` in `.env` with your MySQL credentials.
 
 ## 📡 API Documentation
 
-Interactive Swagger UI: `http://localhost:8000/docs`
+Interactive Swagger UI: `https://business-listings-dashboard-scraper-demo-7wpk.onrender.com/docs`
 
 ### Key Endpoints
 
