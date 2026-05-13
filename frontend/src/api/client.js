@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 // Base URL — uses Vite proxy in dev, direct URL in production
-const API_BASE_URL = 'https://business-listings-dashboard-scraper-demo-7vpk.onrender.com';
+const API_BASE_URL = 'https://business-listings-dashboard-scraper-demo-7wpk.onrender.com';
 
 const client = axios.create({
   baseURL: API_BASE_URL,
