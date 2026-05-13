@@ -1,6 +1,6 @@
 # 📊 Business Listings Dashboard
 
-A **production-quality full-stack dashboard** that scrapes, stores, and visualizes 500+ business listings across Indian cities. Built with FastAPI, React, and MySQL.
+A **production-quality full-stack dashboard** that scrapes, stores, and visualizes 500+ business listings across Indian cities using FastAPI, React, and MySQL/SQLite.
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi)
@@ -11,75 +11,97 @@ A **production-quality full-stack dashboard** that scrapes, stores, and visualiz
 
 ---
 
-## 🎯 Project Overview
+# 🎯 Project Overview
 
 This project demonstrates a complete data pipeline:
 
-1. **Scrape** 500+ business listings from multiple sources
-2. **Store** structured data in MySQL (SQLite for local dev)
-3. **Expose** analytics via RESTful FastAPI endpoints
-4. **Visualize** insights in a stunning React dashboard
+1. Scrape 500+ business listings from multiple sources
+2. Store structured business data in MySQL / SQLite
+3. Expose analytics using FastAPI REST APIs
+4. Visualize business insights in a React dashboard
 
 ---
 
-## ✨ Features
+# 🌐 Live Demo
 
-### Backend
-- ✅ FastAPI with auto-generated Swagger docs
-- ✅ SQLAlchemy ORM with proper indexing
-- ✅ Pydantic v2 validation schemas
-- ✅ Pagination, filtering, search, and sorting
-- ✅ City/Category/Source analytics aggregation
+## Frontend
+https://business-dashboard-frontend-airu.onrender.com
+
+## Backend API
+https://business-listings-dashboard-scraper-demo-7wpk.onrender.com
+
+## Swagger Documentation
+https://business-listings-dashboard-scraper-demo-7wpk.onrender.com/docs
+
+---
+
+# ✨ Features
+
+## Backend Features
+
+- ✅ FastAPI backend with Swagger documentation
+- ✅ SQLAlchemy ORM integration
+- ✅ MySQL + SQLite support
+- ✅ Pydantic v2 validation
+- ✅ Pagination, filtering, search & sorting
+- ✅ Analytics APIs
 - ✅ CSV export endpoint
-- ✅ Scraper with realistic mock data generation
-- ✅ CORS, error handling, logging
-- ✅ Auto-seeding on startup
+- ✅ Scraper API support
+- ✅ Mock data generator for 500+ listings
+- ✅ Logging and error handling
+- ✅ Auto database seeding
+- ✅ CORS support for frontend integration
 
-### Frontend
-- ✅ React 18 + Vite (blazing fast)
-- ✅ Tailwind CSS with custom design system
-- ✅ Recharts — Bar, Pie, Doughnut charts
-- ✅ Responsive sidebar layout
-- ✅ Debounced global search
-- ✅ Skeleton loaders & loading states
-- ✅ Error boundaries
+---
+
+## Frontend Features
+
+- ✅ React 18 + Vite
+- ✅ Tailwind CSS UI
+- ✅ Responsive dashboard layout
+- ✅ Sidebar navigation
+- ✅ Recharts analytics charts
+- ✅ Pie charts & bar charts
+- ✅ Search and filtering
+- ✅ Paginated listings table
 - ✅ Toast notifications
 - ✅ CSV export button
 - ✅ Scraper control panel
-- ✅ Paginated data table with sorting
-- ✅ Filter dropdowns (city, category, source)
-- ✅ API response caching
+- ✅ API caching
+- ✅ Loading skeletons
+- ✅ Error handling UI
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 | Layer | Technology |
-|-------|-----------|
-| **Frontend** | React 18, Vite, Tailwind CSS 3, Recharts, Axios, Lucide Icons |
-| **Backend** | Python 3.13, FastAPI, SQLAlchemy, Pydantic v2, Uvicorn |
-| **Database** | MySQL 8.0 (production) / SQLite (development) |
-| **Scraping** | BeautifulSoup4, Requests, Fake-UserAgent |
-| **DevOps** | Docker, Docker Compose |
+|-------|------------|
+| Frontend | React 18, Vite, Tailwind CSS, Recharts, Axios |
+| Backend | FastAPI, Python 3.13, SQLAlchemy, Pydantic |
+| Database | MySQL 8 / SQLite |
+| Scraping | BeautifulSoup4, Requests, Fake-UserAgent |
+| Deployment | Render |
+| DevOps | Docker, Docker Compose |
 
 ---
 
-## 📁 Folder Structure
+# 📁 Folder Structure
 
-```
+```bash
 business-listings-dashboard/
 │
 ├── backend/
 │   ├── app/
-│   │   ├── api/            # FastAPI route handlers
-│   │   ├── models/         # SQLAlchemy ORM models
-│   │   ├── schemas/        # Pydantic validation schemas
-│   │   ├── database/       # DB engine & session setup
-│   │   ├── services/       # Business logic layer
-│   │   ├── scraper/        # Web scraper / mock generator
-│   │   ├── utils/          # Logger, validators
-│   │   ├── main.py         # FastAPI app entry point
-│   │   └── config.py       # Environment configuration
+│   │   ├── api/
+│   │   ├── database/
+│   │   ├── models/
+│   │   ├── schemas/
+│   │   ├── services/
+│   │   ├── scraper/
+│   │   ├── utils/
+│   │   ├── config.py
+│   │   └── main.py
 │   │
 │   ├── requirements.txt
 │   ├── .env.example
@@ -88,202 +110,300 @@ business-listings-dashboard/
 │
 ├── frontend/
 │   ├── src/
-│   │   ├── api/            # Axios client & API functions
-│   │   ├── components/     # Reusable UI components
-│   │   ├── pages/          # Route pages
-│   │   ├── charts/         # Recharts components
-│   │   ├── layouts/        # Layout components
-│   │   ├── hooks/          # Custom React hooks
+│   │   ├── api/
+│   │   ├── components/
+│   │   ├── charts/
+│   │   ├── hooks/
+│   │   ├── layouts/
+│   │   ├── pages/
 │   │   ├── App.jsx
 │   │   └── main.jsx
 │   │
 │   ├── package.json
 │   ├── vite.config.js
+│   ├── .env
 │   └── Dockerfile
 │
 ├── database/
 │   └── listing_master.sql
 │
-├── screenshots/
 ├── docker-compose.yml
 └── README.md
 ```
 
 ---
 
-## 🚀 Setup Instructions
+# 🚀 Setup Instructions
 
-### Prerequisites
+# Prerequisites
 
 - Python 3.10+
 - Node.js 18+
-- MySQL 8.0 (optional — SQLite works for development)
+- MySQL 8 (optional)
+- Git
 
-### 1. Clone the Repository
+---
+
+# 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/business-listings-dashboard.git
-cd business-listings-dashboard
+git clone https://github.com/horridnick08/Business-listings-dashboard---Scraper-demo.git
+
+cd Business-listings-dashboard---Scraper-demo
 ```
 
-### 2. Backend Setup
+---
+
+# 2. Backend Setup
 
 ```bash
 cd backend
 
-# Create virtual environment (optional)
 python -m venv venv
-venv\Scripts\activate  # Windows
-# source venv/bin/activate  # Linux/Mac
+
+# Windows
+venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Copy environment file
-cp .env.example .env
-
-# Generate seed data (500+ listings)
-python -m app.scraper.scraper
-
-# Start the server
+# Start FastAPI server
 uvicorn app.main:app --reload --port 8000
 ```
 
-The backend auto-seeds the database on first startup if `seed_data.json` exists.
+Backend runs at:
 
-### 3. Frontend Setup
+```bash
+http://localhost:8000
+```
+
+Swagger docs:
+
+```bash
+http://localhost:8000/docs
+```
+
+---
+
+# 3. Frontend Setup
 
 ```bash
 cd frontend
 
-# Install dependencies
 npm install
 
-# Start development server
 npm run dev
 ```
 
-Open `http://localhost:5173` in your browser.
+Frontend runs at:
 
-### 4. Docker Setup (Alternative)
+```bash
+http://localhost:5173
+```
+
+---
+
+# 4. Docker Setup
 
 ```bash
 docker-compose up --build
 ```
 
-- Frontend: `http://localhost:3000`
-- Backend: `https://business-listings-dashboard-scraper-demo-7wpk.onrender.com`
-- Swagger: `https://business-listings-dashboard-scraper-demo-7wpk.onrender.com/docs`
+---
+
+# 🔐 Environment Variables
+
+## Backend (.env)
+
+```env
+APP_NAME=Business Listings Dashboard
+APP_VERSION=1.0.0
+DEBUG=True
+
+USE_SQLITE=True
+SQLITE_URL=sqlite:///./business_listings.db
+
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=root
+DB_PASSWORD=your_password
+DB_NAME=business_listings
+
+CORS_ORIGINS=["https://business-dashboard-frontend-airu.onrender.com"]
+
+SCRAPER_MODE=mock
+SCRAPER_LISTING_COUNT=500
+SCRAPER_REQUEST_DELAY=1.0
+```
 
 ---
 
-## 🔐 Environment Variables
+## Frontend (.env)
 
-### Backend (`.env`)
-
-| Variable | Default | Description |
-|----------|---------|-------------|
-| `USE_SQLITE` | `True` | Use SQLite for development |
-| `DB_HOST` | `localhost` | MySQL host |
-| `DB_PORT` | `3306` | MySQL port |
-| `DB_USER` | `root` | MySQL user |
-| `DB_PASSWORD` | `` | MySQL password |
-| `DB_NAME` | `business_listings` | Database name |
-| `DEBUG` | `True` | Enable debug mode |
-| `SCRAPER_MODE` | `mock` | Scraper mode (mock/live) |
-
-### Frontend (`.env`)
-
-| Variable | Default | Description |
-|----------|---------|-------------|
-| `VITE_API_URL` | `/api` (proxy) | Backend API URL |
+```env
+VITE_API_URL=https://business-listings-dashboard-scraper-demo-7wpk.onrender.com
+```
 
 ---
 
-## 🗄️ Database Setup
+# 🗄️ Database Setup
 
-### Using SQLite (Default — No Setup Required)
+## SQLite (Default)
 
-Set `USE_SQLITE=True` in `.env`. The database is created automatically.
+No setup required.
 
-### Using MySQL
+Database auto-creates on startup.
+
+---
+
+## MySQL Setup
 
 ```sql
 CREATE DATABASE business_listings;
 ```
 
-Or run the provided schema:
+Run schema:
 
 ```bash
 mysql -u root -p < database/listing_master.sql
 ```
 
-Then set `USE_SQLITE=False` in `.env` with your MySQL credentials.
+---
+
+# 📡 API Documentation
+
+Swagger Docs:
+
+https://business-listings-dashboard-scraper-demo-7wpk.onrender.com/docs
 
 ---
 
-## 📡 API Documentation
-
-Interactive Swagger UI: `https://business-listings-dashboard-scraper-demo-7wpk.onrender.com/docs`
-
-### Key Endpoints
+# Key API Endpoints
 
 | Method | Endpoint | Description |
-|--------|----------|-------------|
-| `GET` | `/health` | Health check |
-| `GET` | `/listings?page=1&search=hotel&city=Mumbai` | Paginated listings |
-| `POST` | `/listings` | Create listing |
-| `POST` | `/listings/bulk` | Bulk insert |
-| `GET` | `/analytics/city-wise` | City analytics |
-| `GET` | `/analytics/category-wise` | Category analytics |
-| `GET` | `/analytics/source-wise` | Source analytics |
-| `GET` | `/analytics/summary` | Dashboard summary |
-| `GET` | `/export/csv` | Download CSV |
-| `POST` | `/scraper/run` | Trigger scraper |
+|--------|-----------|-------------|
+| GET | /health | Health check |
+| GET | /listings | Fetch listings |
+| POST | /listings | Create listing |
+| POST | /listings/bulk | Bulk insert |
+| GET | /analytics/city-wise | City analytics |
+| GET | /analytics/category-wise | Category analytics |
+| GET | /analytics/source-wise | Source analytics |
+| GET | /analytics/summary | Dashboard summary |
+| GET | /export/csv | Export CSV |
+| POST | /scraper/run | Run scraper |
 
 ---
 
-## 📸 Screenshots
+# 📊 Dashboard Analytics
 
-> Screenshots will be added after running the application.
+The dashboard visualizes:
 
-See the `screenshots/` directory.
-
----
-
-## 🧗 Challenges Faced
-
-1. **Web Scraping Restrictions**: Real scraping of Justdial/Sulekha is blocked by anti-bot measures. Solved by creating a realistic mock data generator that produces 500+ Indian business listings with proper names, categories, cities, and phone numbers.
-
-2. **Cross-Database Compatibility**: Supporting both SQLite (development) and MySQL (production) required careful ORM configuration to handle dialect differences.
-
-3. **Frontend Performance**: Rendering 500+ rows in a table required pagination, virtual loading, and API-level filtering to keep the UI responsive.
-
-4. **Data Deduplication**: Ensuring unique listings across multiple scraper runs required composite key validation on business name + city.
+- City-wise business count
+- Category-wise business count
+- Source-wise business count
+- Total listings summary
+- Top cities by listings
+- Category distribution
 
 ---
 
-## 🔮 Future Improvements
+# 🚀 Deployment
 
-- [ ] Add user authentication (JWT)
-- [ ] Implement real-time scraping with Selenium/Playwright
-- [ ] Add data export in Excel format
-- [ ] Implement data visualization map view (Mapbox/Leaflet)
-- [ ] Add scheduled scraping with Celery
-- [ ] Implement WebSocket for live scraper progress
-- [ ] Add unit and integration tests (pytest + React Testing Library)
-- [ ] CI/CD pipeline with GitHub Actions
-- [ ] Rate limiting and API key authentication
-- [ ] Advanced analytics (time-series trends, growth metrics)
+Both frontend and backend are deployed on Render.
+
+## Frontend Deployment
+
+- Platform: Render Static Site
+- Framework: React + Vite
+
+Frontend URL:
+
+https://business-dashboard-frontend-airu.onrender.com
 
 ---
 
-## 📄 License
+## Backend Deployment
 
-This project is built for educational and internship-showcase purposes.
+- Platform: Render Web Service
+- Framework: FastAPI + Uvicorn
+
+Backend URL:
+
+https://business-listings-dashboard-scraper-demo-7wpk.onrender.com
+
+Swagger Docs:
+
+https://business-listings-dashboard-scraper-demo-7wpk.onrender.com/docs
+
+---
+
+# 🧗 Challenges Faced
+
+## 1. Web Scraping Restrictions
+
+Many business directory websites use anti-bot protection and dynamic rendering, making direct scraping difficult.
+
+To solve this, a realistic mock-data generator was implemented alongside structured scraping logic to simulate 500+ business listings while preserving the overall scraping workflow.
+
+---
+
+## 2. Frontend-Backend Integration
+
+Handling CORS issues during production deployment required proper FastAPI middleware configuration and environment-based API handling.
+
+---
+
+## 3. Cross Database Compatibility
+
+Supporting both SQLite (development) and MySQL (production) required careful ORM configuration.
+
+---
+
+## 4. Dashboard Performance
+
+Rendering large datasets required pagination, caching, filtering, and optimized API responses.
+
+---
+
+# 🔮 Future Improvements
+
+- JWT Authentication
+- Real-time scraper progress
+- Live scraping using Selenium
+- Excel export support
+- Interactive map analytics
+- Scheduled scraping jobs
+- WebSocket integration
+- Unit testing
+- CI/CD pipeline
+- API rate limiting
+
+---
+
+# 📬 Internship Assignment Submission
+
+This project was developed as part of the Python Development Intern technical assignment for Honeybee Digital.
+
+## Assignment Requirements Covered
+
+- ✅ 500+ business listings
+- ✅ FastAPI backend APIs
+- ✅ React dashboard frontend
+- ✅ MySQL/SQLite integration
+- ✅ Data analytics visualization
+- ✅ CSV export functionality
+- ✅ Swagger API documentation
+- ✅ Render deployment
+
+---
+
+# 📄 License
+
+This project is built for educational and internship showcase purposes.
 
 ---
 
 <p align="center">
-  Built with ❤️ using FastAPI + React + Tailwind CSS
+Built with ❤️ using FastAPI + React + Tailwind CSS
 </p>
