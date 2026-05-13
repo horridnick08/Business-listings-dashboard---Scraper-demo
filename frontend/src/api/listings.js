@@ -1,8 +1,4 @@
-/**
- * Listings API Functions
- * ======================
- * All API calls for listings, analytics, export, and scraper.
- */
+
 
 import client, { cachedGet, clearCache } from './client';
 
