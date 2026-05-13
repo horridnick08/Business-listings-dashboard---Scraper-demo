@@ -1,9 +1,3 @@
-"""
-FastAPI Application Entry Point
-================================
-Configures and launches the Business Listings Dashboard API
-with CORS, routing, Swagger docs, and database initialization.
-"""
 
 import json
 import os
