@@ -1,0 +1,66 @@
+version: "3.8"
+
+# =====================================================================
+# Business Listings Dashboard — Docker Compose
+# =====================================================================
+# Spins up MySQL, FastAPI backend, and React frontend.
+# Usage: docker-compose up --build
+# =====================================================================
+
+services:
+  # ── MySQL Database ─────────────────────────────────────────────
+  mysql:
+    image: mysql:8.0
+    container_name: bld-mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: business_listings
+      MYSQL_USER: bld_user
+      MYSQL_PASSWORD: bld_password
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./database/listing_master.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ── FastAPI Backend ────────────────────────────────────────────
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: bld-backend
+    restart: unless-stopped
+    environment:
+      - USE_SQLITE=False
+      - DB_HOST=mysql
+      - DB_PORT=3306
+      - DB_USER=bld_user
+      - DB_PASSWORD=bld_password
+      - DB_NAME=business_listings
+      - DEBUG=False
+    ports:
+      - "8000:8000"
+    depends_on:
+      mysql:
+        condition: service_healthy
+
+  # ── React Frontend ────────────────────────────────────────────
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: bld-frontend
+    restart: unless-stopped
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+
+volumes:
+  mysql_data:

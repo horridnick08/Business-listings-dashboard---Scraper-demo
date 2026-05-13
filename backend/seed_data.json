@@ -1,0 +1,4952 @@
+[
+  {
+    "business_name": "New Rao Tax Consultants",
+    "category": "CA/Accountant",
+    "city": "Vadodara",
+    "address": "Plot 464, Station Road Marg, Vadodara - 754361",
+    "phone": "+91-9381217075",
+    "source": "Google Maps",
+    "created_at": "2026-04-28T22:01:12.926429"
+  },
+  {
+    "business_name": "Joshi Medical Center",
+    "category": "Doctor",
+    "city": "Lucknow",
+    "address": "Plot 991, Indira Nagar Nagar, Lucknow - 966346",
+    "phone": "+91-9825716651",
+    "source": "Justdial",
+    "created_at": "2026-02-11T21:01:12.926518"
+  },
+  {
+    "business_name": "Reddy Academy",
+    "category": "Tutor",
+    "city": "Coimbatore",
+    "address": "Plot 404, Main Area Nagar, Coimbatore - 285288",
+    "phone": "+91-9818087873",
+    "source": "IndiaMART",
+    "created_at": "2026-02-28T08:01:12.926540"
+  },
+  {
+    "business_name": "Sri Nair Properties",
+    "category": "Real Estate Agent",
+    "city": "Noida",
+    "address": "Plot 533, Main Area Colony, Noida - 760488",
+    "phone": "+91-9837440562",
+    "source": "Google Maps",
+    "created_at": "2026-04-17T13:01:12.926556"
+  },
+  {
+    "business_name": "Sunita's Auto Works",
+    "category": "Car Repair",
+    "city": "Nagpur",
+    "address": "Plot 10, Main Area Marg, Nagpur - 100138",
+    "phone": "+91-9849884314",
+    "source": "Google Maps",
+    "created_at": "2026-03-31T06:01:12.926573"
+  },
+  {
+    "business_name": "Rekha Desai Clicks",
+    "category": "Photographer",
+    "city": "Ahmedabad",
+    "address": "Plot 411, Navrangpura Marg, Ahmedabad - 836674",
+    "phone": "+91-9013089903",
+    "source": "TradeIndia",
+    "created_at": "2026-02-14T23:01:12.926589"
+  },
+  {
+    "business_name": "New Nair Hair Studio",
+    "category": "Salon",
+    "city": "Surat",
+    "address": "Plot 216, Main Area Street, Surat - 959777",
+    "phone": "+91-9094098611",
+    "source": "TradeIndia",
+    "created_at": "2026-04-20T03:01:12.926604"
+  },
+  {
+    "business_name": "Sunita's Logistics",
+    "category": "Courier Service",
+    "city": "Chennai",
+    "address": "Plot 279, Adyar Lane, Chennai - 106952",
+    "phone": "+91-9118053055",
+    "source": "Justdial",
+    "created_at": "2026-04-21T21:01:12.926618"
+  },
+  {
+    "business_name": "Neha Joshi Plumbing Services",
+    "category": "Plumber",
+    "city": "Kochi",
+    "address": "Plot 661, Central Enclave, Kochi - 152648",
+    "phone": "+91-8785519668",
+    "source": "Sulekha",
+    "created_at": "2026-04-28T09:01:12.926633"
+  },
+  {
+    "business_name": "Neha's Dhaba",
+    "category": "Restaurant",
+    "city": "Chandigarh",
+    "address": "Plot 402, Main Area Colony, Chandigarh - 977007",
+    "phone": "+91-9793627436",
+    "source": "Justdial",
+    "created_at": "2026-02-18T23:01:12.926647"
+  },
+  {
+    "business_name": "New Joshi HygieneX",
+    "category": "Pest Control",
+    "city": "Surat",
+    "address": "Plot 437, Main Area Lane, Surat - 528540",
+    "phone": "+91-8749190477",
+    "source": "Justdial",
+    "created_at": "2026-03-22T00:01:12.926660"
+  },
+  {
+    "business_name": "Royal Legal Associates",
+    "category": "Lawyer",
+    "city": "Chennai",
+    "address": "Plot 862, T Nagar Street, Chennai - 592294",
+    "phone": "+91-9665746956",
+    "source": "Google Maps",
+    "created_at": "2026-04-30T20:01:12.926677"
+  },
+  {
+    "business_name": "Royal Celebrations",
+    "category": "Event Planner",
+    "city": "Bhopal",
+    "address": "Plot 188, Central Street, Bhopal - 732702",
+    "phone": "+91-8880667255",
+    "source": "Justdial",
+    "created_at": "2026-03-21T20:01:12.926692"
+  },
+  {
+    "business_name": "Anita Chauhan Design Studio",
+    "category": "Interior Designer",
+    "city": "Indore",
+    "address": "Plot 876, Station Road Nagar, Indore - 249927",
+    "phone": "+91-9081149086",
+    "source": "TradeIndia",
+    "created_at": "2026-04-01T01:01:12.926707"
+  },
+  {
+    "business_name": "Royal Accounting Firm",
+    "category": "CA/Accountant",
+    "city": "Jaipur",
+    "address": "Plot 236, Vaishali Nagar Marg, Jaipur - 680686",
+    "phone": "+91-9492192459",
+    "source": "Justdial",
+    "created_at": "2026-04-29T18:01:12.926721"
+  },
+  {
+    "business_name": "New Desai Bites",
+    "category": "Restaurant",
+    "city": "Nagpur",
+    "address": "Plot 498, Central Road, Nagpur - 730663",
+    "phone": "+91-8802090777",
+    "source": "Sulekha",
+    "created_at": "2026-02-19T21:01:12.926734"
+  },
+  {
+    "business_name": "Royal Garage",
+    "category": "Car Repair",
+    "city": "Delhi",
+    "address": "Plot 679, Connaught Place Nagar, Delhi - 973383",
+    "phone": "+91-8840052938",
+    "source": "Sulekha",
+    "created_at": "2026-05-12T20:01:12.926747"
+  },
+  {
+    "business_name": "Vikram Nair Gym & Spa",
+    "category": "Gym",
+    "city": "Delhi",
+    "address": "Plot 195, Karol Bagh Nagar, Delhi - 615941",
+    "phone": "+91-9775202491",
+    "source": "IndiaMART",
+    "created_at": "2026-02-27T06:01:12.926761"
+  },
+  {
+    "business_name": "Rekha Nair Design Studio",
+    "category": "Interior Designer",
+    "city": "Noida",
+    "address": "Plot 953, Central Road, Noida - 319481",
+    "phone": "+91-8834974385",
+    "source": "TradeIndia",
+    "created_at": "2026-02-12T23:01:12.926775"
+  },
+  {
+    "business_name": "Deepak Gupta Real Estate",
+    "category": "Real Estate Agent",
+    "city": "Noida",
+    "address": "Plot 352, Station Road Nagar, Noida - 683922",
+    "phone": "+91-9730047149",
+    "source": "IndiaMART",
+    "created_at": "2026-03-14T08:01:12.926789"
+  },
+  {
+    "business_name": "New Mehta Health Center",
+    "category": "Doctor",
+    "city": "Nagpur",
+    "address": "Plot 845, Main Area Road, Nagpur - 639650",
+    "phone": "+91-9749444208",
+    "source": "Google Maps",
+    "created_at": "2026-02-20T12:01:12.926802"
+  },
+  {
+    "business_name": "New Rao Photography",
+    "category": "Photographer",
+    "city": "Kochi",
+    "address": "Plot 594, Station Road Road, Kochi - 171591",
+    "phone": "+91-8877890733",
+    "source": "IndiaMART",
+    "created_at": "2026-05-09T21:01:12.926815"
+  },
+  {
+    "business_name": "Arun's Academy",
+    "category": "Tutor",
+    "city": "Coimbatore",
+    "address": "Plot 571, Main Area Nagar, Coimbatore - 943400",
+    "phone": "+91-9006107943",
+    "source": "IndiaMART",
+    "created_at": "2026-04-20T12:01:12.926828"
+  },
+  {
+    "business_name": "Sri Chauhan Interiors",
+    "category": "Interior Designer",
+    "city": "Vadodara",
+    "address": "Plot 426, Station Road Colony, Vadodara - 752726",
+    "phone": "+91-9836272028",
+    "source": "Justdial",
+    "created_at": "2026-02-12T23:01:12.926840"
+  },
+  {
+    "business_name": "Reddy Gadget Fix",
+    "category": "Electronics Repair",
+    "city": "Chandigarh",
+    "address": "Plot 975, Station Road Colony, Chandigarh - 918158",
+    "phone": "+91-9052264614",
+    "source": "Google Maps",
+    "created_at": "2026-04-10T13:01:12.926853"
+  },
+  {
+    "business_name": "Kavita Shah Logistics",
+    "category": "Courier Service",
+    "city": "Nagpur",
+    "address": "Plot 945, Station Road Road, Nagpur - 782117",
+    "phone": "+91-8739965656",
+    "source": "Justdial",
+    "created_at": "2026-05-05T17:01:12.926869"
+  },
+  {
+    "business_name": "Rahul's Accounting Firm",
+    "category": "CA/Accountant",
+    "city": "Coimbatore",
+    "address": "Plot 671, Central Nagar, Coimbatore - 598859",
+    "phone": "+91-9869214904",
+    "source": "TradeIndia",
+    "created_at": "2026-04-28T17:01:12.926882"
+  },
+  {
+    "business_name": "New Reddy Events",
+    "category": "Event Planner",
+    "city": "Chandigarh",
+    "address": "Plot 40, Station Road Lane, Chandigarh - 712960",
+    "phone": "+91-9765203442",
+    "source": "Google Maps",
+    "created_at": "2026-04-09T07:01:12.926897"
+  },
+  {
+    "business_name": "Royal Auto Works",
+    "category": "Car Repair",
+    "city": "Noida",
+    "address": "Plot 116, Station Road Marg, Noida - 284087",
+    "phone": "+91-9349978008",
+    "source": "TradeIndia",
+    "created_at": "2026-03-05T18:01:12.926909"
+  },
+  {
+    "business_name": "Arun Chauhan & Associates",
+    "category": "CA/Accountant",
+    "city": "Jaipur",
+    "address": "Plot 277, Vaishali Nagar Road, Jaipur - 838042",
+    "phone": "+91-9672090582",
+    "source": "Google Maps",
+    "created_at": "2026-04-04T16:01:12.926922"
+  },
+  {
+    "business_name": "Sanjay Mehta Event Management",
+    "category": "Event Planner",
+    "city": "Pune",
+    "address": "Plot 500, Hinjewadi Marg, Pune - 438372",
+    "phone": "+91-9138908366",
+    "source": "Justdial",
+    "created_at": "2026-03-22T23:01:12.926935"
+  },
+  {
+    "business_name": "Sri Patil Homes",
+    "category": "Real Estate Agent",
+    "city": "Bhopal",
+    "address": "Plot 120, Central Nagar, Bhopal - 414628",
+    "phone": "+91-9013882557",
+    "source": "Google Maps",
+    "created_at": "2026-02-19T19:01:12.926947"
+  },
+  {
+    "business_name": "Sri Das Electronics",
+    "category": "Electronics Repair",
+    "city": "Visakhapatnam",
+    "address": "Plot 446, Main Area Street, Visakhapatnam - 761248",
+    "phone": "+91-9547590382",
+    "source": "Justdial",
+    "created_at": "2026-04-04T11:01:12.926959"
+  },
+  {
+    "business_name": "Ravi Mehta Caterers",
+    "category": "Caterer",
+    "city": "Coimbatore",
+    "address": "Plot 824, Station Road Road, Coimbatore - 526640",
+    "phone": "+91-9661696783",
+    "source": "Google Maps",
+    "created_at": "2026-05-01T08:01:12.926971"
+  },
+  {
+    "business_name": "Agarwal Plumbing Works",
+    "category": "Plumber",
+    "city": "Surat",
+    "address": "Plot 353, Central Colony, Surat - 619370",
+    "phone": "+91-8878785841",
+    "source": "Sulekha",
+    "created_at": "2026-02-19T10:01:12.926986"
+  },
+  {
+    "business_name": "Royal Properties",
+    "category": "Real Estate Agent",
+    "city": "Indore",
+    "address": "Plot 323, Station Road Nagar, Indore - 418958",
+    "phone": "+91-9184337348",
+    "source": "Justdial",
+    "created_at": "2026-04-14T08:01:12.926999"
+  },
+  {
+    "business_name": "Sri Shah Clicks",
+    "category": "Photographer",
+    "city": "Kolkata",
+    "address": "Plot 404, Park Street Enclave, Kolkata - 411414",
+    "phone": "+91-8776439845",
+    "source": "Sulekha",
+    "created_at": "2026-03-04T17:01:12.927010"
+  },
+  {
+    "business_name": "Sri Menon Cafe",
+    "category": "Restaurant",
+    "city": "Jaipur",
+    "address": "Plot 314, Malviya Nagar Enclave, Jaipur - 696886",
+    "phone": "+91-8717361619",
+    "source": "Justdial",
+    "created_at": "2026-02-24T02:01:12.927022"
+  },
+  {
+    "business_name": "Royal & Associates",
+    "category": "CA/Accountant",
+    "city": "Surat",
+    "address": "Plot 733, Central Street, Surat - 924682",
+    "phone": "+91-9118215068",
+    "source": "Google Maps",
+    "created_at": "2026-03-30T04:01:12.927034"
+  },
+  {
+    "business_name": "Priya Agarwal Hair Studio",
+    "category": "Salon",
+    "city": "Kochi",
+    "address": "Plot 143, Main Area Road, Kochi - 302448",
+    "phone": "+91-8836104202",
+    "source": "IndiaMART",
+    "created_at": "2026-03-23T20:01:12.927047"
+  },
+  {
+    "business_name": "New Sharma & Associates",
+    "category": "CA/Accountant",
+    "city": "Chandigarh",
+    "address": "Plot 483, Main Area Lane, Chandigarh - 379388",
+    "phone": "+91-9700500960",
+    "source": "Justdial",
+    "created_at": "2026-04-05T12:01:12.927059"
+  },
+  {
+    "business_name": "Iyer Learning Hub",
+    "category": "Tutor",
+    "city": "Surat",
+    "address": "Plot 538, Station Road Marg, Surat - 296046",
+    "phone": "+91-7050233713",
+    "source": "Google Maps",
+    "created_at": "2026-04-29T01:01:12.927071"
+  },
+  {
+    "business_name": "Royal Classes",
+    "category": "Tutor",
+    "city": "Chennai",
+    "address": "Plot 562, Adyar Colony, Chennai - 854873",
+    "phone": "+91-8758274054",
+    "source": "Google Maps",
+    "created_at": "2026-03-05T06:01:12.927102"
+  },
+  {
+    "business_name": "Swati's & Associates",
+    "category": "CA/Accountant",
+    "city": "Vadodara",
+    "address": "Plot 613, Central Enclave, Vadodara - 612562",
+    "phone": "+91-9675865147",
+    "source": "Sulekha",
+    "created_at": "2026-03-12T09:01:12.927131"
+  },
+  {
+    "business_name": "Raj Kulkarni Tech Repair",
+    "category": "Electronics Repair",
+    "city": "Noida",
+    "address": "Plot 200, Central Colony, Noida - 946295",
+    "phone": "+91-7052119398",
+    "source": "Google Maps",
+    "created_at": "2026-05-11T05:01:12.927157"
+  },
+  {
+    "business_name": "Neha's Dental Care",
+    "category": "Dentist",
+    "city": "Vadodara",
+    "address": "Plot 377, Main Area Street, Vadodara - 549246",
+    "phone": "+91-9405080592",
+    "source": "Sulekha",
+    "created_at": "2026-05-08T20:01:12.927180"
+  },
+  {
+    "business_name": "Pooja Rao Bites",
+    "category": "Restaurant",
+    "city": "Delhi",
+    "address": "Plot 545, Dwarka Road, Delhi - 131402",
+    "phone": "+91-9366585329",
+    "source": "TradeIndia",
+    "created_at": "2026-05-03T11:01:12.927195"
+  },
+  {
+    "business_name": "Swati's Pipe Solutions",
+    "category": "Plumber",
+    "city": "Mumbai",
+    "address": "Plot 956, Powai Marg, Mumbai - 225668",
+    "phone": "+91-9667373173",
+    "source": "IndiaMART",
+    "created_at": "2026-03-19T16:01:12.927213"
+  },
+  {
+    "business_name": "Royal Spa",
+    "category": "Salon",
+    "city": "Visakhapatnam",
+    "address": "Plot 352, Station Road Lane, Visakhapatnam - 722901",
+    "phone": "+91-9503718297",
+    "source": "IndiaMART",
+    "created_at": "2026-03-12T06:01:12.927226"
+  },
+  {
+    "business_name": "Sri Shah Plumbing Works",
+    "category": "Plumber",
+    "city": "Surat",
+    "address": "Plot 691, Station Road Marg, Surat - 373568",
+    "phone": "+91-9656744993",
+    "source": "Sulekha",
+    "created_at": "2026-04-12T04:01:12.927238"
+  },
+  {
+    "business_name": "Royal & Advocates",
+    "category": "Lawyer",
+    "city": "Delhi",
+    "address": "Plot 98, Connaught Place Enclave, Delhi - 846408",
+    "phone": "+91-9075681003",
+    "source": "TradeIndia",
+    "created_at": "2026-04-05T03:01:12.927253"
+  },
+  {
+    "business_name": "New Joshi Hair Studio",
+    "category": "Salon",
+    "city": "Lucknow",
+    "address": "Plot 857, Hazratganj Marg, Lucknow - 746301",
+    "phone": "+91-9190122979",
+    "source": "IndiaMART",
+    "created_at": "2026-05-08T15:01:12.927267"
+  },
+  {
+    "business_name": "New Gupta Coaching Center",
+    "category": "Tutor",
+    "city": "Kolkata",
+    "address": "Plot 633, Gariahat Street, Kolkata - 167957",
+    "phone": "+91-9859849632",
+    "source": "Google Maps",
+    "created_at": "2026-03-10T18:01:12.927281"
+  },
+  {
+    "business_name": "Royal Kitchen",
+    "category": "Restaurant",
+    "city": "Chennai",
+    "address": "Plot 887, T Nagar Enclave, Chennai - 690783",
+    "phone": "+91-9624309261",
+    "source": "Google Maps",
+    "created_at": "2026-03-28T13:01:12.927294"
+  },
+  {
+    "business_name": "Joshi Gym & Spa",
+    "category": "Gym",
+    "city": "Delhi",
+    "address": "Plot 934, Rohini Street, Delhi - 615165",
+    "phone": "+91-9778569176",
+    "source": "TradeIndia",
+    "created_at": "2026-04-26T06:01:12.927306"
+  },
+  {
+    "business_name": "New Mehta Event Management",
+    "category": "Event Planner",
+    "city": "Lucknow",
+    "address": "Plot 414, Gomti Nagar Enclave, Lucknow - 971556",
+    "phone": "+91-9177186275",
+    "source": "IndiaMART",
+    "created_at": "2026-04-04T13:01:12.927319"
+  },
+  {
+    "business_name": "Sri Mehta Accounting Firm",
+    "category": "CA/Accountant",
+    "city": "Kolkata",
+    "address": "Plot 129, Howrah Colony, Kolkata - 985944",
+    "phone": "+91-8789063737",
+    "source": "TradeIndia",
+    "created_at": "2026-03-03T14:01:12.927331"
+  },
+  {
+    "business_name": "Royal Events",
+    "category": "Event Planner",
+    "city": "Coimbatore",
+    "address": "Plot 24, Main Area Enclave, Coimbatore - 891937",
+    "phone": "+91-9711492452",
+    "source": "Justdial",
+    "created_at": "2026-02-24T08:01:12.927344"
+  },
+  {
+    "business_name": "Ashok's Pest Solutions",
+    "category": "Pest Control",
+    "city": "Mumbai",
+    "address": "Plot 282, Powai Lane, Mumbai - 442456",
+    "phone": "+91-9397580920",
+    "source": "Google Maps",
+    "created_at": "2026-04-30T08:01:12.927358"
+  },
+  {
+    "business_name": "Royal Gadget Fix",
+    "category": "Electronics Repair",
+    "city": "Pune",
+    "address": "Plot 844, Viman Nagar Lane, Pune - 428584",
+    "phone": "+91-9841717669",
+    "source": "Google Maps",
+    "created_at": "2026-03-11T01:01:12.927370"
+  },
+  {
+    "business_name": "Ravi's Smile Studio",
+    "category": "Dentist",
+    "city": "Pune",
+    "address": "Plot 882, Hinjewadi Street, Pune - 918810",
+    "phone": "+91-7015492808",
+    "source": "TradeIndia",
+    "created_at": "2026-04-16T10:01:12.927382"
+  },
+  {
+    "business_name": "Sharma Electrical Works",
+    "category": "Electrician",
+    "city": "Kolkata",
+    "address": "Plot 838, Salt Lake Lane, Kolkata - 883563",
+    "phone": "+91-9668722655",
+    "source": "TradeIndia",
+    "created_at": "2026-03-17T06:01:12.927396"
+  },
+  {
+    "business_name": "New Chauhan Hair Studio",
+    "category": "Salon",
+    "city": "Pune",
+    "address": "Plot 705, Hadapsar Enclave, Pune - 351421",
+    "phone": "+91-9788074562",
+    "source": "Justdial",
+    "created_at": "2026-02-13T16:01:12.927407"
+  },
+  {
+    "business_name": "New Mehta Fit Zone",
+    "category": "Gym",
+    "city": "Coimbatore",
+    "address": "Plot 628, Station Road Road, Coimbatore - 919106",
+    "phone": "+91-9642423269",
+    "source": "TradeIndia",
+    "created_at": "2026-03-20T21:01:12.927419"
+  },
+  {
+    "business_name": "Royal Hospital",
+    "category": "Doctor",
+    "city": "Kochi",
+    "address": "Plot 574, Main Area Road, Kochi - 261245",
+    "phone": "+91-9377448142",
+    "source": "IndiaMART",
+    "created_at": "2026-04-13T14:01:12.927430"
+  },
+  {
+    "business_name": "Swati Patel Pest Solutions",
+    "category": "Pest Control",
+    "city": "Chandigarh",
+    "address": "Plot 822, Central Enclave, Chandigarh - 484968",
+    "phone": "+91-7068308757",
+    "source": "IndiaMART",
+    "created_at": "2026-04-06T12:01:12.927443"
+  },
+  {
+    "business_name": "New Reddy Coaching Center",
+    "category": "Tutor",
+    "city": "Vadodara",
+    "address": "Plot 186, Station Road Marg, Vadodara - 792554",
+    "phone": "+91-9306919932",
+    "source": "TradeIndia",
+    "created_at": "2026-03-10T12:01:12.927457"
+  },
+  {
+    "business_name": "Royal Pipe Solutions",
+    "category": "Plumber",
+    "city": "Kochi",
+    "address": "Plot 13, Main Area Lane, Kochi - 785243",
+    "phone": "+91-9427541938",
+    "source": "IndiaMART",
+    "created_at": "2026-04-20T08:01:12.927470"
+  },
+  {
+    "business_name": "Royal Smile Studio",
+    "category": "Dentist",
+    "city": "Bangalore",
+    "address": "Plot 21, HSR Layout Road, Bangalore - 908601",
+    "phone": "+91-9776351232",
+    "source": "TradeIndia",
+    "created_at": "2026-05-01T05:01:12.927482"
+  },
+  {
+    "business_name": "Pooja's Health Club",
+    "category": "Gym",
+    "city": "Ahmedabad",
+    "address": "Plot 503, Vastrapur Road, Ahmedabad - 916837",
+    "phone": "+91-8782482694",
+    "source": "Google Maps",
+    "created_at": "2026-02-13T08:01:12.927493"
+  },
+  {
+    "business_name": "Chauhan Garage",
+    "category": "Car Repair",
+    "city": "Ahmedabad",
+    "address": "Plot 822, SG Highway Road, Ahmedabad - 373507",
+    "phone": "+91-9506022373",
+    "source": "IndiaMART",
+    "created_at": "2026-05-09T00:01:12.927506"
+  },
+  {
+    "business_name": "Royal Learning Hub",
+    "category": "Tutor",
+    "city": "Nagpur",
+    "address": "Plot 491, Central Lane, Nagpur - 112364",
+    "phone": "+91-9518244552",
+    "source": "TradeIndia",
+    "created_at": "2026-03-14T16:01:12.927518"
+  },
+  {
+    "business_name": "Rahul's Kitchen",
+    "category": "Restaurant",
+    "city": "Hyderabad",
+    "address": "Plot 143, Kukatpally Lane, Hyderabad - 521880",
+    "phone": "+91-9763758431",
+    "source": "Google Maps",
+    "created_at": "2026-03-30T01:01:12.927530"
+  },
+  {
+    "business_name": "Suresh Patil Fitness Center",
+    "category": "Gym",
+    "city": "Visakhapatnam",
+    "address": "Plot 826, Central Road, Visakhapatnam - 848757",
+    "phone": "+91-9051485783",
+    "source": "Google Maps",
+    "created_at": "2026-03-28T04:01:12.927544"
+  },
+  {
+    "business_name": "Sri Desai Food Services",
+    "category": "Caterer",
+    "city": "Bhopal",
+    "address": "Plot 724, Main Area Nagar, Bhopal - 477079",
+    "phone": "+91-9897730971",
+    "source": "Justdial",
+    "created_at": "2026-02-17T18:01:12.927555"
+  },
+  {
+    "business_name": "Sri Pillai IT Services",
+    "category": "Web Developer",
+    "city": "Mumbai",
+    "address": "Plot 63, Andheri Street, Mumbai - 293411",
+    "phone": "+91-9818476278",
+    "source": "Google Maps",
+    "created_at": "2026-03-19T11:01:12.927566"
+  },
+  {
+    "business_name": "Ravi Gupta Accounting Firm",
+    "category": "CA/Accountant",
+    "city": "Chandigarh",
+    "address": "Plot 552, Station Road Nagar, Chandigarh - 446653",
+    "phone": "+91-9586206475",
+    "source": "IndiaMART",
+    "created_at": "2026-02-21T23:01:12.927580"
+  },
+  {
+    "business_name": "Nair Electronics",
+    "category": "Electronics Repair",
+    "city": "Noida",
+    "address": "Plot 672, Main Area Nagar, Noida - 525685",
+    "phone": "+91-9027975713",
+    "source": "Google Maps",
+    "created_at": "2026-03-21T01:01:12.927595"
+  },
+  {
+    "business_name": "Sri Iyer Health Club",
+    "category": "Gym",
+    "city": "Lucknow",
+    "address": "Plot 453, Aminabad Colony, Lucknow - 902297",
+    "phone": "+91-9421235752",
+    "source": "Sulekha",
+    "created_at": "2026-03-12T21:01:12.927615"
+  },
+  {
+    "business_name": "New Joshi Properties",
+    "category": "Real Estate Agent",
+    "city": "Pune",
+    "address": "Plot 106, Viman Nagar Lane, Pune - 702134",
+    "phone": "+91-9511668361",
+    "source": "IndiaMART",
+    "created_at": "2026-04-17T11:01:12.927627"
+  },
+  {
+    "business_name": "New Joshi Studio",
+    "category": "Photographer",
+    "city": "Mumbai",
+    "address": "Plot 500, Andheri Colony, Mumbai - 674601",
+    "phone": "+91-9151320324",
+    "source": "Google Maps",
+    "created_at": "2026-03-03T19:01:12.927639"
+  },
+  {
+    "business_name": "Neha Kulkarni Homes",
+    "category": "Real Estate Agent",
+    "city": "Bhopal",
+    "address": "Plot 33, Main Area Colony, Bhopal - 549779",
+    "phone": "+91-9727296205",
+    "source": "IndiaMART",
+    "created_at": "2026-02-28T09:01:12.927650"
+  },
+  {
+    "business_name": "Gupta Plumbing Services",
+    "category": "Plumber",
+    "city": "Indore",
+    "address": "Plot 180, Station Road Nagar, Indore - 757992",
+    "phone": "+91-9825468212",
+    "source": "Justdial",
+    "created_at": "2026-05-04T09:01:12.927662"
+  },
+  {
+    "business_name": "New Chauhan Classes",
+    "category": "Tutor",
+    "city": "Jaipur",
+    "address": "Plot 720, C Scheme Marg, Jaipur - 312321",
+    "phone": "+91-8801184014",
+    "source": "TradeIndia",
+    "created_at": "2026-04-19T15:01:12.927674"
+  },
+  {
+    "business_name": "Sri Patel Makeover Studio",
+    "category": "Salon",
+    "city": "Coimbatore",
+    "address": "Plot 483, Main Area Marg, Coimbatore - 858834",
+    "phone": "+91-9037601526",
+    "source": "Sulekha",
+    "created_at": "2026-03-24T17:01:12.927697"
+  },
+  {
+    "business_name": "Shah Motors",
+    "category": "Car Repair",
+    "city": "Chennai",
+    "address": "Plot 545, T Nagar Enclave, Chennai - 511938",
+    "phone": "+91-7082232767",
+    "source": "Google Maps",
+    "created_at": "2026-05-09T18:01:12.927716"
+  },
+  {
+    "business_name": "Nikhil's Event Management",
+    "category": "Event Planner",
+    "city": "Nagpur",
+    "address": "Plot 888, Central Enclave, Nagpur - 425055",
+    "phone": "+91-9563437530",
+    "source": "TradeIndia",
+    "created_at": "2026-03-28T18:01:12.927732"
+  },
+  {
+    "business_name": "Sri Agarwal Beauty Salon",
+    "category": "Salon",
+    "city": "Kochi",
+    "address": "Plot 855, Main Area Road, Kochi - 861734",
+    "phone": "+91-9076496574",
+    "source": "Sulekha",
+    "created_at": "2026-04-14T02:01:12.927744"
+  },
+  {
+    "business_name": "Sri Singh Dental Clinic",
+    "category": "Dentist",
+    "city": "Bangalore",
+    "address": "Plot 645, HSR Layout Colony, Bangalore - 281571",
+    "phone": "+91-9613537218",
+    "source": "Justdial",
+    "created_at": "2026-05-13T02:01:12.927755"
+  },
+  {
+    "business_name": "Royal Fit Zone",
+    "category": "Gym",
+    "city": "Delhi",
+    "address": "Plot 695, Lajpat Nagar Lane, Delhi - 644999",
+    "phone": "+91-9186870350",
+    "source": "IndiaMART",
+    "created_at": "2026-04-11T12:01:12.927767"
+  },
+  {
+    "business_name": "Royal Tech Solutions",
+    "category": "Web Developer",
+    "city": "Kolkata",
+    "address": "Plot 48, New Town Marg, Kolkata - 329488",
+    "phone": "+91-8765606196",
+    "source": "TradeIndia",
+    "created_at": "2026-02-22T04:01:12.927779"
+  },
+  {
+    "business_name": "Sri Bhat Power Solutions",
+    "category": "Electrician",
+    "city": "Lucknow",
+    "address": "Plot 129, Aminabad Nagar, Lucknow - 421528",
+    "phone": "+91-9780032845",
+    "source": "Google Maps",
+    "created_at": "2026-03-26T04:01:12.927790"
+  },
+  {
+    "business_name": "Sri Verma Plumbing Works",
+    "category": "Plumber",
+    "city": "Coimbatore",
+    "address": "Plot 619, Central Enclave, Coimbatore - 768383",
+    "phone": "+91-9586070471",
+    "source": "Sulekha",
+    "created_at": "2026-04-29T20:01:12.927801"
+  },
+  {
+    "business_name": "Nikhil Joshi Digital Studio",
+    "category": "Web Developer",
+    "city": "Indore",
+    "address": "Plot 726, Central Enclave, Indore - 926459",
+    "phone": "+91-8809385264",
+    "source": "Justdial",
+    "created_at": "2026-03-02T14:01:12.927814"
+  },
+  {
+    "business_name": "Sri Pillai Pest Control Services",
+    "category": "Pest Control",
+    "city": "Lucknow",
+    "address": "Plot 643, Aminabad Marg, Lucknow - 938087",
+    "phone": "+91-9559203812",
+    "source": "TradeIndia",
+    "created_at": "2026-04-23T11:01:12.927825"
+  },
+  {
+    "business_name": "Sri Rao Celebrations",
+    "category": "Event Planner",
+    "city": "Indore",
+    "address": "Plot 46, Station Road Marg, Indore - 800917",
+    "phone": "+91-7093184819",
+    "source": "Google Maps",
+    "created_at": "2026-03-13T13:01:12.927839"
+  },
+  {
+    "business_name": "Pooja's HygieneX",
+    "category": "Pest Control",
+    "city": "Indore",
+    "address": "Plot 789, Station Road Nagar, Indore - 652575",
+    "phone": "+91-9692740734",
+    "source": "Justdial",
+    "created_at": "2026-04-16T05:01:12.927850"
+  },
+  {
+    "business_name": "New Joshi Catering Co.",
+    "category": "Caterer",
+    "city": "Visakhapatnam",
+    "address": "Plot 224, Station Road Lane, Visakhapatnam - 924047",
+    "phone": "+91-8736203891",
+    "source": "IndiaMART",
+    "created_at": "2026-04-17T17:01:12.927862"
+  },
+  {
+    "business_name": "Sri Nair Bites",
+    "category": "Restaurant",
+    "city": "Pune",
+    "address": "Plot 931, Hadapsar Road, Pune - 695432",
+    "phone": "+91-9699001646",
+    "source": "TradeIndia",
+    "created_at": "2026-03-29T22:01:12.927874"
+  },
+  {
+    "business_name": "Sri Das Event Management",
+    "category": "Event Planner",
+    "city": "Chandigarh",
+    "address": "Plot 490, Main Area Road, Chandigarh - 369967",
+    "phone": "+91-8776581392",
+    "source": "Google Maps",
+    "created_at": "2026-04-06T17:01:12.927886"
+  },
+  {
+    "business_name": "New Patil Design Studio",
+    "category": "Interior Designer",
+    "city": "Bhopal",
+    "address": "Plot 319, Main Area Nagar, Bhopal - 967605",
+    "phone": "+91-9608806550",
+    "source": "Sulekha",
+    "created_at": "2026-02-18T19:01:12.927897"
+  },
+  {
+    "business_name": "Sri Patel Tech Solutions",
+    "category": "Web Developer",
+    "city": "Nagpur",
+    "address": "Plot 2, Main Area Colony, Nagpur - 454594",
+    "phone": "+91-9156380831",
+    "source": "Justdial",
+    "created_at": "2026-04-02T16:01:12.927909"
+  },
+  {
+    "business_name": "New Pillai Pest Solutions",
+    "category": "Pest Control",
+    "city": "Hyderabad",
+    "address": "Plot 352, Banjara Hills Street, Hyderabad - 658173",
+    "phone": "+91-8844969222",
+    "source": "Google Maps",
+    "created_at": "2026-05-03T09:01:12.927920"
+  },
+  {
+    "business_name": "Manoj's Dhaba",
+    "category": "Restaurant",
+    "city": "Noida",
+    "address": "Plot 860, Main Area Road, Noida - 724634",
+    "phone": "+91-9706560112",
+    "source": "TradeIndia",
+    "created_at": "2026-04-22T05:01:12.927932"
+  },
+  {
+    "business_name": "Royal Makeover Studio",
+    "category": "Salon",
+    "city": "Kochi",
+    "address": "Plot 54, Central Marg, Kochi - 479231",
+    "phone": "+91-9387984924",
+    "source": "Google Maps",
+    "created_at": "2026-05-10T23:01:12.927943"
+  },
+  {
+    "business_name": "Amit's & Advocates",
+    "category": "Lawyer",
+    "city": "Chandigarh",
+    "address": "Plot 394, Main Area Lane, Chandigarh - 153704",
+    "phone": "+91-8767554819",
+    "source": "IndiaMART",
+    "created_at": "2026-05-01T13:01:12.927955"
+  },
+  {
+    "business_name": "Sri Shah Hospital",
+    "category": "Doctor",
+    "city": "Coimbatore",
+    "address": "Plot 583, Station Road Lane, Coimbatore - 298434",
+    "phone": "+91-9066166795",
+    "source": "Sulekha",
+    "created_at": "2026-03-12T05:01:12.927967"
+  },
+  {
+    "business_name": "Anjali Kumar Motors",
+    "category": "Car Repair",
+    "city": "Chennai",
+    "address": "Plot 776, Mylapore Street, Chennai - 919789",
+    "phone": "+91-9860561375",
+    "source": "IndiaMART",
+    "created_at": "2026-04-19T08:01:12.927978"
+  },
+  {
+    "business_name": "New Rao Coaching Center",
+    "category": "Tutor",
+    "city": "Jaipur",
+    "address": "Plot 476, Tonk Road Enclave, Jaipur - 398440",
+    "phone": "+91-8781498442",
+    "source": "Google Maps",
+    "created_at": "2026-04-01T19:01:12.927989"
+  },
+  {
+    "business_name": "New Patil Dining",
+    "category": "Restaurant",
+    "city": "Indore",
+    "address": "Plot 538, Main Area Nagar, Indore - 352145",
+    "phone": "+91-9565325528",
+    "source": "Justdial",
+    "created_at": "2026-03-11T23:01:12.928001"
+  },
+  {
+    "business_name": "Sunita's Design Studio",
+    "category": "Interior Designer",
+    "city": "Vadodara",
+    "address": "Plot 463, Central Lane, Vadodara - 803858",
+    "phone": "+91-9762481735",
+    "source": "TradeIndia",
+    "created_at": "2026-04-24T15:01:12.928014"
+  },
+  {
+    "business_name": "Royal Logistics",
+    "category": "Courier Service",
+    "city": "Surat",
+    "address": "Plot 117, Main Area Road, Surat - 343520",
+    "phone": "+91-9790772176",
+    "source": "TradeIndia",
+    "created_at": "2026-04-30T00:01:12.928027"
+  },
+  {
+    "business_name": "Royal Plumbing Services",
+    "category": "Plumber",
+    "city": "Kolkata",
+    "address": "Plot 753, Howrah Enclave, Kolkata - 757030",
+    "phone": "+91-9642542377",
+    "source": "Google Maps",
+    "created_at": "2026-03-18T11:01:12.928039"
+  },
+  {
+    "business_name": "Sharma Plumbing Works",
+    "category": "Plumber",
+    "city": "Vadodara",
+    "address": "Plot 244, Station Road Marg, Vadodara - 648384",
+    "phone": "+91-9670236958",
+    "source": "Justdial",
+    "created_at": "2026-03-26T22:01:12.928050"
+  },
+  {
+    "business_name": "Divya Agarwal Learning Hub",
+    "category": "Tutor",
+    "city": "Surat",
+    "address": "Plot 167, Main Area Lane, Surat - 587359",
+    "phone": "+91-9609111835",
+    "source": "TradeIndia",
+    "created_at": "2026-05-05T14:01:12.928063"
+  },
+  {
+    "business_name": "Desai Legal Associates",
+    "category": "Lawyer",
+    "city": "Jaipur",
+    "address": "Plot 770, Vaishali Nagar Marg, Jaipur - 168210",
+    "phone": "+91-9803476946",
+    "source": "Sulekha",
+    "created_at": "2026-05-10T19:01:12.928074"
+  },
+  {
+    "business_name": "Royal Motors",
+    "category": "Car Repair",
+    "city": "Kolkata",
+    "address": "Plot 348, Howrah Road, Kolkata - 327847",
+    "phone": "+91-9129003608",
+    "source": "Justdial",
+    "created_at": "2026-03-05T14:01:12.928091"
+  },
+  {
+    "business_name": "Rahul Iyer Gadget Fix",
+    "category": "Electronics Repair",
+    "city": "Hyderabad",
+    "address": "Plot 159, Ameerpet Street, Hyderabad - 655467",
+    "phone": "+91-9431193501",
+    "source": "TradeIndia",
+    "created_at": "2026-04-04T14:01:12.928103"
+  },
+  {
+    "business_name": "Suresh's Photography",
+    "category": "Photographer",
+    "city": "Delhi",
+    "address": "Plot 862, Karol Bagh Road, Delhi - 717212",
+    "phone": "+91-9547898843",
+    "source": "IndiaMART",
+    "created_at": "2026-04-06T07:01:12.928116"
+  },
+  {
+    "business_name": "Kavita's Garage",
+    "category": "Car Repair",
+    "city": "Kochi",
+    "address": "Plot 627, Central Marg, Kochi - 664639",
+    "phone": "+91-9688191994",
+    "source": "Justdial",
+    "created_at": "2026-02-15T06:01:12.928128"
+  },
+  {
+    "business_name": "Royal Legal Associates",
+    "category": "Lawyer",
+    "city": "Noida",
+    "address": "Plot 554, Station Road Enclave, Noida - 646613",
+    "phone": "+91-9664250501",
+    "source": "Sulekha",
+    "created_at": "2026-02-15T10:01:12.928140"
+  },
+  {
+    "business_name": "Sharma Beauty Salon",
+    "category": "Salon",
+    "city": "Chennai",
+    "address": "Plot 729, Velachery Lane, Chennai - 898939",
+    "phone": "+91-9163582502",
+    "source": "Justdial",
+    "created_at": "2026-03-01T05:01:12.928151"
+  },
+  {
+    "business_name": "New Joshi Clicks",
+    "category": "Photographer",
+    "city": "Kochi",
+    "address": "Plot 81, Central Enclave, Kochi - 924366",
+    "phone": "+91-9342224533",
+    "source": "Justdial",
+    "created_at": "2026-04-21T01:01:12.928163"
+  },
+  {
+    "business_name": "New Pillai Dental Care",
+    "category": "Dentist",
+    "city": "Bhopal",
+    "address": "Plot 568, Station Road Road, Bhopal - 814918",
+    "phone": "+91-9166527983",
+    "source": "Sulekha",
+    "created_at": "2026-05-07T04:01:12.928174"
+  },
+  {
+    "business_name": "New Bhat Photo Works",
+    "category": "Photographer",
+    "city": "Lucknow",
+    "address": "Plot 951, Hazratganj Nagar, Lucknow - 279422",
+    "phone": "+91-9066833544",
+    "source": "Justdial",
+    "created_at": "2026-03-06T23:01:12.928186"
+  },
+  {
+    "business_name": "New Menon Gym & Spa",
+    "category": "Gym",
+    "city": "Hyderabad",
+    "address": "Plot 571, Ameerpet Street, Hyderabad - 437223",
+    "phone": "+91-9799145324",
+    "source": "Google Maps",
+    "created_at": "2026-03-20T18:01:12.928199"
+  },
+  {
+    "business_name": "Anita's Decor House",
+    "category": "Interior Designer",
+    "city": "Bhopal",
+    "address": "Plot 91, Station Road Colony, Bhopal - 980655",
+    "phone": "+91-8868778645",
+    "source": "Justdial",
+    "created_at": "2026-03-15T16:01:12.928217"
+  },
+  {
+    "business_name": "Patel Interiors",
+    "category": "Interior Designer",
+    "city": "Visakhapatnam",
+    "address": "Plot 113, Main Area Enclave, Visakhapatnam - 916010",
+    "phone": "+91-9560629747",
+    "source": "TradeIndia",
+    "created_at": "2026-02-19T21:01:12.928243"
+  },
+  {
+    "business_name": "Sri Iyer Courier Services",
+    "category": "Courier Service",
+    "city": "Surat",
+    "address": "Plot 101, Main Area Nagar, Surat - 660389",
+    "phone": "+91-9047975176",
+    "source": "TradeIndia",
+    "created_at": "2026-03-07T00:01:12.928256"
+  },
+  {
+    "business_name": "Royal Health Club",
+    "category": "Gym",
+    "city": "Kolkata",
+    "address": "Plot 936, Salt Lake Lane, Kolkata - 624603",
+    "phone": "+91-7036418892",
+    "source": "Google Maps",
+    "created_at": "2026-05-12T05:01:12.928268"
+  },
+  {
+    "business_name": "Amit's Plumbing Services",
+    "category": "Plumber",
+    "city": "Surat",
+    "address": "Plot 803, Main Area Nagar, Surat - 530407",
+    "phone": "+91-8885960406",
+    "source": "IndiaMART",
+    "created_at": "2026-03-14T07:01:12.928280"
+  },
+  {
+    "business_name": "Royal Celebrations",
+    "category": "Event Planner",
+    "city": "Delhi",
+    "address": "Plot 437, Rohini Enclave, Delhi - 795422",
+    "phone": "+91-8723625761",
+    "source": "Google Maps",
+    "created_at": "2026-03-26T14:01:12.928291"
+  },
+  {
+    "business_name": "Das Interiors",
+    "category": "Interior Designer",
+    "city": "Coimbatore",
+    "address": "Plot 723, Central Lane, Coimbatore - 266199",
+    "phone": "+91-9587465485",
+    "source": "Justdial",
+    "created_at": "2026-04-29T04:01:12.928302"
+  },
+  {
+    "business_name": "Royal Pest Solutions",
+    "category": "Pest Control",
+    "city": "Bhopal",
+    "address": "Plot 81, Central Lane, Bhopal - 960553",
+    "phone": "+91-9771386928",
+    "source": "Google Maps",
+    "created_at": "2026-05-10T04:01:12.928313"
+  },
+  {
+    "business_name": "Royal Hospital",
+    "category": "Doctor",
+    "city": "Nagpur",
+    "address": "Plot 464, Main Area Colony, Nagpur - 592428",
+    "phone": "+91-9120280468",
+    "source": "Sulekha",
+    "created_at": "2026-02-25T21:01:12.928324"
+  },
+  {
+    "business_name": "Anita's Food Services",
+    "category": "Caterer",
+    "city": "Mumbai",
+    "address": "Plot 514, Malad Colony, Mumbai - 329558",
+    "phone": "+91-8854418601",
+    "source": "Justdial",
+    "created_at": "2026-03-10T21:01:12.928341"
+  },
+  {
+    "business_name": "Gupta & Associates",
+    "category": "CA/Accountant",
+    "city": "Nagpur",
+    "address": "Plot 762, Central Road, Nagpur - 576847",
+    "phone": "+91-8883132049",
+    "source": "Sulekha",
+    "created_at": "2026-04-17T21:01:12.928354"
+  },
+  {
+    "business_name": "Royal Digital Studio",
+    "category": "Web Developer",
+    "city": "Delhi",
+    "address": "Plot 371, Karol Bagh Street, Delhi - 776322",
+    "phone": "+91-8731611074",
+    "source": "Justdial",
+    "created_at": "2026-03-17T23:01:12.928366"
+  },
+  {
+    "business_name": "Royal Beauty Salon",
+    "category": "Salon",
+    "city": "Hyderabad",
+    "address": "Plot 31, Banjara Hills Colony, Hyderabad - 299444",
+    "phone": "+91-9899409937",
+    "source": "Justdial",
+    "created_at": "2026-03-23T12:01:12.928377"
+  },
+  {
+    "business_name": "Manoj Desai Classes",
+    "category": "Tutor",
+    "city": "Bangalore",
+    "address": "Plot 986, Whitefield Lane, Bangalore - 763150",
+    "phone": "+91-7062411111",
+    "source": "Google Maps",
+    "created_at": "2026-05-07T01:01:12.928389"
+  },
+  {
+    "business_name": "Sri Nair Fit Zone",
+    "category": "Gym",
+    "city": "Ahmedabad",
+    "address": "Plot 4, Vastrapur Colony, Ahmedabad - 719862",
+    "phone": "+91-9423255412",
+    "source": "IndiaMART",
+    "created_at": "2026-03-17T06:01:12.928401"
+  },
+  {
+    "business_name": "Anita Das Dental Clinic",
+    "category": "Dentist",
+    "city": "Jaipur",
+    "address": "Plot 324, C Scheme Marg, Jaipur - 615456",
+    "phone": "+91-9788266569",
+    "source": "Justdial",
+    "created_at": "2026-04-04T15:01:12.928412"
+  },
+  {
+    "business_name": "Royal Spa",
+    "category": "Salon",
+    "city": "Indore",
+    "address": "Plot 541, Station Road Colony, Indore - 332044",
+    "phone": "+91-9776256735",
+    "source": "IndiaMART",
+    "created_at": "2026-02-12T16:01:12.928424"
+  },
+  {
+    "business_name": "Shah Smile Studio",
+    "category": "Dentist",
+    "city": "Noida",
+    "address": "Plot 779, Central Marg, Noida - 417406",
+    "phone": "+91-9661947398",
+    "source": "Sulekha",
+    "created_at": "2026-02-21T12:01:12.928436"
+  },
+  {
+    "business_name": "Royal Design Studio",
+    "category": "Interior Designer",
+    "city": "Pune",
+    "address": "Plot 712, Viman Nagar Street, Pune - 289739",
+    "phone": "+91-7060942404",
+    "source": "Google Maps",
+    "created_at": "2026-02-26T00:01:12.928449"
+  },
+  {
+    "business_name": "Raj Mishra HygieneX",
+    "category": "Pest Control",
+    "city": "Kochi",
+    "address": "Plot 404, Main Area Road, Kochi - 900533",
+    "phone": "+91-9783295402",
+    "source": "Google Maps",
+    "created_at": "2026-02-14T12:01:12.928461"
+  },
+  {
+    "business_name": "Bhat Courier Services",
+    "category": "Courier Service",
+    "city": "Mumbai",
+    "address": "Plot 858, Andheri Colony, Mumbai - 957103",
+    "phone": "+91-7040336510",
+    "source": "Justdial",
+    "created_at": "2026-05-03T14:01:12.928472"
+  },
+  {
+    "business_name": "Sri Pillai Legal Associates",
+    "category": "Lawyer",
+    "city": "Visakhapatnam",
+    "address": "Plot 648, Main Area Colony, Visakhapatnam - 796958",
+    "phone": "+91-9586515170",
+    "source": "Google Maps",
+    "created_at": "2026-05-01T00:01:12.928484"
+  },
+  {
+    "business_name": "Sunita's Plumbing Services",
+    "category": "Plumber",
+    "city": "Kolkata",
+    "address": "Plot 813, Salt Lake Marg, Kolkata - 363361",
+    "phone": "+91-9483297734",
+    "source": "TradeIndia",
+    "created_at": "2026-02-22T02:01:12.928496"
+  },
+  {
+    "business_name": "Nikhil's Digital Studio",
+    "category": "Web Developer",
+    "city": "Visakhapatnam",
+    "address": "Plot 32, Station Road Enclave, Visakhapatnam - 816721",
+    "phone": "+91-9169876242",
+    "source": "IndiaMART",
+    "created_at": "2026-05-07T00:01:12.928510"
+  },
+  {
+    "business_name": "Agarwal Auto Works",
+    "category": "Car Repair",
+    "city": "Delhi",
+    "address": "Plot 197, Dwarka Colony, Delhi - 261705",
+    "phone": "+91-9886546765",
+    "source": "TradeIndia",
+    "created_at": "2026-02-23T07:01:12.928523"
+  },
+  {
+    "business_name": "New Iyer Studio",
+    "category": "Photographer",
+    "city": "Lucknow",
+    "address": "Plot 883, Aliganj Road, Lucknow - 915431",
+    "phone": "+91-9555339518",
+    "source": "TradeIndia",
+    "created_at": "2026-05-06T10:01:12.928535"
+  },
+  {
+    "business_name": "Royal Tech Solutions",
+    "category": "Web Developer",
+    "city": "Jaipur",
+    "address": "Plot 95, Mansarovar Road, Jaipur - 909444",
+    "phone": "+91-8809611157",
+    "source": "IndiaMART",
+    "created_at": "2026-02-27T10:01:12.928547"
+  },
+  {
+    "business_name": "Pooja Mehta Makeover Studio",
+    "category": "Salon",
+    "city": "Bangalore",
+    "address": "Plot 734, JP Nagar Lane, Bangalore - 739980",
+    "phone": "+91-9705359281",
+    "source": "Sulekha",
+    "created_at": "2026-04-06T08:01:12.928560"
+  },
+  {
+    "business_name": "Neha Patel IT Services",
+    "category": "Web Developer",
+    "city": "Hyderabad",
+    "address": "Plot 86, Ameerpet Nagar, Hyderabad - 266625",
+    "phone": "+91-7057694554",
+    "source": "TradeIndia",
+    "created_at": "2026-03-05T07:01:12.928573"
+  },
+  {
+    "business_name": "New Singh Dental Clinic",
+    "category": "Dentist",
+    "city": "Vadodara",
+    "address": "Plot 913, Main Area Street, Vadodara - 105073",
+    "phone": "+91-9686048418",
+    "source": "Google Maps",
+    "created_at": "2026-04-03T04:01:12.928585"
+  },
+  {
+    "business_name": "Singh Gym & Spa",
+    "category": "Gym",
+    "city": "Jaipur",
+    "address": "Plot 241, Mansarovar Road, Jaipur - 183976",
+    "phone": "+91-9601883287",
+    "source": "Google Maps",
+    "created_at": "2026-05-01T15:01:12.928600"
+  },
+  {
+    "business_name": "Sri Rao Digital Studio",
+    "category": "Web Developer",
+    "city": "Surat",
+    "address": "Plot 144, Station Road Nagar, Surat - 949800",
+    "phone": "+91-7024089120",
+    "source": "Justdial",
+    "created_at": "2026-04-07T22:01:12.928613"
+  },
+  {
+    "business_name": "Royal Health Club",
+    "category": "Gym",
+    "city": "Bhopal",
+    "address": "Plot 22, Station Road Colony, Bhopal - 856674",
+    "phone": "+91-7023750596",
+    "source": "Justdial",
+    "created_at": "2026-04-22T03:01:12.928625"
+  },
+  {
+    "business_name": "Sri Chauhan Plumbing Services",
+    "category": "Plumber",
+    "city": "Lucknow",
+    "address": "Plot 462, Aminabad Colony, Lucknow - 875088",
+    "phone": "+91-9632572019",
+    "source": "Google Maps",
+    "created_at": "2026-03-15T10:01:12.928639"
+  },
+  {
+    "business_name": "Vikram Desai Cafe",
+    "category": "Restaurant",
+    "city": "Noida",
+    "address": "Plot 275, Central Enclave, Noida - 304248",
+    "phone": "+91-9381241398",
+    "source": "IndiaMART",
+    "created_at": "2026-05-02T12:01:12.928652"
+  },
+  {
+    "business_name": "Royal Plumbing Works",
+    "category": "Plumber",
+    "city": "Noida",
+    "address": "Plot 874, Central Enclave, Noida - 329961",
+    "phone": "+91-9478842534",
+    "source": "Google Maps",
+    "created_at": "2026-04-21T22:01:12.928664"
+  },
+  {
+    "business_name": "Anjali Bhat Fitness Center",
+    "category": "Gym",
+    "city": "Indore",
+    "address": "Plot 130, Central Nagar, Indore - 293167",
+    "phone": "+91-9834819451",
+    "source": "Google Maps",
+    "created_at": "2026-04-19T07:01:12.928676"
+  },
+  {
+    "business_name": "Meera's Dental Care",
+    "category": "Dentist",
+    "city": "Chennai",
+    "address": "Plot 820, Mylapore Nagar, Chennai - 220727",
+    "phone": "+91-8816718473",
+    "source": "Google Maps",
+    "created_at": "2026-05-05T21:01:12.928688"
+  },
+  {
+    "business_name": "New Pillai Studio",
+    "category": "Photographer",
+    "city": "Chennai",
+    "address": "Plot 638, T Nagar Colony, Chennai - 455508",
+    "phone": "+91-8770308815",
+    "source": "Justdial",
+    "created_at": "2026-03-03T02:01:12.928703"
+  },
+  {
+    "business_name": "Deepak's Foods",
+    "category": "Restaurant",
+    "city": "Vadodara",
+    "address": "Plot 796, Station Road Colony, Vadodara - 342979",
+    "phone": "+91-8830821982",
+    "source": "Sulekha",
+    "created_at": "2026-04-24T09:01:12.928717"
+  },
+  {
+    "business_name": "Agarwal Studio",
+    "category": "Photographer",
+    "city": "Mumbai",
+    "address": "Plot 872, Bandra Road, Mumbai - 480779",
+    "phone": "+91-9447329965",
+    "source": "Google Maps",
+    "created_at": "2026-05-06T08:01:12.928730"
+  },
+  {
+    "business_name": "Sri Singh Law Firm",
+    "category": "Lawyer",
+    "city": "Nagpur",
+    "address": "Plot 232, Central Road, Nagpur - 834927",
+    "phone": "+91-9739592017",
+    "source": "TradeIndia",
+    "created_at": "2026-04-10T16:01:12.928749"
+  },
+  {
+    "business_name": "Sri Patel Homes",
+    "category": "Real Estate Agent",
+    "city": "Bhopal",
+    "address": "Plot 602, Central Colony, Bhopal - 453889",
+    "phone": "+91-9761315878",
+    "source": "IndiaMART",
+    "created_at": "2026-03-19T21:01:12.928770"
+  },
+  {
+    "business_name": "Royal Electricals",
+    "category": "Electrician",
+    "city": "Ahmedabad",
+    "address": "Plot 751, Navrangpura Colony, Ahmedabad - 911288",
+    "phone": "+91-9563582229",
+    "source": "TradeIndia",
+    "created_at": "2026-03-16T10:01:12.928784"
+  },
+  {
+    "business_name": "Divya's Design Studio",
+    "category": "Interior Designer",
+    "city": "Vadodara",
+    "address": "Plot 127, Main Area Nagar, Vadodara - 609847",
+    "phone": "+91-9364475602",
+    "source": "Sulekha",
+    "created_at": "2026-03-24T15:01:12.928797"
+  },
+  {
+    "business_name": "New Mehta & Advocates",
+    "category": "Lawyer",
+    "city": "Lucknow",
+    "address": "Plot 540, Hazratganj Road, Lucknow - 479097",
+    "phone": "+91-9194930278",
+    "source": "Sulekha",
+    "created_at": "2026-03-23T17:01:12.928810"
+  },
+  {
+    "business_name": "New Agarwal Tax Consultants",
+    "category": "CA/Accountant",
+    "city": "Nagpur",
+    "address": "Plot 568, Central Marg, Nagpur - 850145",
+    "phone": "+91-9357653005",
+    "source": "Sulekha",
+    "created_at": "2026-04-16T13:01:12.928823"
+  },
+  {
+    "business_name": "Sri Iyer Dining",
+    "category": "Restaurant",
+    "city": "Indore",
+    "address": "Plot 776, Station Road Nagar, Indore - 327880",
+    "phone": "+91-8849569926",
+    "source": "IndiaMART",
+    "created_at": "2026-03-29T10:01:12.928836"
+  },
+  {
+    "business_name": "Sharma Garage",
+    "category": "Car Repair",
+    "city": "Mumbai",
+    "address": "Plot 32, Andheri Colony, Mumbai - 987885",
+    "phone": "+91-7063203358",
+    "source": "IndiaMART",
+    "created_at": "2026-03-01T00:01:12.928847"
+  },
+  {
+    "business_name": "New Gupta Auto Works",
+    "category": "Car Repair",
+    "city": "Surat",
+    "address": "Plot 365, Central Road, Surat - 738693",
+    "phone": "+91-9868265560",
+    "source": "IndiaMART",
+    "created_at": "2026-02-17T08:01:12.928860"
+  },
+  {
+    "business_name": "Patil Coaching Center",
+    "category": "Tutor",
+    "city": "Coimbatore",
+    "address": "Plot 904, Central Enclave, Coimbatore - 399648",
+    "phone": "+91-9585324277",
+    "source": "Justdial",
+    "created_at": "2026-03-26T20:01:12.928872"
+  },
+  {
+    "business_name": "Royal Events",
+    "category": "Event Planner",
+    "city": "Surat",
+    "address": "Plot 345, Central Street, Surat - 471542",
+    "phone": "+91-9103601138",
+    "source": "Google Maps",
+    "created_at": "2026-03-18T13:01:12.928887"
+  },
+  {
+    "business_name": "Sri Singh Logistics",
+    "category": "Courier Service",
+    "city": "Pune",
+    "address": "Plot 706, Hadapsar Marg, Pune - 552104",
+    "phone": "+91-9003516054",
+    "source": "Sulekha",
+    "created_at": "2026-04-04T23:01:12.928899"
+  },
+  {
+    "business_name": "New Kumar Catering Co.",
+    "category": "Caterer",
+    "city": "Coimbatore",
+    "address": "Plot 79, Central Marg, Coimbatore - 668563",
+    "phone": "+91-7074233366",
+    "source": "IndiaMART",
+    "created_at": "2026-04-18T18:01:12.928910"
+  },
+  {
+    "business_name": "Mishra Legal Associates",
+    "category": "Lawyer",
+    "city": "Pune",
+    "address": "Plot 222, Kothrud Nagar, Pune - 456598",
+    "phone": "+91-9151007953",
+    "source": "Sulekha",
+    "created_at": "2026-05-12T22:01:12.928922"
+  },
+  {
+    "business_name": "New Nair Logistics",
+    "category": "Courier Service",
+    "city": "Bhopal",
+    "address": "Plot 974, Station Road Nagar, Bhopal - 937859",
+    "phone": "+91-9132700141",
+    "source": "TradeIndia",
+    "created_at": "2026-04-08T06:01:12.928936"
+  },
+  {
+    "business_name": "Rao IT Services",
+    "category": "Web Developer",
+    "city": "Chandigarh",
+    "address": "Plot 843, Station Road Marg, Chandigarh - 615027",
+    "phone": "+91-9158253270",
+    "source": "TradeIndia",
+    "created_at": "2026-03-05T13:01:12.928947"
+  },
+  {
+    "business_name": "Royal Electronics",
+    "category": "Electronics Repair",
+    "city": "Indore",
+    "address": "Plot 746, Central Road, Indore - 656776",
+    "phone": "+91-9883358294",
+    "source": "Sulekha",
+    "created_at": "2026-05-10T21:01:12.928962"
+  },
+  {
+    "business_name": "Royal Health Center",
+    "category": "Doctor",
+    "city": "Bhopal",
+    "address": "Plot 13, Station Road Marg, Bhopal - 876146",
+    "phone": "+91-9771500252",
+    "source": "Google Maps",
+    "created_at": "2026-04-30T09:01:12.928977"
+  },
+  {
+    "business_name": "New Agarwal Clinic",
+    "category": "Doctor",
+    "city": "Indore",
+    "address": "Plot 51, Main Area Street, Indore - 500696",
+    "phone": "+91-9459923505",
+    "source": "IndiaMART",
+    "created_at": "2026-04-12T09:01:12.928989"
+  },
+  {
+    "business_name": "Mishra Catering Co.",
+    "category": "Caterer",
+    "city": "Surat",
+    "address": "Plot 915, Central Street, Surat - 941187",
+    "phone": "+91-9129309144",
+    "source": "Google Maps",
+    "created_at": "2026-04-01T20:01:12.929001"
+  },
+  {
+    "business_name": "New Reddy Interiors",
+    "category": "Interior Designer",
+    "city": "Kochi",
+    "address": "Plot 287, Main Area Street, Kochi - 885056",
+    "phone": "+91-9538433576",
+    "source": "Justdial",
+    "created_at": "2026-03-10T18:01:12.929014"
+  },
+  {
+    "business_name": "Sri Rao & Associates",
+    "category": "CA/Accountant",
+    "city": "Kolkata",
+    "address": "Plot 228, New Town Nagar, Kolkata - 449849",
+    "phone": "+91-8759971624",
+    "source": "Google Maps",
+    "created_at": "2026-04-28T13:01:12.929026"
+  },
+  {
+    "business_name": "New Iyer Health Center",
+    "category": "Doctor",
+    "city": "Indore",
+    "address": "Plot 18, Station Road Marg, Indore - 616138",
+    "phone": "+91-8895714404",
+    "source": "TradeIndia",
+    "created_at": "2026-03-16T18:01:12.929039"
+  },
+  {
+    "business_name": "Nikhil's Dhaba",
+    "category": "Restaurant",
+    "city": "Nagpur",
+    "address": "Plot 724, Central Colony, Nagpur - 860884",
+    "phone": "+91-9160160216",
+    "source": "TradeIndia",
+    "created_at": "2026-03-26T17:01:12.929051"
+  },
+  {
+    "business_name": "Sunita's Learning Hub",
+    "category": "Tutor",
+    "city": "Jaipur",
+    "address": "Plot 606, C Scheme Colony, Jaipur - 837993",
+    "phone": "+91-7014246442",
+    "source": "IndiaMART",
+    "created_at": "2026-05-11T09:01:12.929063"
+  },
+  {
+    "business_name": "Patil Design Studio",
+    "category": "Interior Designer",
+    "city": "Delhi",
+    "address": "Plot 568, Rohini Enclave, Delhi - 714972",
+    "phone": "+91-9708784335",
+    "source": "Sulekha",
+    "created_at": "2026-03-09T15:01:12.929076"
+  },
+  {
+    "business_name": "Royal Photography",
+    "category": "Photographer",
+    "city": "Jaipur",
+    "address": "Plot 325, Tonk Road Nagar, Jaipur - 290886",
+    "phone": "+91-8872867425",
+    "source": "Justdial",
+    "created_at": "2026-03-20T04:01:12.929089"
+  },
+  {
+    "business_name": "Agarwal Dental Clinic",
+    "category": "Dentist",
+    "city": "Lucknow",
+    "address": "Plot 884, Aminabad Colony, Lucknow - 697250",
+    "phone": "+91-9131385694",
+    "source": "IndiaMART",
+    "created_at": "2026-03-15T01:01:12.929111"
+  },
+  {
+    "business_name": "Manoj Rao Photography",
+    "category": "Photographer",
+    "city": "Bhopal",
+    "address": "Plot 40, Station Road Street, Bhopal - 392305",
+    "phone": "+91-9772412532",
+    "source": "Justdial",
+    "created_at": "2026-03-22T18:01:12.929134"
+  },
+  {
+    "business_name": "Royal Studio",
+    "category": "Photographer",
+    "city": "Visakhapatnam",
+    "address": "Plot 937, Central Marg, Visakhapatnam - 673167",
+    "phone": "+91-9117146048",
+    "source": "IndiaMART",
+    "created_at": "2026-04-22T05:01:12.929158"
+  },
+  {
+    "business_name": "Desai Smile Studio",
+    "category": "Dentist",
+    "city": "Vadodara",
+    "address": "Plot 468, Station Road Road, Vadodara - 181643",
+    "phone": "+91-9361094263",
+    "source": "Sulekha",
+    "created_at": "2026-05-08T01:01:12.929175"
+  },
+  {
+    "business_name": "Mehta Health Club",
+    "category": "Gym",
+    "city": "Jaipur",
+    "address": "Plot 342, Tonk Road Nagar, Jaipur - 487777",
+    "phone": "+91-8790067479",
+    "source": "Sulekha",
+    "created_at": "2026-03-16T06:01:12.929188"
+  },
+  {
+    "business_name": "Neha Shah Logistics",
+    "category": "Courier Service",
+    "city": "Coimbatore",
+    "address": "Plot 980, Station Road Street, Coimbatore - 535140",
+    "phone": "+91-9070754846",
+    "source": "TradeIndia",
+    "created_at": "2026-03-20T07:01:12.929200"
+  },
+  {
+    "business_name": "Royal HygieneX",
+    "category": "Pest Control",
+    "city": "Lucknow",
+    "address": "Plot 321, Aminabad Lane, Lucknow - 372417",
+    "phone": "+91-8868508210",
+    "source": "TradeIndia",
+    "created_at": "2026-03-07T01:01:12.929212"
+  },
+  {
+    "business_name": "Ravi Chauhan Smile Studio",
+    "category": "Dentist",
+    "city": "Jaipur",
+    "address": "Plot 653, Malviya Nagar Enclave, Jaipur - 259957",
+    "phone": "+91-8806290581",
+    "source": "Google Maps",
+    "created_at": "2026-03-01T02:01:12.929227"
+  },
+  {
+    "business_name": "Manoj Verma Interiors",
+    "category": "Interior Designer",
+    "city": "Visakhapatnam",
+    "address": "Plot 581, Central Enclave, Visakhapatnam - 467681",
+    "phone": "+91-8883555737",
+    "source": "TradeIndia",
+    "created_at": "2026-04-04T17:01:12.929240"
+  },
+  {
+    "business_name": "Neha Mishra Beauty Salon",
+    "category": "Salon",
+    "city": "Noida",
+    "address": "Plot 54, Station Road Nagar, Noida - 905809",
+    "phone": "+91-9685187631",
+    "source": "IndiaMART",
+    "created_at": "2026-03-18T07:01:12.929254"
+  },
+  {
+    "business_name": "Joshi Kitchen",
+    "category": "Restaurant",
+    "city": "Surat",
+    "address": "Plot 516, Central Marg, Surat - 267627",
+    "phone": "+91-8830553805",
+    "source": "TradeIndia",
+    "created_at": "2026-04-29T16:01:12.929273"
+  },
+  {
+    "business_name": "Ravi's Plumbing Services",
+    "category": "Plumber",
+    "city": "Bhopal",
+    "address": "Plot 888, Main Area Road, Bhopal - 356846",
+    "phone": "+91-7075341913",
+    "source": "TradeIndia",
+    "created_at": "2026-03-24T23:01:12.929298"
+  },
+  {
+    "business_name": "Vikram's Photo Works",
+    "category": "Photographer",
+    "city": "Chandigarh",
+    "address": "Plot 310, Central Street, Chandigarh - 820548",
+    "phone": "+91-9131535793",
+    "source": "Sulekha",
+    "created_at": "2026-04-12T06:01:12.929311"
+  },
+  {
+    "business_name": "Royal Smile Studio",
+    "category": "Dentist",
+    "city": "Vadodara",
+    "address": "Plot 176, Station Road Road, Vadodara - 910303",
+    "phone": "+91-9741932367",
+    "source": "Google Maps",
+    "created_at": "2026-04-08T01:01:12.929323"
+  },
+  {
+    "business_name": "Sharma Bites",
+    "category": "Restaurant",
+    "city": "Kolkata",
+    "address": "Plot 671, Gariahat Street, Kolkata - 847088",
+    "phone": "+91-9399191153",
+    "source": "IndiaMART",
+    "created_at": "2026-04-04T08:01:12.929335"
+  },
+  {
+    "business_name": "Patel Food Services",
+    "category": "Caterer",
+    "city": "Bhopal",
+    "address": "Plot 491, Central Street, Bhopal - 269496",
+    "phone": "+91-8845610517",
+    "source": "IndiaMART",
+    "created_at": "2026-03-29T20:01:12.929378"
+  },
+  {
+    "business_name": "Sri Sharma Classes",
+    "category": "Tutor",
+    "city": "Chandigarh",
+    "address": "Plot 814, Station Road Street, Chandigarh - 329186",
+    "phone": "+91-9505655212",
+    "source": "TradeIndia",
+    "created_at": "2026-03-15T07:01:12.929394"
+  },
+  {
+    "business_name": "Sri Rao Hair Studio",
+    "category": "Salon",
+    "city": "Bhopal",
+    "address": "Plot 665, Station Road Street, Bhopal - 146728",
+    "phone": "+91-9380890230",
+    "source": "Sulekha",
+    "created_at": "2026-04-21T03:01:12.929406"
+  },
+  {
+    "business_name": "Amit's Spa",
+    "category": "Salon",
+    "city": "Bangalore",
+    "address": "Plot 370, HSR Layout Marg, Bangalore - 887538",
+    "phone": "+91-9514127936",
+    "source": "Sulekha",
+    "created_at": "2026-03-10T10:01:12.929419"
+  },
+  {
+    "business_name": "Sri Iyer Tech Repair",
+    "category": "Electronics Repair",
+    "city": "Kolkata",
+    "address": "Plot 580, Howrah Road, Kolkata - 372254",
+    "phone": "+91-9470974474",
+    "source": "Google Maps",
+    "created_at": "2026-03-02T11:01:12.929432"
+  },
+  {
+    "business_name": "Kumar & Advocates",
+    "category": "Lawyer",
+    "city": "Kolkata",
+    "address": "Plot 736, New Town Road, Kolkata - 534779",
+    "phone": "+91-8792215224",
+    "source": "Sulekha",
+    "created_at": "2026-02-20T00:01:12.929446"
+  },
+  {
+    "business_name": "Arun's Dental Clinic",
+    "category": "Dentist",
+    "city": "Kolkata",
+    "address": "Plot 436, New Town Lane, Kolkata - 630935",
+    "phone": "+91-9071193666",
+    "source": "Sulekha",
+    "created_at": "2026-04-16T13:01:12.929458"
+  },
+  {
+    "business_name": "Raj Mehta Beauty Salon",
+    "category": "Salon",
+    "city": "Surat",
+    "address": "Plot 558, Station Road Colony, Surat - 411930",
+    "phone": "+91-9824144269",
+    "source": "Google Maps",
+    "created_at": "2026-04-23T05:01:12.929470"
+  },
+  {
+    "business_name": "Amit's HygieneX",
+    "category": "Pest Control",
+    "city": "Coimbatore",
+    "address": "Plot 727, Central Enclave, Coimbatore - 985807",
+    "phone": "+91-9588369339",
+    "source": "IndiaMART",
+    "created_at": "2026-04-08T11:01:12.929485"
+  },
+  {
+    "business_name": "Anjali Bhat Dental Care",
+    "category": "Dentist",
+    "city": "Visakhapatnam",
+    "address": "Plot 176, Main Area Marg, Visakhapatnam - 771100",
+    "phone": "+91-9094105952",
+    "source": "Sulekha",
+    "created_at": "2026-03-16T00:01:12.929499"
+  },
+  {
+    "business_name": "Kavita's Dental Care",
+    "category": "Dentist",
+    "city": "Chandigarh",
+    "address": "Plot 284, Central Road, Chandigarh - 138200",
+    "phone": "+91-9705715285",
+    "source": "IndiaMART",
+    "created_at": "2026-04-02T20:01:12.929511"
+  },
+  {
+    "business_name": "Anjali Menon Interiors",
+    "category": "Interior Designer",
+    "city": "Chandigarh",
+    "address": "Plot 131, Main Area Street, Chandigarh - 237645",
+    "phone": "+91-9312180899",
+    "source": "IndiaMART",
+    "created_at": "2026-02-18T10:01:12.929523"
+  },
+  {
+    "business_name": "Iyer Dental Clinic",
+    "category": "Dentist",
+    "city": "Bhopal",
+    "address": "Plot 765, Main Area Marg, Bhopal - 635881",
+    "phone": "+91-8805534017",
+    "source": "Sulekha",
+    "created_at": "2026-05-02T15:01:12.929535"
+  },
+  {
+    "business_name": "Verma Pipe Solutions",
+    "category": "Plumber",
+    "city": "Vadodara",
+    "address": "Plot 191, Main Area Nagar, Vadodara - 206956",
+    "phone": "+91-9508864373",
+    "source": "TradeIndia",
+    "created_at": "2026-03-17T23:01:12.929549"
+  },
+  {
+    "business_name": "Priya's Legal Associates",
+    "category": "Lawyer",
+    "city": "Nagpur",
+    "address": "Plot 574, Station Road Road, Nagpur - 461464",
+    "phone": "+91-9626646029",
+    "source": "Justdial",
+    "created_at": "2026-03-15T10:01:12.929560"
+  },
+  {
+    "business_name": "New Shah Courier Services",
+    "category": "Courier Service",
+    "city": "Delhi",
+    "address": "Plot 510, Connaught Place Colony, Delhi - 996919",
+    "phone": "+91-9618100687",
+    "source": "Sulekha",
+    "created_at": "2026-03-05T16:01:12.929572"
+  },
+  {
+    "business_name": "Chauhan Events",
+    "category": "Event Planner",
+    "city": "Mumbai",
+    "address": "Plot 361, Dadar Street, Mumbai - 971352",
+    "phone": "+91-9696192513",
+    "source": "IndiaMART",
+    "created_at": "2026-04-26T19:01:12.929584"
+  },
+  {
+    "business_name": "New Kulkarni Car Care",
+    "category": "Car Repair",
+    "city": "Hyderabad",
+    "address": "Plot 222, Gachibowli Marg, Hyderabad - 939828",
+    "phone": "+91-9559564105",
+    "source": "TradeIndia",
+    "created_at": "2026-02-15T09:01:12.929595"
+  },
+  {
+    "business_name": "New Patil Celebrations",
+    "category": "Event Planner",
+    "city": "Kolkata",
+    "address": "Plot 417, Howrah Road, Kolkata - 957151",
+    "phone": "+91-9896418548",
+    "source": "Google Maps",
+    "created_at": "2026-04-13T00:01:12.929613"
+  },
+  {
+    "business_name": "Sri Verma Real Estate",
+    "category": "Real Estate Agent",
+    "city": "Lucknow",
+    "address": "Plot 997, Aliganj Nagar, Lucknow - 939877",
+    "phone": "+91-9857578604",
+    "source": "TradeIndia",
+    "created_at": "2026-02-20T21:01:12.929625"
+  },
+  {
+    "business_name": "Sri Menon Gym & Spa",
+    "category": "Gym",
+    "city": "Mumbai",
+    "address": "Plot 485, Andheri Road, Mumbai - 860844",
+    "phone": "+91-8754157884",
+    "source": "Justdial",
+    "created_at": "2026-04-17T05:01:12.929637"
+  },
+  {
+    "business_name": "Nair Realty",
+    "category": "Real Estate Agent",
+    "city": "Chennai",
+    "address": "Plot 376, Anna Nagar Road, Chennai - 500689",
+    "phone": "+91-9404071316",
+    "source": "TradeIndia",
+    "created_at": "2026-02-26T11:01:12.929649"
+  },
+  {
+    "business_name": "New Kulkarni Cafe",
+    "category": "Restaurant",
+    "city": "Indore",
+    "address": "Plot 207, Main Area Lane, Indore - 500491",
+    "phone": "+91-9654678749",
+    "source": "Sulekha",
+    "created_at": "2026-02-18T11:01:12.929661"
+  },
+  {
+    "business_name": "Sri Mehta Express",
+    "category": "Courier Service",
+    "city": "Bangalore",
+    "address": "Plot 361, Indiranagar Nagar, Bangalore - 160282",
+    "phone": "+91-9048289036",
+    "source": "Sulekha",
+    "created_at": "2026-03-27T06:01:12.929672"
+  },
+  {
+    "business_name": "Meera Bhat Health Club",
+    "category": "Gym",
+    "city": "Chennai",
+    "address": "Plot 491, T Nagar Road, Chennai - 186032",
+    "phone": "+91-9504654603",
+    "source": "Justdial",
+    "created_at": "2026-05-01T10:01:12.929688"
+  },
+  {
+    "business_name": "Priya's Bites",
+    "category": "Restaurant",
+    "city": "Chennai",
+    "address": "Plot 531, Anna Nagar Colony, Chennai - 513880",
+    "phone": "+91-8832357502",
+    "source": "TradeIndia",
+    "created_at": "2026-04-28T10:01:12.929700"
+  },
+  {
+    "business_name": "Sri Joshi Classes",
+    "category": "Tutor",
+    "city": "Bangalore",
+    "address": "Plot 140, Whitefield Lane, Bangalore - 172328",
+    "phone": "+91-9798658547",
+    "source": "Sulekha",
+    "created_at": "2026-03-13T02:01:12.929712"
+  },
+  {
+    "business_name": "Sanjay's Accounting Firm",
+    "category": "CA/Accountant",
+    "city": "Lucknow",
+    "address": "Plot 639, Aminabad Street, Lucknow - 959902",
+    "phone": "+91-9729073052",
+    "source": "Sulekha",
+    "created_at": "2026-04-01T01:01:12.929724"
+  },
+  {
+    "business_name": "Sri Iyer Auto Works",
+    "category": "Car Repair",
+    "city": "Kochi",
+    "address": "Plot 578, Central Colony, Kochi - 381779",
+    "phone": "+91-9158577593",
+    "source": "TradeIndia",
+    "created_at": "2026-03-24T03:01:12.929736"
+  },
+  {
+    "business_name": "New Gupta Pest Solutions",
+    "category": "Pest Control",
+    "city": "Visakhapatnam",
+    "address": "Plot 49, Central Road, Visakhapatnam - 366738",
+    "phone": "+91-7052064629",
+    "source": "TradeIndia",
+    "created_at": "2026-04-23T08:01:12.929748"
+  },
+  {
+    "business_name": "Sri Verma Gym & Spa",
+    "category": "Gym",
+    "city": "Lucknow",
+    "address": "Plot 232, Indira Nagar Enclave, Lucknow - 371462",
+    "phone": "+91-9651178340",
+    "source": "Justdial",
+    "created_at": "2026-03-27T13:01:12.929761"
+  },
+  {
+    "business_name": "Sanjay Rao Gym & Spa",
+    "category": "Gym",
+    "city": "Indore",
+    "address": "Plot 209, Main Area Road, Indore - 775155",
+    "phone": "+91-9028982919",
+    "source": "TradeIndia",
+    "created_at": "2026-03-18T16:01:12.929777"
+  },
+  {
+    "business_name": "Sri Desai Tax Consultants",
+    "category": "CA/Accountant",
+    "city": "Lucknow",
+    "address": "Plot 317, Aliganj Street, Lucknow - 511714",
+    "phone": "+91-9127421253",
+    "source": "Sulekha",
+    "created_at": "2026-02-18T06:01:12.929790"
+  },
+  {
+    "business_name": "Kavita Gupta Law Firm",
+    "category": "Lawyer",
+    "city": "Kolkata",
+    "address": "Plot 619, Salt Lake Enclave, Kolkata - 884462",
+    "phone": "+91-9653353837",
+    "source": "IndiaMART",
+    "created_at": "2026-03-03T01:01:12.929815"
+  },
+  {
+    "business_name": "Arun's Hair Studio",
+    "category": "Salon",
+    "city": "Visakhapatnam",
+    "address": "Plot 790, Station Road Colony, Visakhapatnam - 199830",
+    "phone": "+91-9779497694",
+    "source": "IndiaMART",
+    "created_at": "2026-03-09T08:01:12.929833"
+  },
+  {
+    "business_name": "Nikhil Joshi Classes",
+    "category": "Tutor",
+    "city": "Delhi",
+    "address": "Plot 462, Karol Bagh Enclave, Delhi - 336034",
+    "phone": "+91-9083920646",
+    "source": "Justdial",
+    "created_at": "2026-02-27T02:01:12.929845"
+  },
+  {
+    "business_name": "New Reddy Digital Studio",
+    "category": "Web Developer",
+    "city": "Noida",
+    "address": "Plot 362, Station Road Marg, Noida - 135312",
+    "phone": "+91-9894030404",
+    "source": "Google Maps",
+    "created_at": "2026-03-04T13:01:12.929857"
+  },
+  {
+    "business_name": "Sanjay's Plumbing Works",
+    "category": "Plumber",
+    "city": "Vadodara",
+    "address": "Plot 968, Station Road Lane, Vadodara - 990410",
+    "phone": "+91-9407375942",
+    "source": "Sulekha",
+    "created_at": "2026-03-31T16:01:12.929869"
+  },
+  {
+    "business_name": "Rahul's Events",
+    "category": "Event Planner",
+    "city": "Coimbatore",
+    "address": "Plot 753, Central Nagar, Coimbatore - 216974",
+    "phone": "+91-8838970078",
+    "source": "Justdial",
+    "created_at": "2026-05-04T01:01:12.929881"
+  },
+  {
+    "business_name": "Suresh Kumar Gym & Spa",
+    "category": "Gym",
+    "city": "Vadodara",
+    "address": "Plot 380, Central Enclave, Vadodara - 766840",
+    "phone": "+91-9738460975",
+    "source": "IndiaMART",
+    "created_at": "2026-02-21T19:01:12.929894"
+  },
+  {
+    "business_name": "Gupta Plumbing Works",
+    "category": "Plumber",
+    "city": "Chandigarh",
+    "address": "Plot 806, Main Area Colony, Chandigarh - 890254",
+    "phone": "+91-9043722862",
+    "source": "Justdial",
+    "created_at": "2026-04-04T04:01:12.929905"
+  },
+  {
+    "business_name": "Sri Kulkarni Plumbing Works",
+    "category": "Plumber",
+    "city": "Lucknow",
+    "address": "Plot 410, Indira Nagar Marg, Lucknow - 815129",
+    "phone": "+91-9473830447",
+    "source": "IndiaMART",
+    "created_at": "2026-04-20T09:01:12.929917"
+  },
+  {
+    "business_name": "Iyer & Associates",
+    "category": "CA/Accountant",
+    "city": "Bhopal",
+    "address": "Plot 146, Station Road Nagar, Bhopal - 112449",
+    "phone": "+91-9197657079",
+    "source": "IndiaMART",
+    "created_at": "2026-04-21T15:01:12.929929"
+  },
+  {
+    "business_name": "Suresh Gupta Events",
+    "category": "Event Planner",
+    "city": "Jaipur",
+    "address": "Plot 231, C Scheme Lane, Jaipur - 594796",
+    "phone": "+91-8729945124",
+    "source": "Justdial",
+    "created_at": "2026-05-01T19:01:12.929941"
+  },
+  {
+    "business_name": "Sri Mehta Power Solutions",
+    "category": "Electrician",
+    "city": "Noida",
+    "address": "Plot 424, Main Area Enclave, Noida - 148408",
+    "phone": "+91-8758227083",
+    "source": "TradeIndia",
+    "created_at": "2026-03-12T20:01:12.929953"
+  },
+  {
+    "business_name": "Pooja Shah Caterers",
+    "category": "Caterer",
+    "city": "Kolkata",
+    "address": "Plot 805, New Town Enclave, Kolkata - 434894",
+    "phone": "+91-8813030116",
+    "source": "Sulekha",
+    "created_at": "2026-04-03T18:01:12.929965"
+  },
+  {
+    "business_name": "Arun's & Advocates",
+    "category": "Lawyer",
+    "city": "Indore",
+    "address": "Plot 372, Main Area Enclave, Indore - 851341",
+    "phone": "+91-8761409722",
+    "source": "TradeIndia",
+    "created_at": "2026-04-08T21:01:12.929976"
+  },
+  {
+    "business_name": "Bhat HygieneX",
+    "category": "Pest Control",
+    "city": "Coimbatore",
+    "address": "Plot 363, Central Colony, Coimbatore - 128959",
+    "phone": "+91-9884880711",
+    "source": "Justdial",
+    "created_at": "2026-04-17T22:01:12.929990"
+  },
+  {
+    "business_name": "Menon Smile Studio",
+    "category": "Dentist",
+    "city": "Ahmedabad",
+    "address": "Plot 240, SG Highway Road, Ahmedabad - 906003",
+    "phone": "+91-9319964764",
+    "source": "TradeIndia",
+    "created_at": "2026-03-22T00:01:12.930002"
+  },
+  {
+    "business_name": "Sunita Patil Digital Studio",
+    "category": "Web Developer",
+    "city": "Chandigarh",
+    "address": "Plot 700, Central Colony, Chandigarh - 874671",
+    "phone": "+91-9765927316",
+    "source": "Justdial",
+    "created_at": "2026-03-25T12:01:12.930015"
+  },
+  {
+    "business_name": "Royal Auto Works",
+    "category": "Car Repair",
+    "city": "Lucknow",
+    "address": "Plot 834, Aliganj Road, Lucknow - 561266",
+    "phone": "+91-9026114795",
+    "source": "Google Maps",
+    "created_at": "2026-03-11T16:01:12.930027"
+  },
+  {
+    "business_name": "Royal & Advocates",
+    "category": "Lawyer",
+    "city": "Bangalore",
+    "address": "Plot 108, Indiranagar Nagar, Bangalore - 885476",
+    "phone": "+91-8861283162",
+    "source": "Google Maps",
+    "created_at": "2026-05-01T01:01:12.930039"
+  },
+  {
+    "business_name": "Swati's Electricals",
+    "category": "Electrician",
+    "city": "Mumbai",
+    "address": "Plot 872, Andheri Street, Mumbai - 988084",
+    "phone": "+91-9742931224",
+    "source": "IndiaMART",
+    "created_at": "2026-04-18T04:01:12.930052"
+  },
+  {
+    "business_name": "Iyer Logistics",
+    "category": "Courier Service",
+    "city": "Chandigarh",
+    "address": "Plot 196, Station Road Colony, Chandigarh - 992953",
+    "phone": "+91-9829360815",
+    "source": "Sulekha",
+    "created_at": "2026-02-26T02:01:12.930067"
+  },
+  {
+    "business_name": "Royal Medical Center",
+    "category": "Doctor",
+    "city": "Noida",
+    "address": "Plot 156, Station Road Colony, Noida - 736517",
+    "phone": "+91-9405995471",
+    "source": "Google Maps",
+    "created_at": "2026-03-11T03:01:12.930079"
+  },
+  {
+    "business_name": "Nikhil Gupta Law Firm",
+    "category": "Lawyer",
+    "city": "Delhi",
+    "address": "Plot 722, Lajpat Nagar Road, Delhi - 666467",
+    "phone": "+91-7044833145",
+    "source": "Google Maps",
+    "created_at": "2026-04-08T22:01:12.930090"
+  },
+  {
+    "business_name": "Priya's Clinic",
+    "category": "Doctor",
+    "city": "Lucknow",
+    "address": "Plot 739, Aminabad Nagar, Lucknow - 942954",
+    "phone": "+91-8843538769",
+    "source": "Sulekha",
+    "created_at": "2026-03-09T08:01:12.930102"
+  },
+  {
+    "business_name": "Rao Courier Services",
+    "category": "Courier Service",
+    "city": "Kochi",
+    "address": "Plot 587, Station Road Nagar, Kochi - 622543",
+    "phone": "+91-9034804810",
+    "source": "IndiaMART",
+    "created_at": "2026-02-15T12:01:12.930114"
+  },
+  {
+    "business_name": "Royal Smile Studio",
+    "category": "Dentist",
+    "city": "Kochi",
+    "address": "Plot 13, Central Lane, Kochi - 290541",
+    "phone": "+91-9167007344",
+    "source": "Sulekha",
+    "created_at": "2026-04-06T22:01:12.930126"
+  },
+  {
+    "business_name": "Agarwal HygieneX",
+    "category": "Pest Control",
+    "city": "Surat",
+    "address": "Plot 933, Main Area Colony, Surat - 142609",
+    "phone": "+91-8857917453",
+    "source": "Sulekha",
+    "created_at": "2026-03-07T05:01:12.930138"
+  },
+  {
+    "business_name": "Royal Cafe",
+    "category": "Restaurant",
+    "city": "Noida",
+    "address": "Plot 122, Main Area Enclave, Noida - 818962",
+    "phone": "+91-9816219117",
+    "source": "IndiaMART",
+    "created_at": "2026-05-13T00:01:12.930152"
+  },
+  {
+    "business_name": "Suresh Bhat Logistics",
+    "category": "Courier Service",
+    "city": "Vadodara",
+    "address": "Plot 866, Central Colony, Vadodara - 427794",
+    "phone": "+91-9090899893",
+    "source": "IndiaMART",
+    "created_at": "2026-05-07T20:01:12.930164"
+  },
+  {
+    "business_name": "Anita's HygieneX",
+    "category": "Pest Control",
+    "city": "Vadodara",
+    "address": "Plot 336, Station Road Road, Vadodara - 541733",
+    "phone": "+91-9365420816",
+    "source": "Google Maps",
+    "created_at": "2026-05-07T14:01:12.930176"
+  },
+  {
+    "business_name": "Royal Coaching Center",
+    "category": "Tutor",
+    "city": "Bangalore",
+    "address": "Plot 494, HSR Layout Marg, Bangalore - 813021",
+    "phone": "+91-9386498646",
+    "source": "TradeIndia",
+    "created_at": "2026-04-07T15:01:12.930188"
+  },
+  {
+    "business_name": "Royal Decor House",
+    "category": "Interior Designer",
+    "city": "Mumbai",
+    "address": "Plot 439, Juhu Road, Mumbai - 367663",
+    "phone": "+91-9345105618",
+    "source": "Google Maps",
+    "created_at": "2026-04-22T15:01:12.930200"
+  },
+  {
+    "business_name": "New Singh Express",
+    "category": "Courier Service",
+    "city": "Hyderabad",
+    "address": "Plot 657, Madhapur Street, Hyderabad - 636923",
+    "phone": "+91-9021987874",
+    "source": "IndiaMART",
+    "created_at": "2026-03-27T13:01:12.930212"
+  },
+  {
+    "business_name": "New Bhat Smile Studio",
+    "category": "Dentist",
+    "city": "Kolkata",
+    "address": "Plot 295, Park Street Nagar, Kolkata - 512861",
+    "phone": "+91-9581825416",
+    "source": "Justdial",
+    "created_at": "2026-05-06T21:01:12.930224"
+  },
+  {
+    "business_name": "Meera Singh Catering Co.",
+    "category": "Caterer",
+    "city": "Chandigarh",
+    "address": "Plot 538, Station Road Lane, Chandigarh - 402578",
+    "phone": "+91-9368438793",
+    "source": "Sulekha",
+    "created_at": "2026-04-20T18:01:12.930235"
+  },
+  {
+    "business_name": "Royal Smile Studio",
+    "category": "Dentist",
+    "city": "Nagpur",
+    "address": "Plot 93, Central Nagar, Nagpur - 957747",
+    "phone": "+91-7029076830",
+    "source": "Google Maps",
+    "created_at": "2026-03-19T20:01:12.930247"
+  },
+  {
+    "business_name": "Meera's Fitness Center",
+    "category": "Gym",
+    "city": "Visakhapatnam",
+    "address": "Plot 194, Central Nagar, Visakhapatnam - 914484",
+    "phone": "+91-9129907343",
+    "source": "Justdial",
+    "created_at": "2026-04-04T07:01:12.930259"
+  },
+  {
+    "business_name": "New Sharma Logistics",
+    "category": "Courier Service",
+    "city": "Jaipur",
+    "address": "Plot 186, C Scheme Enclave, Jaipur - 945578",
+    "phone": "+91-9666245181",
+    "source": "IndiaMART",
+    "created_at": "2026-05-05T15:01:12.930271"
+  },
+  {
+    "business_name": "Nikhil's Celebrations",
+    "category": "Event Planner",
+    "city": "Chennai",
+    "address": "Plot 238, Mylapore Nagar, Chennai - 804309",
+    "phone": "+91-9587302527",
+    "source": "TradeIndia",
+    "created_at": "2026-02-13T15:01:12.930284"
+  },
+  {
+    "business_name": "Raj Patil Medical Center",
+    "category": "Doctor",
+    "city": "Kolkata",
+    "address": "Plot 190, Howrah Colony, Kolkata - 776486",
+    "phone": "+91-9128168550",
+    "source": "Justdial",
+    "created_at": "2026-03-23T09:01:12.930297"
+  },
+  {
+    "business_name": "Krishna Singh Homes",
+    "category": "Real Estate Agent",
+    "city": "Surat",
+    "address": "Plot 314, Station Road Street, Surat - 327935",
+    "phone": "+91-9896084123",
+    "source": "IndiaMART",
+    "created_at": "2026-04-05T20:01:12.930309"
+  },
+  {
+    "business_name": "Rahul Sharma Celebrations",
+    "category": "Event Planner",
+    "city": "Indore",
+    "address": "Plot 76, Central Road, Indore - 608307",
+    "phone": "+91-9855705285",
+    "source": "Sulekha",
+    "created_at": "2026-03-06T19:01:12.930326"
+  },
+  {
+    "business_name": "Amit's Photography",
+    "category": "Photographer",
+    "city": "Kochi",
+    "address": "Plot 125, Central Road, Kochi - 381367",
+    "phone": "+91-9112111930",
+    "source": "Sulekha",
+    "created_at": "2026-04-12T09:01:12.930346"
+  },
+  {
+    "business_name": "Royal Tech Solutions",
+    "category": "Web Developer",
+    "city": "Chennai",
+    "address": "Plot 516, Velachery Nagar, Chennai - 290676",
+    "phone": "+91-7058723979",
+    "source": "IndiaMART",
+    "created_at": "2026-04-08T16:01:12.930358"
+  },
+  {
+    "business_name": "New Kulkarni Tax Consultants",
+    "category": "CA/Accountant",
+    "city": "Noida",
+    "address": "Plot 123, Main Area Marg, Noida - 582670",
+    "phone": "+91-9639268539",
+    "source": "TradeIndia",
+    "created_at": "2026-04-23T00:01:12.930370"
+  },
+  {
+    "business_name": "Pooja's Courier Services",
+    "category": "Courier Service",
+    "city": "Kochi",
+    "address": "Plot 790, Central Nagar, Kochi - 252681",
+    "phone": "+91-9032966238",
+    "source": "Google Maps",
+    "created_at": "2026-03-05T00:01:12.930385"
+  },
+  {
+    "business_name": "New Mishra Electronics",
+    "category": "Electronics Repair",
+    "city": "Jaipur",
+    "address": "Plot 329, Tonk Road Nagar, Jaipur - 551853",
+    "phone": "+91-8772843594",
+    "source": "TradeIndia",
+    "created_at": "2026-03-09T10:01:12.930396"
+  },
+  {
+    "business_name": "Neha's Gadget Fix",
+    "category": "Electronics Repair",
+    "city": "Ahmedabad",
+    "address": "Plot 825, Satellite Lane, Ahmedabad - 282328",
+    "phone": "+91-9791635661",
+    "source": "Google Maps",
+    "created_at": "2026-03-11T05:01:12.930408"
+  },
+  {
+    "business_name": "Shah Celebrations",
+    "category": "Event Planner",
+    "city": "Delhi",
+    "address": "Plot 74, Dwarka Road, Delhi - 401288",
+    "phone": "+91-9312201141",
+    "source": "Google Maps",
+    "created_at": "2026-04-05T12:01:12.930420"
+  },
+  {
+    "business_name": "Rekha Pillai Tech Repair",
+    "category": "Electronics Repair",
+    "city": "Jaipur",
+    "address": "Plot 11, Vaishali Nagar Enclave, Jaipur - 667914",
+    "phone": "+91-9704398482",
+    "source": "Sulekha",
+    "created_at": "2026-02-17T12:01:12.930432"
+  },
+  {
+    "business_name": "Raj's Fit Zone",
+    "category": "Gym",
+    "city": "Mumbai",
+    "address": "Plot 115, Powai Marg, Mumbai - 743497",
+    "phone": "+91-8779049862",
+    "source": "TradeIndia",
+    "created_at": "2026-03-28T21:01:12.930443"
+  },
+  {
+    "business_name": "Royal Coaching Center",
+    "category": "Tutor",
+    "city": "Vadodara",
+    "address": "Plot 133, Main Area Nagar, Vadodara - 984838",
+    "phone": "+91-9152001724",
+    "source": "Google Maps",
+    "created_at": "2026-02-11T22:01:12.930455"
+  },
+  {
+    "business_name": "Krishna Agarwal Decor House",
+    "category": "Interior Designer",
+    "city": "Jaipur",
+    "address": "Plot 870, Vaishali Nagar Enclave, Jaipur - 740699",
+    "phone": "+91-8871465375",
+    "source": "IndiaMART",
+    "created_at": "2026-05-10T21:01:12.930466"
+  },
+  {
+    "business_name": "Ashok's Learning Hub",
+    "category": "Tutor",
+    "city": "Noida",
+    "address": "Plot 647, Station Road Nagar, Noida - 293135",
+    "phone": "+91-9790124650",
+    "source": "IndiaMART",
+    "created_at": "2026-02-21T16:01:12.930478"
+  },
+  {
+    "business_name": "Royal Properties",
+    "category": "Real Estate Agent",
+    "city": "Chandigarh",
+    "address": "Plot 396, Main Area Colony, Chandigarh - 492001",
+    "phone": "+91-9654368258",
+    "source": "Justdial",
+    "created_at": "2026-03-01T15:01:12.930489"
+  },
+  {
+    "business_name": "Amit's Academy",
+    "category": "Tutor",
+    "city": "Surat",
+    "address": "Plot 95, Central Lane, Surat - 429004",
+    "phone": "+91-8797413615",
+    "source": "IndiaMART",
+    "created_at": "2026-04-27T12:01:12.930500"
+  },
+  {
+    "business_name": "Neha's Plumbing Works",
+    "category": "Plumber",
+    "city": "Lucknow",
+    "address": "Plot 292, Hazratganj Enclave, Lucknow - 453576",
+    "phone": "+91-9052389992",
+    "source": "Google Maps",
+    "created_at": "2026-03-28T05:01:12.930512"
+  },
+  {
+    "business_name": "Royal Realty",
+    "category": "Real Estate Agent",
+    "city": "Lucknow",
+    "address": "Plot 538, Aminabad Lane, Lucknow - 935931",
+    "phone": "+91-9879041825",
+    "source": "Sulekha",
+    "created_at": "2026-04-18T00:01:12.930524"
+  },
+  {
+    "business_name": "Sri Joshi Studio",
+    "category": "Photographer",
+    "city": "Vadodara",
+    "address": "Plot 855, Main Area Lane, Vadodara - 695534",
+    "phone": "+91-9042334255",
+    "source": "Google Maps",
+    "created_at": "2026-04-05T13:01:12.930538"
+  },
+  {
+    "business_name": "Iyer Clicks",
+    "category": "Photographer",
+    "city": "Coimbatore",
+    "address": "Plot 428, Main Area Lane, Coimbatore - 246111",
+    "phone": "+91-9013999887",
+    "source": "TradeIndia",
+    "created_at": "2026-03-06T06:01:12.930550"
+  },
+  {
+    "business_name": "Royal Fit Zone",
+    "category": "Gym",
+    "city": "Kolkata",
+    "address": "Plot 284, Salt Lake Lane, Kolkata - 347636",
+    "phone": "+91-9055885454",
+    "source": "Justdial",
+    "created_at": "2026-02-25T01:01:12.930562"
+  },
+  {
+    "business_name": "Royal Plumbing Works",
+    "category": "Plumber",
+    "city": "Kolkata",
+    "address": "Plot 182, New Town Road, Kolkata - 348412",
+    "phone": "+91-9138712965",
+    "source": "Google Maps",
+    "created_at": "2026-03-20T16:01:12.930575"
+  },
+  {
+    "business_name": "Rahul's Tech Solutions",
+    "category": "Web Developer",
+    "city": "Pune",
+    "address": "Plot 664, Kothrud Colony, Pune - 694521",
+    "phone": "+91-9327016875",
+    "source": "IndiaMART",
+    "created_at": "2026-05-07T15:01:12.930588"
+  },
+  {
+    "business_name": "Ashok Kumar Hair Studio",
+    "category": "Salon",
+    "city": "Kolkata",
+    "address": "Plot 817, Howrah Marg, Kolkata - 755990",
+    "phone": "+91-9598749543",
+    "source": "IndiaMART",
+    "created_at": "2026-03-24T03:01:12.930602"
+  },
+  {
+    "business_name": "Sri Sharma Pest Solutions",
+    "category": "Pest Control",
+    "city": "Bangalore",
+    "address": "Plot 152, Indiranagar Nagar, Bangalore - 221317",
+    "phone": "+91-9006564706",
+    "source": "Sulekha",
+    "created_at": "2026-04-09T04:01:12.930620"
+  },
+  {
+    "business_name": "New Verma Courier Services",
+    "category": "Courier Service",
+    "city": "Nagpur",
+    "address": "Plot 451, Station Road Nagar, Nagpur - 474731",
+    "phone": "+91-8871717815",
+    "source": "TradeIndia",
+    "created_at": "2026-03-07T10:01:12.930632"
+  },
+  {
+    "business_name": "Kumar Medical Center",
+    "category": "Doctor",
+    "city": "Mumbai",
+    "address": "Plot 71, Bandra Lane, Mumbai - 167472",
+    "phone": "+91-9034144815",
+    "source": "Google Maps",
+    "created_at": "2026-04-19T00:01:12.930643"
+  },
+  {
+    "business_name": "Sri Patil Gym & Spa",
+    "category": "Gym",
+    "city": "Lucknow",
+    "address": "Plot 40, Hazratganj Street, Lucknow - 564163",
+    "phone": "+91-9420073238",
+    "source": "Sulekha",
+    "created_at": "2026-02-12T07:01:12.930656"
+  },
+  {
+    "business_name": "Meera's Dhaba",
+    "category": "Restaurant",
+    "city": "Bhopal",
+    "address": "Plot 635, Central Road, Bhopal - 569483",
+    "phone": "+91-8756730860",
+    "source": "Sulekha",
+    "created_at": "2026-04-12T22:01:12.930669"
+  },
+  {
+    "business_name": "Sri Agarwal Pest Solutions",
+    "category": "Pest Control",
+    "city": "Noida",
+    "address": "Plot 756, Station Road Nagar, Noida - 130947",
+    "phone": "+91-9660358726",
+    "source": "IndiaMART",
+    "created_at": "2026-04-08T03:01:12.930681"
+  },
+  {
+    "business_name": "Royal Event Management",
+    "category": "Event Planner",
+    "city": "Coimbatore",
+    "address": "Plot 846, Main Area Enclave, Coimbatore - 880633",
+    "phone": "+91-9513537991",
+    "source": "IndiaMART",
+    "created_at": "2026-02-11T22:01:12.930692"
+  },
+  {
+    "business_name": "Sri Gupta Celebrations",
+    "category": "Event Planner",
+    "city": "Ahmedabad",
+    "address": "Plot 410, Prahlad Nagar Road, Ahmedabad - 297082",
+    "phone": "+91-9064976388",
+    "source": "Justdial",
+    "created_at": "2026-04-05T15:01:12.930704"
+  },
+  {
+    "business_name": "New Chauhan Tech Solutions",
+    "category": "Web Developer",
+    "city": "Mumbai",
+    "address": "Plot 632, Andheri Street, Mumbai - 580563",
+    "phone": "+91-9811575671",
+    "source": "Google Maps",
+    "created_at": "2026-02-13T12:01:12.930716"
+  },
+  {
+    "business_name": "Sri Mehta Legal Associates",
+    "category": "Lawyer",
+    "city": "Pune",
+    "address": "Plot 596, Koregaon Park Colony, Pune - 548587",
+    "phone": "+91-9382331855",
+    "source": "Justdial",
+    "created_at": "2026-04-09T13:01:12.930728"
+  },
+  {
+    "business_name": "Royal Clinic",
+    "category": "Doctor",
+    "city": "Chandigarh",
+    "address": "Plot 948, Central Street, Chandigarh - 535640",
+    "phone": "+91-8864506074",
+    "source": "Sulekha",
+    "created_at": "2026-04-29T01:01:12.930740"
+  },
+  {
+    "business_name": "New Singh Accounting Firm",
+    "category": "CA/Accountant",
+    "city": "Kolkata",
+    "address": "Plot 122, Park Street Colony, Kolkata - 201990",
+    "phone": "+91-9525787877",
+    "source": "IndiaMART",
+    "created_at": "2026-03-15T14:01:12.930753"
+  },
+  {
+    "business_name": "Anita's Spa",
+    "category": "Salon",
+    "city": "Mumbai",
+    "address": "Plot 229, Powai Colony, Mumbai - 337393",
+    "phone": "+91-9031734882",
+    "source": "Google Maps",
+    "created_at": "2026-03-05T03:01:12.930765"
+  },
+  {
+    "business_name": "New Menon Pest Solutions",
+    "category": "Pest Control",
+    "city": "Noida",
+    "address": "Plot 395, Central Nagar, Noida - 711910",
+    "phone": "+91-7032944000",
+    "source": "Google Maps",
+    "created_at": "2026-02-17T14:01:12.930776"
+  },
+  {
+    "business_name": "Kulkarni Makeover Studio",
+    "category": "Salon",
+    "city": "Vadodara",
+    "address": "Plot 295, Central Nagar, Vadodara - 462877",
+    "phone": "+91-9783515041",
+    "source": "Google Maps",
+    "created_at": "2026-03-24T11:01:12.930790"
+  },
+  {
+    "business_name": "Pillai Clinic",
+    "category": "Doctor",
+    "city": "Indore",
+    "address": "Plot 794, Station Road Colony, Indore - 441565",
+    "phone": "+91-8735626181",
+    "source": "Justdial",
+    "created_at": "2026-03-30T18:01:12.930801"
+  },
+  {
+    "business_name": "Priya's Interiors",
+    "category": "Interior Designer",
+    "city": "Kochi",
+    "address": "Plot 200, Central Road, Kochi - 184676",
+    "phone": "+91-9107369881",
+    "source": "Justdial",
+    "created_at": "2026-03-15T11:01:12.930812"
+  },
+  {
+    "business_name": "Reddy Food Services",
+    "category": "Caterer",
+    "city": "Kochi",
+    "address": "Plot 407, Central Colony, Kochi - 800464",
+    "phone": "+91-9746996444",
+    "source": "Google Maps",
+    "created_at": "2026-03-22T13:01:12.930825"
+  },
+  {
+    "business_name": "Sunita's Logistics",
+    "category": "Courier Service",
+    "city": "Vadodara",
+    "address": "Plot 202, Main Area Enclave, Vadodara - 808286",
+    "phone": "+91-8779070008",
+    "source": "IndiaMART",
+    "created_at": "2026-04-18T02:01:12.930841"
+  },
+  {
+    "business_name": "Royal Law Firm",
+    "category": "Lawyer",
+    "city": "Kolkata",
+    "address": "Plot 82, Gariahat Road, Kolkata - 582300",
+    "phone": "+91-9412006120",
+    "source": "Sulekha",
+    "created_at": "2026-04-10T20:01:12.930863"
+  },
+  {
+    "business_name": "Gupta Dental Clinic",
+    "category": "Dentist",
+    "city": "Hyderabad",
+    "address": "Plot 411, Ameerpet Road, Hyderabad - 955628",
+    "phone": "+91-9821825903",
+    "source": "IndiaMART",
+    "created_at": "2026-02-12T01:01:12.930877"
+  },
+  {
+    "business_name": "Rahul Singh Studio",
+    "category": "Photographer",
+    "city": "Coimbatore",
+    "address": "Plot 866, Station Road Nagar, Coimbatore - 702880",
+    "phone": "+91-9669520346",
+    "source": "Justdial",
+    "created_at": "2026-04-26T16:01:12.930889"
+  },
+  {
+    "business_name": "Royal Gym & Spa",
+    "category": "Gym",
+    "city": "Surat",
+    "address": "Plot 273, Central Road, Surat - 569371",
+    "phone": "+91-7065067454",
+    "source": "Sulekha",
+    "created_at": "2026-04-22T22:01:12.930900"
+  },
+  {
+    "business_name": "Anjali's Kitchen",
+    "category": "Restaurant",
+    "city": "Jaipur",
+    "address": "Plot 678, Tonk Road Lane, Jaipur - 306237",
+    "phone": "+91-9728421578",
+    "source": "Sulekha",
+    "created_at": "2026-05-02T01:01:12.930912"
+  },
+  {
+    "business_name": "Meera Sharma Health Club",
+    "category": "Gym",
+    "city": "Mumbai",
+    "address": "Plot 674, Powai Marg, Mumbai - 244505",
+    "phone": "+91-9760866853",
+    "source": "Google Maps",
+    "created_at": "2026-04-11T05:01:12.930924"
+  },
+  {
+    "business_name": "Sri Nair Homes",
+    "category": "Real Estate Agent",
+    "city": "Chandigarh",
+    "address": "Plot 293, Central Colony, Chandigarh - 719699",
+    "phone": "+91-9511207382",
+    "source": "Google Maps",
+    "created_at": "2026-05-01T20:01:12.930936"
+  },
+  {
+    "business_name": "Royal Tech Repair",
+    "category": "Electronics Repair",
+    "city": "Jaipur",
+    "address": "Plot 906, Tonk Road Colony, Jaipur - 241984",
+    "phone": "+91-9642216851",
+    "source": "Justdial",
+    "created_at": "2026-03-02T17:01:12.930947"
+  },
+  {
+    "business_name": "Anita Pillai Electrical Works",
+    "category": "Electrician",
+    "city": "Chandigarh",
+    "address": "Plot 787, Main Area Enclave, Chandigarh - 720322",
+    "phone": "+91-8762916772",
+    "source": "Sulekha",
+    "created_at": "2026-03-29T16:01:12.930960"
+  },
+  {
+    "business_name": "Sri Kumar Law Firm",
+    "category": "Lawyer",
+    "city": "Pune",
+    "address": "Plot 998, Hadapsar Lane, Pune - 758493",
+    "phone": "+91-8859723294",
+    "source": "Sulekha",
+    "created_at": "2026-02-28T23:01:12.930971"
+  },
+  {
+    "business_name": "Arun's Design Studio",
+    "category": "Interior Designer",
+    "city": "Visakhapatnam",
+    "address": "Plot 34, Central Enclave, Visakhapatnam - 263967",
+    "phone": "+91-9091400579",
+    "source": "TradeIndia",
+    "created_at": "2026-03-22T08:01:12.930982"
+  },
+  {
+    "business_name": "Kavita's Homes",
+    "category": "Real Estate Agent",
+    "city": "Noida",
+    "address": "Plot 661, Station Road Street, Noida - 784008",
+    "phone": "+91-9843195470",
+    "source": "Justdial",
+    "created_at": "2026-03-24T21:01:12.930994"
+  },
+  {
+    "business_name": "Rahul Nair Celebrations",
+    "category": "Event Planner",
+    "city": "Chennai",
+    "address": "Plot 494, Anna Nagar Road, Chennai - 313005",
+    "phone": "+91-9172588487",
+    "source": "Justdial",
+    "created_at": "2026-04-17T03:01:12.931005"
+  },
+  {
+    "business_name": "Nikhil's Interiors",
+    "category": "Interior Designer",
+    "city": "Delhi",
+    "address": "Plot 406, Dwarka Road, Delhi - 301348",
+    "phone": "+91-9457025869",
+    "source": "Sulekha",
+    "created_at": "2026-02-16T22:01:12.931017"
+  },
+  {
+    "business_name": "Joshi Catering Co.",
+    "category": "Caterer",
+    "city": "Jaipur",
+    "address": "Plot 373, Malviya Nagar Road, Jaipur - 228028",
+    "phone": "+91-7091416521",
+    "source": "IndiaMART",
+    "created_at": "2026-04-15T22:01:12.931030"
+  },
+  {
+    "business_name": "Royal Pest Solutions",
+    "category": "Pest Control",
+    "city": "Bangalore",
+    "address": "Plot 626, Koramangala Lane, Bangalore - 263688",
+    "phone": "+91-8803389422",
+    "source": "TradeIndia",
+    "created_at": "2026-05-07T21:01:12.931042"
+  },
+  {
+    "business_name": "Meera's Power Solutions",
+    "category": "Electrician",
+    "city": "Vadodara",
+    "address": "Plot 732, Central Marg, Vadodara - 340541",
+    "phone": "+91-9325780573",
+    "source": "IndiaMART",
+    "created_at": "2026-04-24T12:01:12.931054"
+  },
+  {
+    "business_name": "Sri Shah Legal Associates",
+    "category": "Lawyer",
+    "city": "Hyderabad",
+    "address": "Plot 712, Kukatpally Colony, Hyderabad - 775912",
+    "phone": "+91-7099744133",
+    "source": "Sulekha",
+    "created_at": "2026-03-07T23:01:12.931065"
+  },
+  {
+    "business_name": "New Reddy Learning Hub",
+    "category": "Tutor",
+    "city": "Jaipur",
+    "address": "Plot 845, Malviya Nagar Lane, Jaipur - 296246",
+    "phone": "+91-9812383576",
+    "source": "Sulekha",
+    "created_at": "2026-05-05T16:01:12.931077"
+  },
+  {
+    "business_name": "Royal Decor House",
+    "category": "Interior Designer",
+    "city": "Pune",
+    "address": "Plot 543, Kothrud Street, Pune - 354609",
+    "phone": "+91-7009746228",
+    "source": "Google Maps",
+    "created_at": "2026-04-08T18:01:12.931088"
+  },
+  {
+    "business_name": "Sri Joshi Dining",
+    "category": "Restaurant",
+    "city": "Hyderabad",
+    "address": "Plot 465, Kukatpally Nagar, Hyderabad - 865551",
+    "phone": "+91-9880958311",
+    "source": "Sulekha",
+    "created_at": "2026-04-24T03:01:12.931100"
+  },
+  {
+    "business_name": "Menon Learning Hub",
+    "category": "Tutor",
+    "city": "Nagpur",
+    "address": "Plot 632, Station Road Nagar, Nagpur - 533806",
+    "phone": "+91-9845357142",
+    "source": "TradeIndia",
+    "created_at": "2026-05-07T11:01:12.931113"
+  },
+  {
+    "business_name": "New Shah Gadget Fix",
+    "category": "Electronics Repair",
+    "city": "Lucknow",
+    "address": "Plot 180, Indira Nagar Street, Lucknow - 716823",
+    "phone": "+91-9556415890",
+    "source": "TradeIndia",
+    "created_at": "2026-03-10T06:01:12.931124"
+  },
+  {
+    "business_name": "Nair Event Management",
+    "category": "Event Planner",
+    "city": "Lucknow",
+    "address": "Plot 67, Indira Nagar Enclave, Lucknow - 375564",
+    "phone": "+91-8717034016",
+    "source": "IndiaMART",
+    "created_at": "2026-05-03T09:01:12.931138"
+  },
+  {
+    "business_name": "Sanjay's Coaching Center",
+    "category": "Tutor",
+    "city": "Ahmedabad",
+    "address": "Plot 875, SG Highway Colony, Ahmedabad - 174156",
+    "phone": "+91-9636321343",
+    "source": "Sulekha",
+    "created_at": "2026-04-29T15:01:12.931150"
+  },
+  {
+    "business_name": "Krishna Desai Pest Control Services",
+    "category": "Pest Control",
+    "city": "Coimbatore",
+    "address": "Plot 18, Main Area Colony, Coimbatore - 103045",
+    "phone": "+91-9689834888",
+    "source": "Justdial",
+    "created_at": "2026-03-17T04:01:12.931161"
+  },
+  {
+    "business_name": "Krishna Mehta Electronics",
+    "category": "Electronics Repair",
+    "city": "Chennai",
+    "address": "Plot 8, Mylapore Lane, Chennai - 589771",
+    "phone": "+91-9135728365",
+    "source": "IndiaMART",
+    "created_at": "2026-03-10T03:01:12.931173"
+  },
+  {
+    "business_name": "Kavita Verma Power Solutions",
+    "category": "Electrician",
+    "city": "Delhi",
+    "address": "Plot 973, Saket Road, Delhi - 326698",
+    "phone": "+91-9313837680",
+    "source": "TradeIndia",
+    "created_at": "2026-03-07T21:01:12.931185"
+  },
+  {
+    "business_name": "Anjali's Homes",
+    "category": "Real Estate Agent",
+    "city": "Surat",
+    "address": "Plot 480, Central Marg, Surat - 527339",
+    "phone": "+91-8735176909",
+    "source": "Sulekha",
+    "created_at": "2026-03-07T05:01:12.931198"
+  },
+  {
+    "business_name": "Royal Design Studio",
+    "category": "Interior Designer",
+    "city": "Surat",
+    "address": "Plot 982, Main Area Road, Surat - 302822",
+    "phone": "+91-9475089191",
+    "source": "IndiaMART",
+    "created_at": "2026-05-01T23:01:12.931210"
+  },
+  {
+    "business_name": "Neha's Smile Studio",
+    "category": "Dentist",
+    "city": "Surat",
+    "address": "Plot 231, Main Area Road, Surat - 758677",
+    "phone": "+91-9112638231",
+    "source": "IndiaMART",
+    "created_at": "2026-04-01T10:01:12.931222"
+  },
+  {
+    "business_name": "Sri Sharma Plumbing Services",
+    "category": "Plumber",
+    "city": "Delhi",
+    "address": "Plot 82, Dwarka Enclave, Delhi - 539647",
+    "phone": "+91-8758789870",
+    "source": "Google Maps",
+    "created_at": "2026-04-13T09:01:12.931233"
+  },
+  {
+    "business_name": "New Mishra Accounting Firm",
+    "category": "CA/Accountant",
+    "city": "Jaipur",
+    "address": "Plot 544, Tonk Road Marg, Jaipur - 682111",
+    "phone": "+91-8770990151",
+    "source": "Sulekha",
+    "created_at": "2026-03-22T17:01:12.931245"
+  },
+  {
+    "business_name": "Manoj Shah HygieneX",
+    "category": "Pest Control",
+    "city": "Ahmedabad",
+    "address": "Plot 654, Satellite Colony, Ahmedabad - 905611",
+    "phone": "+91-9001751946",
+    "source": "IndiaMART",
+    "created_at": "2026-03-17T15:01:12.931257"
+  },
+  {
+    "business_name": "Sri Gupta Caterers",
+    "category": "Caterer",
+    "city": "Jaipur",
+    "address": "Plot 842, Tonk Road Enclave, Jaipur - 224947",
+    "phone": "+91-9397366881",
+    "source": "Sulekha",
+    "created_at": "2026-04-27T22:01:12.931270"
+  },
+  {
+    "business_name": "Royal Accounting Firm",
+    "category": "CA/Accountant",
+    "city": "Bhopal",
+    "address": "Plot 47, Central Nagar, Bhopal - 751168",
+    "phone": "+91-9525351805",
+    "source": "Google Maps",
+    "created_at": "2026-03-07T00:01:12.931282"
+  },
+  {
+    "business_name": "New Patil Car Care",
+    "category": "Car Repair",
+    "city": "Bhopal",
+    "address": "Plot 505, Main Area Road, Bhopal - 125682",
+    "phone": "+91-8741880000",
+    "source": "Justdial",
+    "created_at": "2026-03-27T18:01:12.931294"
+  },
+  {
+    "business_name": "Amit Agarwal Beauty Salon",
+    "category": "Salon",
+    "city": "Vadodara",
+    "address": "Plot 361, Main Area Colony, Vadodara - 161502",
+    "phone": "+91-8854932264",
+    "source": "Justdial",
+    "created_at": "2026-04-05T10:01:12.931306"
+  },
+  {
+    "business_name": "New Reddy Academy",
+    "category": "Tutor",
+    "city": "Vadodara",
+    "address": "Plot 712, Central Road, Vadodara - 318336",
+    "phone": "+91-8898509532",
+    "source": "Sulekha",
+    "created_at": "2026-02-27T00:01:12.931317"
+  },
+  {
+    "business_name": "Nair Real Estate",
+    "category": "Real Estate Agent",
+    "city": "Kolkata",
+    "address": "Plot 702, Park Street Road, Kolkata - 285802",
+    "phone": "+91-9772179387",
+    "source": "Justdial",
+    "created_at": "2026-05-06T17:01:12.931329"
+  },
+  {
+    "business_name": "Manoj Das Bites",
+    "category": "Restaurant",
+    "city": "Vadodara",
+    "address": "Plot 681, Station Road Street, Vadodara - 247591",
+    "phone": "+91-9627923804",
+    "source": "TradeIndia",
+    "created_at": "2026-04-26T19:01:12.931340"
+  },
+  {
+    "business_name": "Patil Food Services",
+    "category": "Caterer",
+    "city": "Chennai",
+    "address": "Plot 919, T Nagar Lane, Chennai - 526342",
+    "phone": "+91-9119585193",
+    "source": "Justdial",
+    "created_at": "2026-05-01T04:01:12.931356"
+  },
+  {
+    "business_name": "Sri Gupta Academy",
+    "category": "Tutor",
+    "city": "Jaipur",
+    "address": "Plot 638, Malviya Nagar Street, Jaipur - 820060",
+    "phone": "+91-9001013079",
+    "source": "TradeIndia",
+    "created_at": "2026-03-09T10:01:12.931380"
+  },
+  {
+    "business_name": "New Verma Food Services",
+    "category": "Caterer",
+    "city": "Vadodara",
+    "address": "Plot 556, Station Road Lane, Vadodara - 644001",
+    "phone": "+91-8885596224",
+    "source": "TradeIndia",
+    "created_at": "2026-04-06T09:01:12.931393"
+  },
+  {
+    "business_name": "Sri Nair Gadget Fix",
+    "category": "Electronics Repair",
+    "city": "Kolkata",
+    "address": "Plot 194, Gariahat Lane, Kolkata - 498510",
+    "phone": "+91-8720632782",
+    "source": "TradeIndia",
+    "created_at": "2026-04-06T06:01:12.931407"
+  },
+  {
+    "business_name": "New Patil Design Studio",
+    "category": "Interior Designer",
+    "city": "Visakhapatnam",
+    "address": "Plot 218, Station Road Lane, Visakhapatnam - 603955",
+    "phone": "+91-9816673221",
+    "source": "IndiaMART",
+    "created_at": "2026-05-09T15:01:12.931420"
+  },
+  {
+    "business_name": "Neha's Health Club",
+    "category": "Gym",
+    "city": "Nagpur",
+    "address": "Plot 981, Central Colony, Nagpur - 855946",
+    "phone": "+91-9465035821",
+    "source": "TradeIndia",
+    "created_at": "2026-04-11T12:01:12.931433"
+  },
+  {
+    "business_name": "New Nair Logistics",
+    "category": "Courier Service",
+    "city": "Surat",
+    "address": "Plot 365, Main Area Road, Surat - 589388",
+    "phone": "+91-9558124471",
+    "source": "TradeIndia",
+    "created_at": "2026-04-19T06:01:12.931445"
+  },
+  {
+    "business_name": "Rekha Joshi Car Care",
+    "category": "Car Repair",
+    "city": "Indore",
+    "address": "Plot 80, Main Area Road, Indore - 220196",
+    "phone": "+91-9824974983",
+    "source": "TradeIndia",
+    "created_at": "2026-03-23T16:01:12.931457"
+  },
+  {
+    "business_name": "Anita's Hair Studio",
+    "category": "Salon",
+    "city": "Ahmedabad",
+    "address": "Plot 467, SG Highway Street, Ahmedabad - 943318",
+    "phone": "+91-9613033300",
+    "source": "Google Maps",
+    "created_at": "2026-05-08T11:01:12.931469"
+  },
+  {
+    "business_name": "Raj's & Advocates",
+    "category": "Lawyer",
+    "city": "Bangalore",
+    "address": "Plot 678, Koramangala Road, Bangalore - 863753",
+    "phone": "+91-9597516529",
+    "source": "IndiaMART",
+    "created_at": "2026-04-22T02:01:12.931480"
+  },
+  {
+    "business_name": "Sri Iyer Electricals",
+    "category": "Electrician",
+    "city": "Surat",
+    "address": "Plot 6, Central Colony, Surat - 289505",
+    "phone": "+91-7001426074",
+    "source": "IndiaMART",
+    "created_at": "2026-04-06T00:01:12.931491"
+  },
+  {
+    "business_name": "New Gupta Clicks",
+    "category": "Photographer",
+    "city": "Vadodara",
+    "address": "Plot 57, Station Road Road, Vadodara - 692717",
+    "phone": "+91-9423045720",
+    "source": "TradeIndia",
+    "created_at": "2026-04-28T16:01:12.931503"
+  },
+  {
+    "business_name": "Sunita Menon Digital Studio",
+    "category": "Web Developer",
+    "city": "Kochi",
+    "address": "Plot 174, Main Area Lane, Kochi - 629692",
+    "phone": "+91-9892136050",
+    "source": "Google Maps",
+    "created_at": "2026-03-20T02:01:12.931515"
+  },
+  {
+    "business_name": "New Nair Plumbing Services",
+    "category": "Plumber",
+    "city": "Chennai",
+    "address": "Plot 475, Adyar Road, Chennai - 841681",
+    "phone": "+91-9776446254",
+    "source": "Justdial",
+    "created_at": "2026-03-30T06:01:12.931527"
+  },
+  {
+    "business_name": "Priya Desai Kitchen",
+    "category": "Restaurant",
+    "city": "Coimbatore",
+    "address": "Plot 787, Central Marg, Coimbatore - 968450",
+    "phone": "+91-8724099121",
+    "source": "IndiaMART",
+    "created_at": "2026-03-17T10:01:12.931539"
+  },
+  {
+    "business_name": "Nikhil Sharma Academy",
+    "category": "Tutor",
+    "city": "Vadodara",
+    "address": "Plot 881, Main Area Street, Vadodara - 135081",
+    "phone": "+91-9834141013",
+    "source": "TradeIndia",
+    "created_at": "2026-03-11T02:01:12.931550"
+  },
+  {
+    "business_name": "New Agarwal HygieneX",
+    "category": "Pest Control",
+    "city": "Kolkata",
+    "address": "Plot 769, Howrah Enclave, Kolkata - 675637",
+    "phone": "+91-9644271127",
+    "source": "Google Maps",
+    "created_at": "2026-03-22T21:01:12.931561"
+  },
+  {
+    "business_name": "Mehta Electricals",
+    "category": "Electrician",
+    "city": "Surat",
+    "address": "Plot 714, Station Road Road, Surat - 476080",
+    "phone": "+91-9797505777",
+    "source": "IndiaMART",
+    "created_at": "2026-02-22T17:01:12.931573"
+  },
+  {
+    "business_name": "Divya Menon HygieneX",
+    "category": "Pest Control",
+    "city": "Bhopal",
+    "address": "Plot 639, Station Road Lane, Bhopal - 637657",
+    "phone": "+91-8884716682",
+    "source": "Justdial",
+    "created_at": "2026-03-06T01:01:12.931584"
+  },
+  {
+    "business_name": "Sri Rao Electrical Works",
+    "category": "Electrician",
+    "city": "Noida",
+    "address": "Plot 465, Station Road Lane, Noida - 188790",
+    "phone": "+91-8701096865",
+    "source": "TradeIndia",
+    "created_at": "2026-04-02T05:01:12.931595"
+  },
+  {
+    "business_name": "Patel Car Care",
+    "category": "Car Repair",
+    "city": "Vadodara",
+    "address": "Plot 708, Central Street, Vadodara - 912305",
+    "phone": "+91-8846605187",
+    "source": "IndiaMART",
+    "created_at": "2026-02-11T18:01:12.931612"
+  },
+  {
+    "business_name": "Nikhil's Logistics",
+    "category": "Courier Service",
+    "city": "Bangalore",
+    "address": "Plot 390, Whitefield Lane, Bangalore - 327162",
+    "phone": "+91-9612720709",
+    "source": "TradeIndia",
+    "created_at": "2026-03-18T09:01:12.931623"
+  },
+  {
+    "business_name": "Anita's Properties",
+    "category": "Real Estate Agent",
+    "city": "Visakhapatnam",
+    "address": "Plot 62, Central Street, Visakhapatnam - 547745",
+    "phone": "+91-9009628845",
+    "source": "Sulekha",
+    "created_at": "2026-03-16T22:01:12.931635"
+  },
+  {
+    "business_name": "New Mishra Courier Services",
+    "category": "Courier Service",
+    "city": "Kochi",
+    "address": "Plot 613, Main Area Marg, Kochi - 210334",
+    "phone": "+91-9342854938",
+    "source": "Justdial",
+    "created_at": "2026-04-14T14:01:12.931646"
+  },
+  {
+    "business_name": "Royal Makeover Studio",
+    "category": "Salon",
+    "city": "Jaipur",
+    "address": "Plot 506, Mansarovar Street, Jaipur - 258190",
+    "phone": "+91-9430648450",
+    "source": "Sulekha",
+    "created_at": "2026-04-18T02:01:12.931657"
+  },
+  {
+    "business_name": "Divya Shah Caterers",
+    "category": "Caterer",
+    "city": "Ahmedabad",
+    "address": "Plot 93, Prahlad Nagar Road, Ahmedabad - 248126",
+    "phone": "+91-9347410393",
+    "source": "Justdial",
+    "created_at": "2026-02-18T02:01:12.931669"
+  },
+  {
+    "business_name": "Royal Events",
+    "category": "Event Planner",
+    "city": "Indore",
+    "address": "Plot 605, Central Road, Indore - 728641",
+    "phone": "+91-9856103077",
+    "source": "Google Maps",
+    "created_at": "2026-04-15T12:01:12.931682"
+  },
+  {
+    "business_name": "Royal Hospital",
+    "category": "Doctor",
+    "city": "Jaipur",
+    "address": "Plot 987, C Scheme Road, Jaipur - 895131",
+    "phone": "+91-7029355797",
+    "source": "Google Maps",
+    "created_at": "2026-03-02T18:01:12.931702"
+  },
+  {
+    "business_name": "Ashok Nair Catering Co.",
+    "category": "Caterer",
+    "city": "Ahmedabad",
+    "address": "Plot 347, SG Highway Marg, Ahmedabad - 888639",
+    "phone": "+91-8886005079",
+    "source": "IndiaMART",
+    "created_at": "2026-04-01T15:01:12.931715"
+  },
+  {
+    "business_name": "Divya Chauhan Express",
+    "category": "Courier Service",
+    "city": "Nagpur",
+    "address": "Plot 540, Station Road Nagar, Nagpur - 102017",
+    "phone": "+91-9315411646",
+    "source": "Sulekha",
+    "created_at": "2026-05-07T05:01:12.931727"
+  },
+  {
+    "business_name": "Pillai Clinic",
+    "category": "Doctor",
+    "city": "Chandigarh",
+    "address": "Plot 787, Main Area Nagar, Chandigarh - 282993",
+    "phone": "+91-7041344337",
+    "source": "TradeIndia",
+    "created_at": "2026-03-12T13:01:12.931739"
+  },
+  {
+    "business_name": "Pooja's Makeover Studio",
+    "category": "Salon",
+    "city": "Nagpur",
+    "address": "Plot 397, Main Area Enclave, Nagpur - 475634",
+    "phone": "+91-9340481891",
+    "source": "Justdial",
+    "created_at": "2026-04-19T20:01:12.931752"
+  },
+  {
+    "business_name": "New Agarwal Dhaba",
+    "category": "Restaurant",
+    "city": "Indore",
+    "address": "Plot 275, Station Road Road, Indore - 103555",
+    "phone": "+91-9568316769",
+    "source": "Justdial",
+    "created_at": "2026-02-27T10:01:12.931765"
+  },
+  {
+    "business_name": "New Pillai Realty",
+    "category": "Real Estate Agent",
+    "city": "Ahmedabad",
+    "address": "Plot 611, Vastrapur Enclave, Ahmedabad - 308652",
+    "phone": "+91-8724103827",
+    "source": "TradeIndia",
+    "created_at": "2026-05-03T13:01:12.931777"
+  },
+  {
+    "business_name": "Anita Das Design Studio",
+    "category": "Interior Designer",
+    "city": "Chandigarh",
+    "address": "Plot 838, Central Colony, Chandigarh - 153491",
+    "phone": "+91-8708706735",
+    "source": "TradeIndia",
+    "created_at": "2026-02-13T16:01:12.931788"
+  },
+  {
+    "business_name": "Sri Kulkarni HygieneX",
+    "category": "Pest Control",
+    "city": "Kochi",
+    "address": "Plot 880, Main Area Street, Kochi - 694339",
+    "phone": "+91-9623737770",
+    "source": "IndiaMART",
+    "created_at": "2026-03-29T03:01:12.931800"
+  },
+  {
+    "business_name": "Rahul Pillai Spa",
+    "category": "Salon",
+    "city": "Nagpur",
+    "address": "Plot 742, Main Area Marg, Nagpur - 105634",
+    "phone": "+91-8758901717",
+    "source": "IndiaMART",
+    "created_at": "2026-05-04T14:01:12.931812"
+  },
+  {
+    "business_name": "Sri Desai Classes",
+    "category": "Tutor",
+    "city": "Bangalore",
+    "address": "Plot 992, Indiranagar Lane, Bangalore - 290701",
+    "phone": "+91-9512225607",
+    "source": "Justdial",
+    "created_at": "2026-04-21T02:01:12.931823"
+  },
+  {
+    "business_name": "Ravi's Law Firm",
+    "category": "Lawyer",
+    "city": "Nagpur",
+    "address": "Plot 145, Central Colony, Nagpur - 686568",
+    "phone": "+91-9821471489",
+    "source": "Sulekha",
+    "created_at": "2026-02-20T15:01:12.931835"
+  },
+  {
+    "business_name": "Royal Express",
+    "category": "Courier Service",
+    "city": "Indore",
+    "address": "Plot 539, Station Road Colony, Indore - 550045",
+    "phone": "+91-9627855643",
+    "source": "Justdial",
+    "created_at": "2026-03-14T08:01:12.931847"
+  },
+  {
+    "business_name": "Sri Mishra Classes",
+    "category": "Tutor",
+    "city": "Bangalore",
+    "address": "Plot 286, Whitefield Enclave, Bangalore - 965658",
+    "phone": "+91-9659102057",
+    "source": "Justdial",
+    "created_at": "2026-03-01T12:01:12.931858"
+  },
+  {
+    "business_name": "Mehta Accounting Firm",
+    "category": "CA/Accountant",
+    "city": "Bangalore",
+    "address": "Plot 25, JP Nagar Street, Bangalore - 392887",
+    "phone": "+91-9361627074",
+    "source": "IndiaMART",
+    "created_at": "2026-03-29T08:01:12.931870"
+  },
+  {
+    "business_name": "Sri Iyer Interiors",
+    "category": "Interior Designer",
+    "city": "Visakhapatnam",
+    "address": "Plot 614, Main Area Enclave, Visakhapatnam - 301364",
+    "phone": "+91-8819900551",
+    "source": "TradeIndia",
+    "created_at": "2026-03-30T15:01:12.931886"
+  },
+  {
+    "business_name": "Patel Plumbing Services",
+    "category": "Plumber",
+    "city": "Coimbatore",
+    "address": "Plot 899, Station Road Road, Coimbatore - 509659",
+    "phone": "+91-9199229763",
+    "source": "Google Maps",
+    "created_at": "2026-04-19T09:01:12.931907"
+  },
+  {
+    "business_name": "Sri Singh & Associates",
+    "category": "CA/Accountant",
+    "city": "Chennai",
+    "address": "Plot 510, Anna Nagar Lane, Chennai - 178440",
+    "phone": "+91-8764302985",
+    "source": "IndiaMART",
+    "created_at": "2026-03-10T23:01:12.931918"
+  },
+  {
+    "business_name": "Mishra Electronics",
+    "category": "Electronics Repair",
+    "city": "Bangalore",
+    "address": "Plot 45, HSR Layout Street, Bangalore - 364190",
+    "phone": "+91-9039062938",
+    "source": "Google Maps",
+    "created_at": "2026-05-07T05:01:12.931932"
+  },
+  {
+    "business_name": "Menon Clicks",
+    "category": "Photographer",
+    "city": "Delhi",
+    "address": "Plot 518, Saket Street, Delhi - 446005",
+    "phone": "+91-9340195660",
+    "source": "Google Maps",
+    "created_at": "2026-03-20T12:01:12.931944"
+  },
+  {
+    "business_name": "Anjali's Realty",
+    "category": "Real Estate Agent",
+    "city": "Surat",
+    "address": "Plot 609, Main Area Road, Surat - 881331",
+    "phone": "+91-9789371338",
+    "source": "Sulekha",
+    "created_at": "2026-03-24T14:01:12.931956"
+  },
+  {
+    "business_name": "Swati Iyer Design Studio",
+    "category": "Interior Designer",
+    "city": "Visakhapatnam",
+    "address": "Plot 798, Station Road Nagar, Visakhapatnam - 681355",
+    "phone": "+91-9696157053",
+    "source": "IndiaMART",
+    "created_at": "2026-03-13T10:01:12.931967"
+  },
+  {
+    "business_name": "Raj's Logistics",
+    "category": "Courier Service",
+    "city": "Chandigarh",
+    "address": "Plot 243, Central Street, Chandigarh - 823034",
+    "phone": "+91-7051160581",
+    "source": "IndiaMART",
+    "created_at": "2026-03-09T15:01:12.931978"
+  },
+  {
+    "business_name": "Sanjay Shah Food Services",
+    "category": "Caterer",
+    "city": "Hyderabad",
+    "address": "Plot 659, Madhapur Lane, Hyderabad - 168559",
+    "phone": "+91-9695930393",
+    "source": "IndiaMART",
+    "created_at": "2026-02-16T18:01:12.931990"
+  },
+  {
+    "business_name": "Shah Makeover Studio",
+    "category": "Salon",
+    "city": "Kolkata",
+    "address": "Plot 420, New Town Enclave, Kolkata - 628291",
+    "phone": "+91-9170762532",
+    "source": "Justdial",
+    "created_at": "2026-04-29T14:01:12.932003"
+  },
+  {
+    "business_name": "Krishna's Tax Consultants",
+    "category": "CA/Accountant",
+    "city": "Delhi",
+    "address": "Plot 527, Connaught Place Street, Delhi - 806558",
+    "phone": "+91-9638675948",
+    "source": "Google Maps",
+    "created_at": "2026-03-01T05:01:12.932017"
+  },
+  {
+    "business_name": "Sri Nair Plumbing Works",
+    "category": "Plumber",
+    "city": "Visakhapatnam",
+    "address": "Plot 433, Central Lane, Visakhapatnam - 238432",
+    "phone": "+91-9436077272",
+    "source": "Google Maps",
+    "created_at": "2026-04-10T15:01:12.932029"
+  },
+  {
+    "business_name": "Kavita's Photo Works",
+    "category": "Photographer",
+    "city": "Bhopal",
+    "address": "Plot 295, Central Colony, Bhopal - 152754",
+    "phone": "+91-9185120428",
+    "source": "TradeIndia",
+    "created_at": "2026-04-11T08:01:12.932041"
+  },
+  {
+    "business_name": "Shah Caterers",
+    "category": "Caterer",
+    "city": "Delhi",
+    "address": "Plot 663, Saket Road, Delhi - 539966",
+    "phone": "+91-8731633450",
+    "source": "IndiaMART",
+    "created_at": "2026-03-02T17:01:12.932052"
+  },
+  {
+    "business_name": "Royal Event Management",
+    "category": "Event Planner",
+    "city": "Jaipur",
+    "address": "Plot 764, Malviya Nagar Nagar, Jaipur - 229283",
+    "phone": "+91-9365094395",
+    "source": "Sulekha",
+    "created_at": "2026-03-26T18:01:12.932064"
+  },
+  {
+    "business_name": "Rao Express",
+    "category": "Courier Service",
+    "city": "Indore",
+    "address": "Plot 886, Main Area Enclave, Indore - 613831",
+    "phone": "+91-9087809010",
+    "source": "Sulekha",
+    "created_at": "2026-04-13T23:01:12.932076"
+  },
+  {
+    "business_name": "Rahul's Law Firm",
+    "category": "Lawyer",
+    "city": "Kochi",
+    "address": "Plot 219, Main Area Road, Kochi - 867692",
+    "phone": "+91-8792957768",
+    "source": "Justdial",
+    "created_at": "2026-03-27T18:01:12.932088"
+  },
+  {
+    "business_name": "Royal Tech Solutions",
+    "category": "Web Developer",
+    "city": "Pune",
+    "address": "Plot 345, Kothrud Lane, Pune - 888713",
+    "phone": "+91-9617500443",
+    "source": "Sulekha",
+    "created_at": "2026-02-15T01:01:12.932100"
+  },
+  {
+    "business_name": "Royal Design Studio",
+    "category": "Interior Designer",
+    "city": "Kolkata",
+    "address": "Plot 840, Howrah Street, Kolkata - 597111",
+    "phone": "+91-8782711110",
+    "source": "IndiaMART",
+    "created_at": "2026-04-10T19:01:12.932111"
+  },
+  {
+    "business_name": "Chauhan Auto Works",
+    "category": "Car Repair",
+    "city": "Visakhapatnam",
+    "address": "Plot 747, Station Road Street, Visakhapatnam - 807696",
+    "phone": "+91-9418864679",
+    "source": "Sulekha",
+    "created_at": "2026-04-26T11:01:12.932122"
+  },
+  {
+    "business_name": "Sri Reddy Fitness Center",
+    "category": "Gym",
+    "city": "Chennai",
+    "address": "Plot 576, Mylapore Lane, Chennai - 792412",
+    "phone": "+91-9326864856",
+    "source": "Google Maps",
+    "created_at": "2026-04-23T01:01:12.932134"
+  },
+  {
+    "business_name": "Sri Nair Decor House",
+    "category": "Interior Designer",
+    "city": "Delhi",
+    "address": "Plot 457, Connaught Place Lane, Delhi - 388714",
+    "phone": "+91-9559124834",
+    "source": "IndiaMART",
+    "created_at": "2026-02-24T11:01:12.932145"
+  },
+  {
+    "business_name": "Sanjay's Law Firm",
+    "category": "Lawyer",
+    "city": "Visakhapatnam",
+    "address": "Plot 675, Central Nagar, Visakhapatnam - 608998",
+    "phone": "+91-9593874743",
+    "source": "Justdial",
+    "created_at": "2026-04-11T07:01:12.932156"
+  },
+  {
+    "business_name": "Royal Foods",
+    "category": "Restaurant",
+    "city": "Chandigarh",
+    "address": "Plot 957, Station Road Lane, Chandigarh - 206038",
+    "phone": "+91-9353396711",
+    "source": "Google Maps",
+    "created_at": "2026-03-16T00:01:12.932167"
+  },
+  {
+    "business_name": "Pooja's Fitness Center",
+    "category": "Gym",
+    "city": "Kochi",
+    "address": "Plot 210, Main Area Colony, Kochi - 141219",
+    "phone": "+91-8819541874",
+    "source": "TradeIndia",
+    "created_at": "2026-03-25T06:01:12.932179"
+  },
+  {
+    "business_name": "Sri Verma Plumbing Works",
+    "category": "Plumber",
+    "city": "Surat",
+    "address": "Plot 707, Main Area Colony, Surat - 111400",
+    "phone": "+91-9075367777",
+    "source": "Justdial",
+    "created_at": "2026-03-11T20:01:12.932192"
+  },
+  {
+    "business_name": "Ashok Das Homes",
+    "category": "Real Estate Agent",
+    "city": "Bhopal",
+    "address": "Plot 95, Central Road, Bhopal - 603370",
+    "phone": "+91-9340929230",
+    "source": "TradeIndia",
+    "created_at": "2026-04-23T21:01:12.932203"
+  },
+  {
+    "business_name": "New Patil & Advocates",
+    "category": "Lawyer",
+    "city": "Jaipur",
+    "address": "Plot 775, Tonk Road Nagar, Jaipur - 380483",
+    "phone": "+91-8768096091",
+    "source": "TradeIndia",
+    "created_at": "2026-04-01T20:01:12.932214"
+  },
+  {
+    "business_name": "Sri Reddy Health Club",
+    "category": "Gym",
+    "city": "Jaipur",
+    "address": "Plot 463, Vaishali Nagar Lane, Jaipur - 113988",
+    "phone": "+91-9183991533",
+    "source": "TradeIndia",
+    "created_at": "2026-04-23T01:01:12.932225"
+  },
+  {
+    "business_name": "Sharma Pest Control Services",
+    "category": "Pest Control",
+    "city": "Nagpur",
+    "address": "Plot 559, Main Area Street, Nagpur - 291044",
+    "phone": "+91-8893269280",
+    "source": "Google Maps",
+    "created_at": "2026-03-04T02:01:12.932238"
+  },
+  {
+    "business_name": "Sri Menon Dental Clinic",
+    "category": "Dentist",
+    "city": "Visakhapatnam",
+    "address": "Plot 654, Main Area Lane, Visakhapatnam - 738562",
+    "phone": "+91-9339284199",
+    "source": "Sulekha",
+    "created_at": "2026-04-09T04:01:12.932250"
+  },
+  {
+    "business_name": "Royal Real Estate",
+    "category": "Real Estate Agent",
+    "city": "Coimbatore",
+    "address": "Plot 312, Station Road Lane, Coimbatore - 141401",
+    "phone": "+91-9390628984",
+    "source": "Justdial",
+    "created_at": "2026-03-28T00:01:12.932261"
+  },
+  {
+    "business_name": "Priya Reddy Law Firm",
+    "category": "Lawyer",
+    "city": "Hyderabad",
+    "address": "Plot 29, Kukatpally Nagar, Hyderabad - 561703",
+    "phone": "+91-7092867828",
+    "source": "Google Maps",
+    "created_at": "2026-04-12T08:01:12.932272"
+  },
+  {
+    "business_name": "Pooja Chauhan Beauty Salon",
+    "category": "Salon",
+    "city": "Indore",
+    "address": "Plot 962, Main Area Marg, Indore - 332572",
+    "phone": "+91-9696105808",
+    "source": "IndiaMART",
+    "created_at": "2026-03-23T20:01:12.932284"
+  },
+  {
+    "business_name": "Sri Shah Legal Associates",
+    "category": "Lawyer",
+    "city": "Kochi",
+    "address": "Plot 292, Central Road, Kochi - 976217",
+    "phone": "+91-8724621568",
+    "source": "Justdial",
+    "created_at": "2026-02-18T11:01:12.932296"
+  },
+  {
+    "business_name": "Sri Joshi Express",
+    "category": "Courier Service",
+    "city": "Jaipur",
+    "address": "Plot 730, C Scheme Lane, Jaipur - 867776",
+    "phone": "+91-7017784616",
+    "source": "IndiaMART",
+    "created_at": "2026-02-16T15:01:12.932308"
+  },
+  {
+    "business_name": "New Desai Clinic",
+    "category": "Doctor",
+    "city": "Nagpur",
+    "address": "Plot 237, Main Area Nagar, Nagpur - 229035",
+    "phone": "+91-9144561282",
+    "source": "Sulekha",
+    "created_at": "2026-05-11T21:01:12.932320"
+  },
+  {
+    "business_name": "Royal Tech Solutions",
+    "category": "Web Developer",
+    "city": "Coimbatore",
+    "address": "Plot 77, Main Area Colony, Coimbatore - 263846",
+    "phone": "+91-9813380650",
+    "source": "Sulekha",
+    "created_at": "2026-04-28T00:01:12.932331"
+  },
+  {
+    "business_name": "Kumar Garage",
+    "category": "Car Repair",
+    "city": "Chennai",
+    "address": "Plot 856, Adyar Marg, Chennai - 158248",
+    "phone": "+91-9795104614",
+    "source": "Sulekha",
+    "created_at": "2026-05-05T10:01:12.932342"
+  },
+  {
+    "business_name": "Joshi Plumbing Services",
+    "category": "Plumber",
+    "city": "Chennai",
+    "address": "Plot 332, Anna Nagar Nagar, Chennai - 167954",
+    "phone": "+91-9329181879",
+    "source": "Google Maps",
+    "created_at": "2026-04-04T21:01:12.932354"
+  },
+  {
+    "business_name": "New Iyer Logistics",
+    "category": "Courier Service",
+    "city": "Visakhapatnam",
+    "address": "Plot 14, Central Road, Visakhapatnam - 657924",
+    "phone": "+91-7052668637",
+    "source": "TradeIndia",
+    "created_at": "2026-02-20T13:01:12.932365"
+  },
+  {
+    "business_name": "Sri Mehta Celebrations",
+    "category": "Event Planner",
+    "city": "Bangalore",
+    "address": "Plot 768, HSR Layout Lane, Bangalore - 103845",
+    "phone": "+91-9478079777",
+    "source": "Sulekha",
+    "created_at": "2026-02-16T03:01:12.932377"
+  },
+  {
+    "business_name": "Amit Patil Health Center",
+    "category": "Doctor",
+    "city": "Chennai",
+    "address": "Plot 198, Mylapore Lane, Chennai - 680459",
+    "phone": "+91-9063893492",
+    "source": "Justdial",
+    "created_at": "2026-05-03T00:01:12.932388"
+  },
+  {
+    "business_name": "Sanjay's Realty",
+    "category": "Real Estate Agent",
+    "city": "Bhopal",
+    "address": "Plot 265, Central Marg, Bhopal - 644011",
+    "phone": "+91-9463266498",
+    "source": "Google Maps",
+    "created_at": "2026-03-30T07:01:12.932410"
+  },
+  {
+    "business_name": "Sri Patil Car Care",
+    "category": "Car Repair",
+    "city": "Indore",
+    "address": "Plot 863, Station Road Marg, Indore - 132088",
+    "phone": "+91-9499528290",
+    "source": "IndiaMART",
+    "created_at": "2026-03-27T04:01:12.932429"
+  },
+  {
+    "business_name": "Priya's Fit Zone",
+    "category": "Gym",
+    "city": "Mumbai",
+    "address": "Plot 189, Powai Marg, Mumbai - 568612",
+    "phone": "+91-9131426675",
+    "source": "TradeIndia",
+    "created_at": "2026-02-21T05:01:12.932442"
+  },
+  {
+    "business_name": "New Rao Events",
+    "category": "Event Planner",
+    "city": "Pune",
+    "address": "Plot 354, Koregaon Park Lane, Pune - 422718",
+    "phone": "+91-9721413251",
+    "source": "Google Maps",
+    "created_at": "2026-04-21T23:01:12.932454"
+  },
+  {
+    "business_name": "New Joshi Fit Zone",
+    "category": "Gym",
+    "city": "Kolkata",
+    "address": "Plot 946, Park Street Street, Kolkata - 578434",
+    "phone": "+91-9398706254",
+    "source": "TradeIndia",
+    "created_at": "2026-04-06T04:01:12.932465"
+  },
+  {
+    "business_name": "Sri Shah Event Management",
+    "category": "Event Planner",
+    "city": "Pune",
+    "address": "Plot 298, Hadapsar Lane, Pune - 579539",
+    "phone": "+91-9465460832",
+    "source": "Justdial",
+    "created_at": "2026-04-21T15:01:12.932478"
+  },
+  {
+    "business_name": "Royal Spa",
+    "category": "Salon",
+    "city": "Surat",
+    "address": "Plot 8, Main Area Road, Surat - 952426",
+    "phone": "+91-8711254734",
+    "source": "Sulekha",
+    "created_at": "2026-03-24T17:01:12.932491"
+  },
+  {
+    "business_name": "Royal Medical Center",
+    "category": "Doctor",
+    "city": "Pune",
+    "address": "Plot 16, Kothrud Street, Pune - 213302",
+    "phone": "+91-9192274019",
+    "source": "Justdial",
+    "created_at": "2026-05-10T05:01:12.932502"
+  },
+  {
+    "business_name": "Rekha's Foods",
+    "category": "Restaurant",
+    "city": "Bangalore",
+    "address": "Plot 193, Whitefield Enclave, Bangalore - 637047",
+    "phone": "+91-9398461071",
+    "source": "Sulekha",
+    "created_at": "2026-03-22T03:01:12.932513"
+  },
+  {
+    "business_name": "Arun Reddy Event Management",
+    "category": "Event Planner",
+    "city": "Chandigarh",
+    "address": "Plot 279, Station Road Nagar, Chandigarh - 151763",
+    "phone": "+91-9759724453",
+    "source": "Google Maps",
+    "created_at": "2026-04-18T11:01:12.932525"
+  },
+  {
+    "business_name": "Sri Iyer Classes",
+    "category": "Tutor",
+    "city": "Jaipur",
+    "address": "Plot 546, Tonk Road Lane, Jaipur - 735694",
+    "phone": "+91-9715302194",
+    "source": "Google Maps",
+    "created_at": "2026-05-08T22:01:12.932537"
+  },
+  {
+    "business_name": "Rahul's Pest Solutions",
+    "category": "Pest Control",
+    "city": "Visakhapatnam",
+    "address": "Plot 540, Station Road Colony, Visakhapatnam - 826286",
+    "phone": "+91-9855758557",
+    "source": "Justdial",
+    "created_at": "2026-04-19T02:01:12.932549"
+  },
+  {
+    "business_name": "New Patel Accounting Firm",
+    "category": "CA/Accountant",
+    "city": "Indore",
+    "address": "Plot 909, Main Area Road, Indore - 585552",
+    "phone": "+91-9155463748",
+    "source": "IndiaMART",
+    "created_at": "2026-02-21T02:01:12.932560"
+  },
+  {
+    "business_name": "Krishna's Pipe Solutions",
+    "category": "Plumber",
+    "city": "Delhi",
+    "address": "Plot 653, Saket Marg, Delhi - 412925",
+    "phone": "+91-9758999567",
+    "source": "Sulekha",
+    "created_at": "2026-04-21T09:01:12.932572"
+  },
+  {
+    "business_name": "Anjali's HygieneX",
+    "category": "Pest Control",
+    "city": "Vadodara",
+    "address": "Plot 392, Station Road Road, Vadodara - 581035",
+    "phone": "+91-7059131101",
+    "source": "Justdial",
+    "created_at": "2026-04-21T05:01:12.932583"
+  },
+  {
+    "business_name": "New Patel Hospital",
+    "category": "Doctor",
+    "city": "Bhopal",
+    "address": "Plot 150, Main Area Street, Bhopal - 268020",
+    "phone": "+91-9655901747",
+    "source": "Justdial",
+    "created_at": "2026-04-01T23:01:12.932596"
+  },
+  {
+    "business_name": "Sri Chauhan Express",
+    "category": "Courier Service",
+    "city": "Lucknow",
+    "address": "Plot 656, Aliganj Marg, Lucknow - 798296",
+    "phone": "+91-9427177092",
+    "source": "Google Maps",
+    "created_at": "2026-04-15T06:01:12.932608"
+  },
+  {
+    "business_name": "Sri Joshi Photo Works",
+    "category": "Photographer",
+    "city": "Kolkata",
+    "address": "Plot 709, Howrah Colony, Kolkata - 392555",
+    "phone": "+91-9012747524",
+    "source": "Sulekha",
+    "created_at": "2026-04-27T08:01:12.932619"
+  },
+  {
+    "business_name": "Neha Mehta Pest Solutions",
+    "category": "Pest Control",
+    "city": "Delhi",
+    "address": "Plot 996, Lajpat Nagar Colony, Delhi - 781151",
+    "phone": "+91-8779364676",
+    "source": "Sulekha",
+    "created_at": "2026-04-06T12:01:12.932631"
+  },
+  {
+    "business_name": "Sanjay's Decor House",
+    "category": "Interior Designer",
+    "city": "Pune",
+    "address": "Plot 817, Hadapsar Lane, Pune - 213057",
+    "phone": "+91-9677080440",
+    "source": "TradeIndia",
+    "created_at": "2026-04-29T22:01:12.932641"
+  },
+  {
+    "business_name": "New Menon Hair Studio",
+    "category": "Salon",
+    "city": "Chennai",
+    "address": "Plot 168, Adyar Road, Chennai - 342604",
+    "phone": "+91-9848770877",
+    "source": "TradeIndia",
+    "created_at": "2026-03-03T04:01:12.932653"
+  },
+  {
+    "business_name": "Royal Fitness Center",
+    "category": "Gym",
+    "city": "Ahmedabad",
+    "address": "Plot 223, Vastrapur Street, Ahmedabad - 273507",
+    "phone": "+91-9668893080",
+    "source": "Sulekha",
+    "created_at": "2026-04-20T21:01:12.932664"
+  },
+  {
+    "business_name": "Kavita's Medical Center",
+    "category": "Doctor",
+    "city": "Lucknow",
+    "address": "Plot 264, Aliganj Nagar, Lucknow - 788327",
+    "phone": "+91-8778935493",
+    "source": "Justdial",
+    "created_at": "2026-03-19T13:01:12.932677"
+  },
+  {
+    "business_name": "New Verma Homes",
+    "category": "Real Estate Agent",
+    "city": "Vadodara",
+    "address": "Plot 870, Main Area Marg, Vadodara - 725726",
+    "phone": "+91-8723779957",
+    "source": "TradeIndia",
+    "created_at": "2026-03-01T23:01:12.932689"
+  },
+  {
+    "business_name": "New Patel Accounting Firm",
+    "category": "CA/Accountant",
+    "city": "Hyderabad",
+    "address": "Plot 49, Gachibowli Nagar, Hyderabad - 773975",
+    "phone": "+91-9644388616",
+    "source": "Justdial",
+    "created_at": "2026-04-15T22:01:12.932700"
+  },
+  {
+    "business_name": "Krishna Kulkarni Motors",
+    "category": "Car Repair",
+    "city": "Noida",
+    "address": "Plot 233, Station Road Colony, Noida - 260069",
+    "phone": "+91-8873139814",
+    "source": "Sulekha",
+    "created_at": "2026-03-25T03:01:12.932715"
+  },
+  {
+    "business_name": "Iyer Tax Consultants",
+    "category": "CA/Accountant",
+    "city": "Bhopal",
+    "address": "Plot 462, Station Road Colony, Bhopal - 494778",
+    "phone": "+91-9861064699",
+    "source": "Google Maps",
+    "created_at": "2026-03-04T08:01:12.932726"
+  },
+  {
+    "business_name": "New Kumar Logistics",
+    "category": "Courier Service",
+    "city": "Surat",
+    "address": "Plot 570, Main Area Marg, Surat - 117666",
+    "phone": "+91-9383546413",
+    "source": "TradeIndia",
+    "created_at": "2026-05-04T10:01:12.932737"
+  },
+  {
+    "business_name": "Manoj Singh Plumbing Services",
+    "category": "Plumber",
+    "city": "Ahmedabad",
+    "address": "Plot 115, Satellite Road, Ahmedabad - 498655",
+    "phone": "+91-8714032439",
+    "source": "Google Maps",
+    "created_at": "2026-04-03T12:01:12.932749"
+  },
+  {
+    "business_name": "New Das Catering Co.",
+    "category": "Caterer",
+    "city": "Kolkata",
+    "address": "Plot 492, Park Street Marg, Kolkata - 128045",
+    "phone": "+91-9419049731",
+    "source": "Sulekha",
+    "created_at": "2026-04-23T00:01:12.932760"
+  },
+  {
+    "business_name": "Pooja's Logistics",
+    "category": "Courier Service",
+    "city": "Chandigarh",
+    "address": "Plot 397, Central Nagar, Chandigarh - 947023",
+    "phone": "+91-8724841333",
+    "source": "TradeIndia",
+    "created_at": "2026-04-09T19:01:12.932772"
+  },
+  {
+    "business_name": "Royal Electronics",
+    "category": "Electronics Repair",
+    "city": "Delhi",
+    "address": "Plot 794, Dwarka Nagar, Delhi - 899296",
+    "phone": "+91-9600938632",
+    "source": "IndiaMART",
+    "created_at": "2026-03-19T11:01:12.932784"
+  },
+  {
+    "business_name": "Kavita's Properties",
+    "category": "Real Estate Agent",
+    "city": "Nagpur",
+    "address": "Plot 906, Central Road, Nagpur - 222983",
+    "phone": "+91-9817923572",
+    "source": "Google Maps",
+    "created_at": "2026-03-31T14:01:12.932796"
+  },
+  {
+    "business_name": "Raj Rao Accounting Firm",
+    "category": "CA/Accountant",
+    "city": "Kochi",
+    "address": "Plot 15, Main Area Marg, Kochi - 378652",
+    "phone": "+91-9411760016",
+    "source": "Justdial",
+    "created_at": "2026-03-24T09:01:12.932807"
+  },
+  {
+    "business_name": "New Iyer & Associates",
+    "category": "CA/Accountant",
+    "city": "Bangalore",
+    "address": "Plot 463, Whitefield Road, Bangalore - 354205",
+    "phone": "+91-9072184742",
+    "source": "TradeIndia",
+    "created_at": "2026-04-16T09:01:12.932818"
+  },
+  {
+    "business_name": "New Desai Celebrations",
+    "category": "Event Planner",
+    "city": "Pune",
+    "address": "Plot 906, Hadapsar Nagar, Pune - 448245",
+    "phone": "+91-9027668133",
+    "source": "Justdial",
+    "created_at": "2026-03-02T21:01:12.932830"
+  },
+  {
+    "business_name": "Rekha Das HygieneX",
+    "category": "Pest Control",
+    "city": "Mumbai",
+    "address": "Plot 415, Borivali Marg, Mumbai - 735043",
+    "phone": "+91-8828797403",
+    "source": "Sulekha",
+    "created_at": "2026-05-03T06:01:12.932841"
+  },
+  {
+    "business_name": "New Singh Interiors",
+    "category": "Interior Designer",
+    "city": "Jaipur",
+    "address": "Plot 345, Mansarovar Nagar, Jaipur - 749555",
+    "phone": "+91-9153752092",
+    "source": "Sulekha",
+    "created_at": "2026-04-12T04:01:12.932855"
+  },
+  {
+    "business_name": "Swati's Interiors",
+    "category": "Interior Designer",
+    "city": "Nagpur",
+    "address": "Plot 601, Central Marg, Nagpur - 350900",
+    "phone": "+91-8721096839",
+    "source": "Justdial",
+    "created_at": "2026-03-28T02:01:12.932867"
+  },
+  {
+    "business_name": "Deepak Mehta Coaching Center",
+    "category": "Tutor",
+    "city": "Chennai",
+    "address": "Plot 879, Velachery Road, Chennai - 485462",
+    "phone": "+91-9165774098",
+    "source": "TradeIndia",
+    "created_at": "2026-03-08T03:01:12.932878"
+  },
+  {
+    "business_name": "Sri Menon Logistics",
+    "category": "Courier Service",
+    "city": "Bhopal",
+    "address": "Plot 749, Station Road Nagar, Bhopal - 360447",
+    "phone": "+91-8790011708",
+    "source": "Google Maps",
+    "created_at": "2026-04-07T14:01:12.932890"
+  },
+  {
+    "business_name": "Sri Das Hospital",
+    "category": "Doctor",
+    "city": "Noida",
+    "address": "Plot 439, Main Area Enclave, Noida - 869450",
+    "phone": "+91-9552276510",
+    "source": "Google Maps",
+    "created_at": "2026-04-13T15:01:12.932901"
+  },
+  {
+    "business_name": "Ashok Shah Design Studio",
+    "category": "Interior Designer",
+    "city": "Bangalore",
+    "address": "Plot 193, JP Nagar Lane, Bangalore - 339428",
+    "phone": "+91-9155078889",
+    "source": "IndiaMART",
+    "created_at": "2026-03-08T06:01:12.932913"
+  },
+  {
+    "business_name": "New Agarwal Hospital",
+    "category": "Doctor",
+    "city": "Kochi",
+    "address": "Plot 736, Station Road Colony, Kochi - 668755",
+    "phone": "+91-9490558355",
+    "source": "Sulekha",
+    "created_at": "2026-02-28T06:01:12.932929"
+  },
+  {
+    "business_name": "Royal Smile Studio",
+    "category": "Dentist",
+    "city": "Pune",
+    "address": "Plot 55, Koregaon Park Lane, Pune - 551382",
+    "phone": "+91-8842125104",
+    "source": "Justdial",
+    "created_at": "2026-02-28T21:01:12.932954"
+  },
+  {
+    "business_name": "Gupta Classes",
+    "category": "Tutor",
+    "city": "Vadodara",
+    "address": "Plot 560, Main Area Street, Vadodara - 613048",
+    "phone": "+91-9687596810",
+    "source": "Sulekha",
+    "created_at": "2026-02-13T03:01:12.932968"
+  },
+  {
+    "business_name": "Kulkarni Homes",
+    "category": "Real Estate Agent",
+    "city": "Vadodara",
+    "address": "Plot 763, Main Area Enclave, Vadodara - 888627",
+    "phone": "+91-9002776740",
+    "source": "Justdial",
+    "created_at": "2026-02-17T06:01:12.932979"
+  },
+  {
+    "business_name": "Sri Mehta Electricals",
+    "category": "Electrician",
+    "city": "Chandigarh",
+    "address": "Plot 74, Main Area Colony, Chandigarh - 597436",
+    "phone": "+91-9667648319",
+    "source": "Sulekha",
+    "created_at": "2026-04-09T06:01:12.932991"
+  },
+  {
+    "business_name": "Shah Electronics",
+    "category": "Electronics Repair",
+    "city": "Delhi",
+    "address": "Plot 359, Karol Bagh Road, Delhi - 819560",
+    "phone": "+91-9037090383",
+    "source": "Google Maps",
+    "created_at": "2026-05-07T16:01:12.933002"
+  },
+  {
+    "business_name": "Das Electrical Works",
+    "category": "Electrician",
+    "city": "Lucknow",
+    "address": "Plot 694, Gomti Nagar Street, Lucknow - 400980",
+    "phone": "+91-8795064118",
+    "source": "Google Maps",
+    "created_at": "2026-04-07T07:01:12.933014"
+  },
+  {
+    "business_name": "New Reddy Motors",
+    "category": "Car Repair",
+    "city": "Ahmedabad",
+    "address": "Plot 603, SG Highway Colony, Ahmedabad - 523881",
+    "phone": "+91-9646610381",
+    "source": "Sulekha",
+    "created_at": "2026-02-16T19:01:12.933026"
+  },
+  {
+    "business_name": "Patel Hospital",
+    "category": "Doctor",
+    "city": "Kochi",
+    "address": "Plot 497, Main Area Nagar, Kochi - 755298",
+    "phone": "+91-9546043659",
+    "source": "Sulekha",
+    "created_at": "2026-03-13T11:01:12.933040"
+  },
+  {
+    "business_name": "New Pillai Dental Care",
+    "category": "Dentist",
+    "city": "Visakhapatnam",
+    "address": "Plot 278, Central Colony, Visakhapatnam - 921009",
+    "phone": "+91-9780294030",
+    "source": "TradeIndia",
+    "created_at": "2026-04-14T14:01:12.933051"
+  },
+  {
+    "business_name": "Sri Menon Food Services",
+    "category": "Caterer",
+    "city": "Indore",
+    "address": "Plot 895, Station Road Colony, Indore - 473030",
+    "phone": "+91-9398995979",
+    "source": "TradeIndia",
+    "created_at": "2026-03-01T18:01:12.933063"
+  },
+  {
+    "business_name": "Sri Singh Garage",
+    "category": "Car Repair",
+    "city": "Vadodara",
+    "address": "Plot 500, Station Road Lane, Vadodara - 517057",
+    "phone": "+91-9425610159",
+    "source": "Justdial",
+    "created_at": "2026-04-24T22:01:12.933074"
+  },
+  {
+    "business_name": "Sri Kulkarni Studio",
+    "category": "Photographer",
+    "city": "Nagpur",
+    "address": "Plot 145, Central Street, Nagpur - 776964",
+    "phone": "+91-8735058384",
+    "source": "Justdial",
+    "created_at": "2026-03-11T03:01:12.933085"
+  },
+  {
+    "business_name": "New Pillai Caterers",
+    "category": "Caterer",
+    "city": "Delhi",
+    "address": "Plot 409, Dwarka Colony, Delhi - 123657",
+    "phone": "+91-9400138416",
+    "source": "IndiaMART",
+    "created_at": "2026-05-10T05:01:12.933099"
+  },
+  {
+    "business_name": "Sri Mishra Studio",
+    "category": "Photographer",
+    "city": "Kolkata",
+    "address": "Plot 320, Howrah Street, Kolkata - 261687",
+    "phone": "+91-8847790192",
+    "source": "IndiaMART",
+    "created_at": "2026-04-10T15:01:12.933110"
+  },
+  {
+    "business_name": "Priya's Plumbing Works",
+    "category": "Plumber",
+    "city": "Indore",
+    "address": "Plot 69, Central Marg, Indore - 199148",
+    "phone": "+91-7075734922",
+    "source": "Google Maps",
+    "created_at": "2026-03-12T13:01:12.933122"
+  },
+  {
+    "business_name": "Sri Patel IT Services",
+    "category": "Web Developer",
+    "city": "Delhi",
+    "address": "Plot 593, Connaught Place Colony, Delhi - 681171",
+    "phone": "+91-9028558430",
+    "source": "IndiaMART",
+    "created_at": "2026-05-02T04:01:12.933133"
+  },
+  {
+    "business_name": "Royal Accounting Firm",
+    "category": "CA/Accountant",
+    "city": "Chandigarh",
+    "address": "Plot 384, Station Road Road, Chandigarh - 206697",
+    "phone": "+91-9329670249",
+    "source": "TradeIndia",
+    "created_at": "2026-04-20T22:01:12.933144"
+  },
+  {
+    "business_name": "Iyer Learning Hub",
+    "category": "Tutor",
+    "city": "Hyderabad",
+    "address": "Plot 210, Banjara Hills Lane, Hyderabad - 473592",
+    "phone": "+91-9393546743",
+    "source": "Justdial",
+    "created_at": "2026-03-26T17:01:12.933155"
+  },
+  {
+    "business_name": "New Sharma Legal Associates",
+    "category": "Lawyer",
+    "city": "Delhi",
+    "address": "Plot 160, Karol Bagh Road, Delhi - 723765",
+    "phone": "+91-9806752764",
+    "source": "TradeIndia",
+    "created_at": "2026-03-23T15:01:12.933168"
+  },
+  {
+    "business_name": "New Patel Clicks",
+    "category": "Photographer",
+    "city": "Delhi",
+    "address": "Plot 561, Connaught Place Nagar, Delhi - 770758",
+    "phone": "+91-8739138991",
+    "source": "TradeIndia",
+    "created_at": "2026-02-27T13:01:12.933180"
+  },
+  {
+    "business_name": "Amit Mehta Celebrations",
+    "category": "Event Planner",
+    "city": "Coimbatore",
+    "address": "Plot 501, Station Road Road, Coimbatore - 469165",
+    "phone": "+91-9372561142",
+    "source": "Google Maps",
+    "created_at": "2026-03-11T08:01:12.933192"
+  },
+  {
+    "business_name": "Sri Desai Power Solutions",
+    "category": "Electrician",
+    "city": "Jaipur",
+    "address": "Plot 327, Tonk Road Enclave, Jaipur - 567205",
+    "phone": "+91-9440488027",
+    "source": "IndiaMART",
+    "created_at": "2026-03-13T04:01:12.933203"
+  },
+  {
+    "business_name": "Raj Agarwal Accounting Firm",
+    "category": "CA/Accountant",
+    "city": "Surat",
+    "address": "Plot 739, Main Area Street, Surat - 207969",
+    "phone": "+91-7050465268",
+    "source": "IndiaMART",
+    "created_at": "2026-05-11T02:01:12.933216"
+  },
+  {
+    "business_name": "New Pillai Dental Care",
+    "category": "Dentist",
+    "city": "Kochi",
+    "address": "Plot 164, Main Area Enclave, Kochi - 383589",
+    "phone": "+91-9616661735",
+    "source": "Google Maps",
+    "created_at": "2026-03-08T03:01:12.933227"
+  },
+  {
+    "business_name": "Sri Reddy Event Management",
+    "category": "Event Planner",
+    "city": "Kochi",
+    "address": "Plot 263, Station Road Road, Kochi - 449130",
+    "phone": "+91-9453823074",
+    "source": "TradeIndia",
+    "created_at": "2026-03-03T22:01:12.933239"
+  },
+  {
+    "business_name": "Royal Beauty Salon",
+    "category": "Salon",
+    "city": "Visakhapatnam",
+    "address": "Plot 928, Station Road Road, Visakhapatnam - 210464",
+    "phone": "+91-9488768730",
+    "source": "Sulekha",
+    "created_at": "2026-03-18T06:01:12.933250"
+  },
+  {
+    "business_name": "Royal & Advocates",
+    "category": "Lawyer",
+    "city": "Nagpur",
+    "address": "Plot 221, Main Area Road, Nagpur - 133716",
+    "phone": "+91-8732513802",
+    "source": "Justdial",
+    "created_at": "2026-03-24T18:01:12.933291"
+  },
+  {
+    "business_name": "New Verma Studio",
+    "category": "Photographer",
+    "city": "Pune",
+    "address": "Plot 114, Hinjewadi Street, Pune - 640884",
+    "phone": "+91-9556131588",
+    "source": "IndiaMART",
+    "created_at": "2026-03-31T10:01:12.933305"
+  },
+  {
+    "business_name": "Sri Mehta Decor House",
+    "category": "Interior Designer",
+    "city": "Nagpur",
+    "address": "Plot 414, Main Area Enclave, Nagpur - 178620",
+    "phone": "+91-9834741630",
+    "source": "IndiaMART",
+    "created_at": "2026-04-30T10:01:12.933317"
+  },
+  {
+    "business_name": "Nikhil's Tech Repair",
+    "category": "Electronics Repair",
+    "city": "Noida",
+    "address": "Plot 52, Main Area Enclave, Noida - 626270",
+    "phone": "+91-9891143910",
+    "source": "Google Maps",
+    "created_at": "2026-04-19T13:01:12.933328"
+  },
+  {
+    "business_name": "Royal Catering Co.",
+    "category": "Caterer",
+    "city": "Bhopal",
+    "address": "Plot 345, Main Area Lane, Bhopal - 241426",
+    "phone": "+91-9854619989",
+    "source": "TradeIndia",
+    "created_at": "2026-05-12T02:01:12.933340"
+  },
+  {
+    "business_name": "Royal Express",
+    "category": "Courier Service",
+    "city": "Delhi",
+    "address": "Plot 5, Karol Bagh Colony, Delhi - 512509",
+    "phone": "+91-7054156081",
+    "source": "Sulekha",
+    "created_at": "2026-04-15T14:01:12.933351"
+  },
+  {
+    "business_name": "Nair Express",
+    "category": "Courier Service",
+    "city": "Visakhapatnam",
+    "address": "Plot 399, Main Area Nagar, Visakhapatnam - 501725",
+    "phone": "+91-9405321315",
+    "source": "Justdial",
+    "created_at": "2026-04-03T04:01:12.933363"
+  },
+  {
+    "business_name": "New Patil Catering Co.",
+    "category": "Caterer",
+    "city": "Coimbatore",
+    "address": "Plot 496, Central Marg, Coimbatore - 669369",
+    "phone": "+91-9175639750",
+    "source": "Justdial",
+    "created_at": "2026-02-21T03:01:12.933374"
+  },
+  {
+    "business_name": "Sanjay Bhat Event Management",
+    "category": "Event Planner",
+    "city": "Kochi",
+    "address": "Plot 121, Station Road Colony, Kochi - 204952",
+    "phone": "+91-8831375254",
+    "source": "Justdial",
+    "created_at": "2026-05-03T09:01:12.933385"
+  },
+  {
+    "business_name": "Arun Das Interiors",
+    "category": "Interior Designer",
+    "city": "Kolkata",
+    "address": "Plot 959, New Town Marg, Kolkata - 394987",
+    "phone": "+91-7090428500",
+    "source": "Google Maps",
+    "created_at": "2026-03-23T18:01:12.933396"
+  },
+  {
+    "business_name": "Sanjay's Pest Solutions",
+    "category": "Pest Control",
+    "city": "Pune",
+    "address": "Plot 54, Viman Nagar Colony, Pune - 392696",
+    "phone": "+91-9851469005",
+    "source": "Sulekha",
+    "created_at": "2026-03-28T23:01:12.933407"
+  },
+  {
+    "business_name": "Nikhil Singh Properties",
+    "category": "Real Estate Agent",
+    "city": "Lucknow",
+    "address": "Plot 860, Indira Nagar Nagar, Lucknow - 955016",
+    "phone": "+91-9039658191",
+    "source": "TradeIndia",
+    "created_at": "2026-05-10T21:01:12.933419"
+  },
+  {
+    "business_name": "New Sharma Tech Repair",
+    "category": "Electronics Repair",
+    "city": "Ahmedabad",
+    "address": "Plot 11, Navrangpura Road, Ahmedabad - 397422",
+    "phone": "+91-9050992165",
+    "source": "Sulekha",
+    "created_at": "2026-02-23T14:01:12.933430"
+  },
+  {
+    "business_name": "New Sharma & Associates",
+    "category": "CA/Accountant",
+    "city": "Bhopal",
+    "address": "Plot 246, Station Road Nagar, Bhopal - 120296",
+    "phone": "+91-9683382083",
+    "source": "TradeIndia",
+    "created_at": "2026-04-06T08:01:12.933442"
+  },
+  {
+    "business_name": "Sri Agarwal Pest Solutions",
+    "category": "Pest Control",
+    "city": "Indore",
+    "address": "Plot 86, Central Lane, Indore - 235820",
+    "phone": "+91-9031506904",
+    "source": "Google Maps",
+    "created_at": "2026-04-02T14:01:12.933460"
+  },
+  {
+    "business_name": "Pooja's Express",
+    "category": "Courier Service",
+    "city": "Bangalore",
+    "address": "Plot 154, JP Nagar Road, Bangalore - 704505",
+    "phone": "+91-9083237883",
+    "source": "Sulekha",
+    "created_at": "2026-03-06T02:01:12.933478"
+  },
+  {
+    "business_name": "New Mishra Pest Solutions",
+    "category": "Pest Control",
+    "city": "Chandigarh",
+    "address": "Plot 864, Station Road Marg, Chandigarh - 241902",
+    "phone": "+91-9079350376",
+    "source": "Justdial",
+    "created_at": "2026-04-17T00:01:12.933492"
+  },
+  {
+    "business_name": "New Joshi Academy",
+    "category": "Tutor",
+    "city": "Bangalore",
+    "address": "Plot 944, JP Nagar Nagar, Bangalore - 546601",
+    "phone": "+91-8793808259",
+    "source": "Sulekha",
+    "created_at": "2026-02-20T12:01:12.933503"
+  },
+  {
+    "business_name": "Kulkarni Law Firm",
+    "category": "Lawyer",
+    "city": "Kolkata",
+    "address": "Plot 218, Park Street Colony, Kolkata - 192774",
+    "phone": "+91-9731186581",
+    "source": "IndiaMART",
+    "created_at": "2026-02-13T23:01:12.933516"
+  },
+  {
+    "business_name": "Suresh's Health Club",
+    "category": "Gym",
+    "city": "Surat",
+    "address": "Plot 994, Main Area Lane, Surat - 287661",
+    "phone": "+91-9726253192",
+    "source": "TradeIndia",
+    "created_at": "2026-03-22T22:01:12.933528"
+  },
+  {
+    "business_name": "Anita's Accounting Firm",
+    "category": "CA/Accountant",
+    "city": "Vadodara",
+    "address": "Plot 211, Station Road Street, Vadodara - 146802",
+    "phone": "+91-8749876129",
+    "source": "Google Maps",
+    "created_at": "2026-03-30T16:01:12.933539"
+  },
+  {
+    "business_name": "Sri Reddy Classes",
+    "category": "Tutor",
+    "city": "Kolkata",
+    "address": "Plot 840, Howrah Colony, Kolkata - 763827",
+    "phone": "+91-9790592141",
+    "source": "TradeIndia",
+    "created_at": "2026-02-20T23:01:12.933551"
+  },
+  {
+    "business_name": "New Kumar Law Firm",
+    "category": "Lawyer",
+    "city": "Pune",
+    "address": "Plot 196, Viman Nagar Lane, Pune - 123989",
+    "phone": "+91-8877751764",
+    "source": "Sulekha",
+    "created_at": "2026-02-17T22:01:12.933562"
+  },
+  {
+    "business_name": "New Das Power Solutions",
+    "category": "Electrician",
+    "city": "Coimbatore",
+    "address": "Plot 943, Main Area Lane, Coimbatore - 750829",
+    "phone": "+91-9184649566",
+    "source": "Sulekha",
+    "created_at": "2026-03-19T05:01:12.933573"
+  },
+  {
+    "business_name": "New Reddy Dental Care",
+    "category": "Dentist",
+    "city": "Ahmedabad",
+    "address": "Plot 867, Satellite Road, Ahmedabad - 394957",
+    "phone": "+91-9533441843",
+    "source": "TradeIndia",
+    "created_at": "2026-03-12T15:01:12.933585"
+  },
+  {
+    "business_name": "New Bhat IT Services",
+    "category": "Web Developer",
+    "city": "Delhi",
+    "address": "Plot 436, Connaught Place Road, Delhi - 523865",
+    "phone": "+91-9002206333",
+    "source": "TradeIndia",
+    "created_at": "2026-04-11T04:01:12.933596"
+  },
+  {
+    "business_name": "Neha Desai Law Firm",
+    "category": "Lawyer",
+    "city": "Vadodara",
+    "address": "Plot 271, Central Lane, Vadodara - 137125",
+    "phone": "+91-9179824928",
+    "source": "TradeIndia",
+    "created_at": "2026-03-01T10:01:12.933612"
+  },
+  {
+    "business_name": "Royal Homes",
+    "category": "Real Estate Agent",
+    "city": "Noida",
+    "address": "Plot 324, Main Area Enclave, Noida - 710963",
+    "phone": "+91-8859000623",
+    "source": "Sulekha",
+    "created_at": "2026-04-07T18:01:12.933623"
+  },
+  {
+    "business_name": "Royal Dining",
+    "category": "Restaurant",
+    "city": "Hyderabad",
+    "address": "Plot 117, Gachibowli Road, Hyderabad - 712448",
+    "phone": "+91-8728851574",
+    "source": "Sulekha",
+    "created_at": "2026-04-27T03:01:12.933635"
+  }
+]
